@@ -59,10 +59,10 @@ illustreranno gli step a breve, nel caso vi fosse interesse.
 
 Come pro vedo:
 
-- si può lavorare tutti sullo stesso file contemporaneamente (anche se è
-  *meglio suddividersi il lavoro*, es sulla base dei secondi del video,
-  per evitare di duplicare lo sforzo di traduzione), rendendo il tutto
-  più veloce;
+- se vi è priorità/urgenza, si può lavorare tutti sullo stesso file
+  contemporaneamente (anche se è *meglio suddividersi il lavoro*, es
+  sulla base dei secondi del video, per evitare di duplicare lo sforzo
+  di traduzione), rendendo il tutto più veloce;
 
 - mi pare tutto sommato abbastanza semplice (per problemi ditemi): in
   particolare i traduttori possono limitarsi a fare "solamente" i
