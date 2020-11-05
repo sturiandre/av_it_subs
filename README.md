@@ -71,6 +71,5 @@ Come pro vedo:
   "prima scelta" in traduzione (come il sottoscritto) si possono
   focalizzare su questi ultimi;
   
-- non serve software particolare;
-
-- non ci sono problemi di formato file / sistemi operativi differenti.
+- non serve software particolare, non problemi di formato file /
+  sistemi operativi differenti, no file "volanti" inviati per mail.
