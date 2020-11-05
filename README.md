@@ -42,7 +42,7 @@ Dopodiché loggarsi su GitHub e ...
 
 7. Fine!! Repeat da 1 per le prossime modifiche.
 
-In seguito io accetterò le modifiche, che saranno così integrate nella
+In seguito accetterò le modifiche che saranno così integrate nella
 versione lavorata in maniera collaborativa.
 Modifiche che impattino sulla sincronizzazione (ossia che vadano a
 modificare i secondi) saranno guardate con grande sospetto :)
@@ -72,4 +72,7 @@ Come pro vedo:
   focalizzare su questi ultimi;
   
 - non serve software particolare, non problemi di formato file /
-  sistemi operativi differenti, no file "volanti" inviati per mail.
+  sistemi operativi differenti, no file "volanti" inviati per mail;
+
+- immediato lo stato di avanzamento delle varie traduzioni, anche più
+  facile prioritarizzare.
