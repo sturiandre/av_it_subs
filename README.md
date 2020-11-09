@@ -73,7 +73,7 @@ Questo è quello che troverete:
 Quello che dovrete fare è la cosa seguente: 
 * lasciare tutto immutato;
 * aggiungere la linea tradotta in italiano sotto a quella inglese;
-* lasciare sempre una linea di spazio.
+* lasciare sempre una linea di spazio alla fine.
 
 Come segue:
 ```
@@ -126,7 +126,7 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 	Verrà risposto (quanto prima) un messaggio del tipo:
 	
 	```
-	hnva2/012005_luca_braglia
+	hnva2/012000_luca_braglia
 	```
 	che sta a significare: ti è stato assegnato
 	
