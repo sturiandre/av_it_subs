@@ -12,7 +12,11 @@ sandbox:
 	git commit -m "sandbox/$(USR).srt"
 
 # target per creare il srt a fine traduzione, per i revisors
-# da rimpiazzare con qualcosa che validi l'input e imprechi a dovere
-srt:
-	cat $(PRJ)/* | grep -v "##" > $(PRJ)/$(PRJ).srt
+revision_srt:
+	cat $(PRJ)/*  > $(PRJ)/$(PRJ)_for_revision.srt
 
+# da rimpiazzare con qualcosa che faccia il parsing ed elimini sia ## che linee
+# bianche in eccesso
+final_srt:
+	cat $(PRJ)/$(PRJ)_for_revision.srt |  \
+	grep -v "##" > $(PRJ)/$(PRJ)_final.srt
