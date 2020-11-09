@@ -5,9 +5,9 @@
 
 Per poter contribuire alla traduzione occorre innanzitutto:
 
-1. creare (gratuitamente) un account [GitHub](https://www.github.com) ("Sign
+1. creare (gratuitamente) un account su [GitHub](https://www.github.com) ("Sign
    Up" e seguire la procedura sino a verificare la mail);
-2. leggere attentamente il [vademecum](vademecum.md); per eventuali
+2. leggere attentamente il [vademecum](vademecum.md): per eventuali
    dubbi chiedere nella chat Telegram;
 3. Nella chat telegram dare il "comando":
 
@@ -57,7 +57,7 @@ Questo è quello a cui dobbiamo, *alla fine di tutto*, arrivare.
 
 ## Come/cosa modificare
 Per permettere la **revisione** delle traduzioni noi lavoreremo su un file
-lievemente diverso, che includa sia l'originale che la traduzione.
+*lievemente diverso*, che includa sia l'originale che la traduzione.
 Questo è quello che troverete:
 ```
 3
@@ -142,7 +142,7 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
    istruzioni);
 
 4. cliccare poi sul nome del file che ti è stato assegnato: 
-   ossia `012005_luca_braglia`;
+   ossia `012000_luca_braglia`;
 
 5. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e `Blame`)
    per modificare il file;
