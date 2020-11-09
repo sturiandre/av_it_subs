@@ -1,4 +1,4 @@
-.PHONY: sandbox
+.PHONY: sandbox srt
 
 USR=test
 PRJ=test
