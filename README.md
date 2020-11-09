@@ -9,7 +9,7 @@ Per poter contribuire alla traduzione occorre innanzitutto:
    Up" e seguire la procedura sino a verificare la mail);
 2. leggere attentamente il [vademecum](vademecum.md): per eventuali
    dubbi chiedere nella chat Telegram;
-3. Nella chat telegram dare il "comando":
+3. Nella chat Telegram dare il "comando":
 
 	```
 	@lucailgarb sandbox
@@ -117,7 +117,7 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
    conservate le traduzioni (aggiungerla ai preferiti è comodo);
 
-2. nella chat telegram dare il "comando":
+2. nella chat Telegram dare il "comando":
 
 	```
 	@lucailgarb translate
