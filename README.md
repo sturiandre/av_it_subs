@@ -9,14 +9,15 @@ Per poter contribuire alla traduzione occorre innanzitutto:
    Up" e seguire la procedura sino a verificare la mail);
 2. leggere attentamente il [vademecum](vademecum.md); per eventuali
    dubbi chiedere nella chat Telegram;
-3. Nella chat telegram dare il "comando"
+3. Nella chat telegram dare il "comando":
 
 	```
 	@lucailgarb sandbox
 	```
-	per richiedere la predisposizione di un file di prova per editing
-	dei sottotitoli (prima di passare alle modifiche sui subs originali)
-	Tradurlo e sottomettere la revisione, come illustrato sotto.
+	per richiedere la predisposizione di una prova per editing
+	dei sottotitoli (prima di passare alle modifiche sui subs ufficiali)
+	Verrà risposto un nome file: tradurlo e sottomettere la revisione, 
+	come illustrato di sotto.
 	
 
 ## Formato sottotitoli 
@@ -47,15 +48,16 @@ QUESTA È UNA PRATICA STANDARD
 
 Vi è dunque:
 * un numero progressivo del sottotitolo
-* i secondi di inizio e fine per la visualizzazione
-* il testo (che può essere organizzato su più righe
+* i secondi di inizio e fine della sua visualizzazione
+* il testo (che può essere organizzato su più righe)
 * una linea bianca di separazione
+Questo è quello a cui dobbiamo, *alla fine di tutto*, arrivare.
+
 
 ## Come/cosa modificare
-Per permettere la revisione delle traduzioni noi lavoreremo su un file
-lievemente diverso che include sia l'originale che la traduzione, come segue. 
-
-Questo è quello che troverete
+Per permettere la **revisione** delle traduzioni noi lavoreremo su un file
+lievemente diverso, che includa sia l'originale che la traduzione.
+Questo è quello che troverete:
 ```
 3
 00:00:33,000 --> 00:00:49,000
@@ -68,10 +70,10 @@ Questo è quello che troverete
 ```
 
 Quello che dovrete fare è la cosa seguente: 
-* lasciare tutto il resto immutato
-* aggiungere la linea tradotta in italiano sotto a quella inglese
-* lasciare sempre una linea di spazio
-
+* lasciare tutto immutato;
+* aggiungere la linea tradotta in italiano sotto a quella inglese;
+* lasciare sempre una linea di spazio.
+Come segue:
 ```
 3
 00:00:33,000 --> 00:00:49,000
@@ -85,12 +87,28 @@ QUESTA È UNA PRATICA STANDARD
 
 ```
 
+Infine nella traduzione occorre rispettare lo stile
+maiuscolo/minuscolo e l'eventuale splitting su più righe, ossia è
+corretto procedere come segue:
+```
+## THIS IS STANDARD PRACTICE
+QUESTA È UNA PRATICA STANDARD
 
+## This is standard practice
+Questa è una pratica standard
+
+## This is a very very
+## long subtitle
+Questo è un sottotitolo
+verameeente lungo
+
+```
 
 
 ## Istruzioni per i traduttori
 
-Quando si ha disponibilità per traduzione e si è "passata" la fase di sandbox
+Per tradurre (o anche per la fase di sandbox, cambiando solo il
+"comando" della chat Telegram):
 
 0. Effettuare il login su GitHub 
 
@@ -103,7 +121,7 @@ Quando si ha disponibilità per traduzione e si è "passata" la fase di sandbox
 	@lucailgarb translate
 	```
 	Per richiedere l'assegnazione di un file da tradurre.
-	Verrà risposto un messaggio del tipo
+	Verrà risposto (quanto prima) un messaggio del tipo:
 	
 	```
 	hnva2/012005_luca_braglia
@@ -111,8 +129,8 @@ Quando si ha disponibilità per traduzione e si è "passata" la fase di sandbox
 	che sta a significare: ti è stato assegnato
 	
 	* il file
-	`012005_luca_braglia` (ossia in pratica uno spezzone di sottotitoli
-	che inizia approssimativamente a 01:20:05 nel video) ...
+	`012000_luca_braglia` (ossia in pratica uno spezzone di sottotitoli
+	che inizia approssimativamente a `01:20:00` nel video) ...
 	* ... nella cartella `hnva2` 
 	(da "Holding Non-Vegans Accountable 2.0")
 
@@ -135,10 +153,10 @@ Quando si ha disponibilità per traduzione e si è "passata" la fase di sandbox
 
 8. Fine!! Repeat da 2 per le prossime modifiche.
 
-In seguito a revisione di minima (e non sull'inglese) le modifiche
-saranno accettate ed integrate.  Modifiche che impattino su qualsiasi
-cosa diversa dalla traduzione (es progressivo sottotitolo, secondi)
-saranno verosimilmente rifiutate.
+In seguito a revisione informatica di minima (non sulla traduzione,
+almeno nell'immediato) le modifiche saranno accettate ed integrate.
+Modifiche che impattino su qualsiasi cosa diversa dalla traduzione (es
+progressivo sottotitolo, secondi) saranno verosimilmente rifiutate.
 
 
 <!-- ## Considerazioni sul workflow -->
