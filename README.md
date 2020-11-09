@@ -112,7 +112,7 @@ verameeente lungo
 Per tradurre (o anche per la fase di sandbox, cambiando solo il
 "comando" della chat Telegram):
 
-0. Effettuare il login su [GitHub](https://www.github.com);
+0. da computer, effettuare il login su [GitHub](https://www.github.com);
 
 1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
    conservate le traduzioni (aggiungerla ai preferiti è comodo);
