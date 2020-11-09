@@ -9,7 +9,7 @@ Per poter contribuire alla traduzione occorre innanzitutto:
    Up" e seguire la procedura sino a verificare la mail);
 2. leggere attentamente il [vademecum](vademecum.md): per eventuali
    dubbi chiedere nella chat Telegram;
-3. Nella chat Telegram dare il "comando":
+3. nella chat Telegram, dare il "comando":
 
 	```
 	@lucailgarb sandbox
@@ -158,7 +158,7 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 8. cliccare su `Propose Changes`, poi sul pulsante verde `Create Pull Request`
    e ancora `Create pull request`;
 
-9. Fine!! Repeat da 2 per le prossime modifiche.
+9. fine!! Repeat da 2 per le prossime modifiche.
 
 In seguito a revisione informatica di minima (non sulla traduzione,
 almeno nell'immediato) le modifiche saranno accettate ed integrate.
