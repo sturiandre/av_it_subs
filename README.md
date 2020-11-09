@@ -5,7 +5,7 @@
 
 Per poter contribuire alla traduzione occorre innanzitutto:
 
-1. creare (gratuitamente) un account [GitHub](www.github.com) ("Sign
+1. creare (gratuitamente) un account [GitHub](https://www.github.com) ("Sign
    Up" e seguire la procedura sino a verificare la mail);
 2. leggere attentamente il [vademecum](vademecum.md); per eventuali
    dubbi chiedere nella chat Telegram;
@@ -14,8 +14,8 @@ Per poter contribuire alla traduzione occorre innanzitutto:
 	```
 	@lucailgarb sandbox
 	```
-	per richiedere la predisposizione di una prova per editing
-	dei sottotitoli (prima di passare alle modifiche sui subs ufficiali)
+	per richiedere la predisposizione di un file di prova (prima di
+	passare alle modifiche sui subs ufficiali).
 	Verrà risposto un nome file: tradurlo e sottomettere la revisione, 
 	come illustrato di sotto.
 	
@@ -47,10 +47,11 @@ QUESTA È UNA PRATICA STANDARD
 ```
 
 Vi è dunque:
-* un numero progressivo del sottotitolo
-* i secondi di inizio e fine della sua visualizzazione
-* il testo (che può essere organizzato su più righe)
-* una linea bianca di separazione
+* un numero progressivo del sottotitolo;
+* i secondi di inizio e fine della sua visualizzazione;
+* il testo (che può essere organizzato su più righe);
+* una linea bianca di separazione.
+
 Questo è quello a cui dobbiamo, *alla fine di tutto*, arrivare.
 
 
@@ -73,6 +74,7 @@ Quello che dovrete fare è la cosa seguente:
 * lasciare tutto immutato;
 * aggiungere la linea tradotta in italiano sotto a quella inglese;
 * lasciare sempre una linea di spazio.
+
 Come segue:
 ```
 3
@@ -110,12 +112,12 @@ verameeente lungo
 Per tradurre (o anche per la fase di sandbox, cambiando solo il
 "comando" della chat Telegram):
 
-0. Effettuare il login su GitHub 
+0. Effettuare il login su [GitHub](https://www.github.com);
 
-1. aprire la pagina https://github.com/lbraglia/av_it_subs dove sono
+1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
    conservate le traduzioni (aggiungerla ai preferiti è comodo);
 
-2. nella chat telegram dare il "comando"
+2. nella chat telegram dare il "comando":
 
 	```
 	@lucailgarb translate
@@ -130,28 +132,33 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 	
 	* il file
 	`012000_luca_braglia` (ossia in pratica uno spezzone di sottotitoli
-	che inizia approssimativamente a `01:20:00` nel video) ...
-	* ... nella cartella `hnva2` 
-	(da "Holding Non-Vegans Accountable 2.0")
+	che inizia approssimativamente a `01:20:00` nel video);
+	* residente nella cartella `hnva2` 
+	(da "Holding Non-Vegans Accountable 2.0").
 
-3. cliccare dunque sulla cartella (`hnva2` nell'esempio) e poi sul 
-   nome del file che ti è stato assegnato `012005_luca_braglia`);
+3. cliccare dunque sul nome della cartella (`hnva2` nell'esempio) per
+   entrarci: si trova all'inizio di questa pagina (di sopra), nel
+   riquadro dove sono elencati cartelle/file (prime di queste
+   istruzioni);
 
-4. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e `Blame`)
+4. cliccare poi sul nome del file che ti è stato assegnato: 
+   ossia `012005_luca_braglia`;
+
+5. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e `Blame`)
    per modificare il file;
 
-5. fare le modifiche/tradurre. Se si vuole avere un sommario delle modifiche
+6. fare le modifiche/tradurre. Se si vuole avere un sommario delle modifiche
    effettuate spostarsi nel tab `Preview changes`;
 
-6. una volta terminata la modifica, scorrere in basso nella pagina,
+7. una volta terminata la modifica, scorrere in basso nella pagina,
    verso la sezione `Propose changes`: in `Update XX` dare un titolo
    alla modifica che si è fatta (es `Update Dairy`) e sotto aggiungere
    una eventuale descrizione/specifica (es `fixed typos`);
 
-7. cliccare su `Propose Changes`, poi sul pulsante verde `Create Pull Request`
+8. cliccare su `Propose Changes`, poi sul pulsante verde `Create Pull Request`
    e ancora `Create pull request`;
 
-8. Fine!! Repeat da 2 per le prossime modifiche.
+9. Fine!! Repeat da 2 per le prossime modifiche.
 
 In seguito a revisione informatica di minima (non sulla traduzione,
 almeno nell'immediato) le modifiche saranno accettate ed integrate.
