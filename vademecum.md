@@ -1,3 +1,3 @@
-# Vademecum (obbligatorio) traduzione
+# Vademecum traduzione
 
 
