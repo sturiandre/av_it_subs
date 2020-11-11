@@ -7,9 +7,12 @@ Per poter contribuire alla traduzione occorre innanzitutto:
 
 1. creare (gratuitamente) un account su [GitHub](https://www.github.com) ("Sign
    Up" e seguire la procedura sino a verificare la mail);
-2. leggere attentamente il [vademecum](vademecum.md): per eventuali
-   dubbi chiedere nella chat Telegram;
-3. nella chat Telegram, dare il "comando":
+
+2. leggere attentamente il pdf di linee guida alla traduzione,
+   disponibile nel gruppo Telegram "AV: Traduttori e Revisori"
+   (messaggio fissato): per eventuali dubbi chiedere in tale chat;
+
+3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
 
 	```
 	@lucailgarb sandbox
@@ -117,7 +120,7 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
    conservate le traduzioni (aggiungerla ai preferiti è comodo);
 
-2. nella chat Telegram dare il "comando":
+2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" dare il "comando":
 
 	```
 	@lucailgarb translate
@@ -126,12 +129,12 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 	Verrà risposto (quanto prima) un messaggio del tipo:
 	
 	```
-	hnva2/012000_luca_braglia
+	hnva2/subs_012000_luca_braglia
 	```
 	che sta a significare: ti è stato assegnato
 	
 	* il file
-	`012000_luca_braglia` (ossia in pratica uno spezzone di sottotitoli
+	`subs_012000_luca_braglia` (ossia in pratica uno spezzone di sottotitoli
 	che inizia approssimativamente a `01:20:00` nel video);
 	* residente nella cartella `hnva2` 
 	(da "Holding Non-Vegans Accountable 2.0").
@@ -142,7 +145,7 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
    istruzioni);
 
 4. cliccare poi sul nome del file che ti è stato assegnato: 
-   ossia `012000_luca_braglia`;
+   ossia `subs_012000_luca_braglia`;
 
 5. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e `Blame`)
    per modificare il file;
