@@ -150,8 +150,10 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 4. cliccare poi sul nome del file che ti è stato assegnato: 
    ossia `subs_012000_luca_braglia`;
 
-5. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e `Blame`)
-   per modificare il file;
+5. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
+   `Blame`) per modificare il file. Non preoccuparsi del messaggio
+   "You are making changes in a project you don't have write
+   access...";
 
 6. fare le modifiche/tradurre. Se si vuole avere un sommario delle modifiche
    effettuate spostarsi nel tab `Preview changes`;
