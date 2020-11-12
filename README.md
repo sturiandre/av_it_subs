@@ -1,7 +1,7 @@
 # AV subs (IT)
 
 
-## Setup
+## Setup/Overview
 
 Per poter contribuire alla traduzione, dopo aver letto le linee guida
 del gruppo Telegram "AV: Traduttori e Revisori", occorre:
@@ -17,8 +17,9 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
 	per richiedere la predisposizione di un file di prova (prima di
 	passare alle modifiche sui subs ufficiali).
 	
-	Verrà risposto un nome file: tradurlo e sottomettere la revisione, 
-	come illustrato nel seguito. 
+	Verrà risposto un nome file: tradurlo e sottomettere la revisione,
+	*come illustrato nel seguito* (occorre leggere fino a fine pagina
+	per saper cosa/come fare).
 	
 	Quando ci si sente ragionevolmente a proprio agio con la procedura
     di modifica/sottomissione (si può chiedere `sandbox` più volte) si
