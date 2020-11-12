@@ -14,8 +14,9 @@ sandbox:
 	git commit -m "sandbox/$(USR).srt"
 
 # target per splittare un file origine in inglese in più filettini
+# es: make split PRJ=hnva2 YT=cJ9kGZMbyVw
 split:
-	${RSCRIPT} -e "library(lbav); srt_en <- read_srt('source/${PRJ}_en.srt'); srt_it <- read_srt('source/${PRJ}_it.srt'); chunks <- av_srt_chunk_maker(srt_en = srt_en, srt_it = srt_it); tmp <- lapply(chunks, av_srt_chunk_printer, con_des = 'file', output_dir = '${PRJ}')"
+	${RSCRIPT} -e "library(lbav); srt_en <- read_srt('source/${PRJ}_en.srt'); srt_it <- read_srt('source/${PRJ}_it.srt'); chunks <- av_srt_chunk_maker(srt_en = srt_en, srt_it = srt_it, yt_id = '${YT}'); tmp <- lapply(chunks, av_srt_chunk_printer, con_des = 'file', output_dir = '${PRJ}')"
 
 # incolla filettini e crea srt finale
 srt:
