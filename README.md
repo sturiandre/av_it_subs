@@ -174,10 +174,10 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 
 9. fine!! Repeat da 2 per le prossime modifiche.
 
-In seguito a revisione informatica di minima (non sulla traduzione,
-almeno nell'immediato) le modifiche saranno accettate ed integrate.
-Modifiche che impattino su qualsiasi cosa diversa dalla traduzione (es
-progressivo sottotitolo, secondi) saranno verosimilmente rifiutate.
+In seguito a revisione informatica di minima le modifiche saranno
+accettate ed integrate.  Modifiche che impattino su qualsiasi cosa
+diversa dalla traduzione (es progressivo sottotitolo, secondi) saranno
+verosimilmente rifiutate.
 
 
 <!-- ## Considerazioni sul workflow -->
