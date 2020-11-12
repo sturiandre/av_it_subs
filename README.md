@@ -16,11 +16,16 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
 	```
 	per richiedere la predisposizione di un file di prova (prima di
 	passare alle modifiche sui subs ufficiali).
+	
 	Verrà risposto un nome file: tradurlo e sottomettere la revisione, 
-	come illustrato nel seguito.
+	come illustrato nel seguito. 
+	
+	Quando ci si sente ragionevolmente a proprio agio con la procedura
+    di modifica/sottomissione (si può chiedere `sandbox` più volte) si
+    può passare allo step successivo;
 
-3. in seguito sarà possibile richiedere l'assegnazione di uno
-   spezzone di sottotitoli mediante
+3. per richiedere l'assegnazione di uno spezzone di sottotitoli dare
+   il comando:
    
 	```
 	@lucailgarb translate
