@@ -3,16 +3,13 @@
 
 ## Setup
 
-Per poter contribuire alla traduzione occorre innanzitutto:
+Per poter contribuire alla traduzione, dopo aver letto le linee guida
+del gruppo Telegram "AV: Traduttori e Revisori", occorre:
 
 1. creare (gratuitamente) un account su [GitHub](https://www.github.com) ("Sign
    Up" e seguire la procedura sino a verificare la mail);
 
-2. leggere attentamente il pdf di linee guida alla traduzione,
-   disponibile nel gruppo Telegram "AV: Traduttori e Revisori"
-   (messaggio fissato): per eventuali dubbi chiedere in tale chat;
-
-3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
+2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
 
 	```
 	@lucailgarb sandbox
@@ -20,8 +17,14 @@ Per poter contribuire alla traduzione occorre innanzitutto:
 	per richiedere la predisposizione di un file di prova (prima di
 	passare alle modifiche sui subs ufficiali).
 	Verrà risposto un nome file: tradurlo e sottomettere la revisione, 
-	come illustrato di sotto.
-	
+	come illustrato nel seguito.
+
+3. in seguito sarà possibile richiedere l'assegnazione di uno
+   spezzone di sottotitoli mediante
+   
+	```
+	@lucailgarb translate
+	```
 
 ## Formato sottotitoli 
 
