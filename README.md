@@ -144,7 +144,7 @@ Per lavorare alle traduzioni:
 	@lucailgarb #translate
 	```
 	Per richiedere l'assegnazione di un file da tradurre.
-	Verrà risposto (quanto prima) un messaggio con la localizzazione del 
+	Verrà risposto (quanto prima) un messaggio con la posizione del 
 	file da tradurre, del tipo:
 	
 	```
@@ -152,37 +152,36 @@ Per lavorare alle traduzioni:
 	```
 	che sta a significare: ti è stato assegnato
 	
-	* il file `subs_012000_luca_braglia` (ossia in pratica uno
+	* il file `subs_012000_luca_braglia` (uno
 	spezzone di sottotitoli che inizia approssimativamente a
-	`01:20:00` nel video);
+	`01:20:00` nel video) ...
 	* che si trova nella cartella `hnva2` (che contiene i sottotitoli
-	per "Holding Non-Vegans Accountable 2.0")
-	* che a sua volta è posta nella cartella che racchiude tutti i
-	sottotitoli (di tutti i video), ossia `subs`.
+	per "Holding Non-Vegans Accountable 2.0") ...
+	* posta nella cartella `subs`, che racchiude tutti i
+	sottotitoli di tutti i video.
 
-3. cliccare dunque sulla cartella `subs` e poi sulla cartella `hnva2`
-   (nell'esempio) per trovare il proprio file;
+3. cliccare quindi sulla cartella `subs`, poi sulla cartella del video
+   (`hnva2` nell'esempio) e poi sul nome del file che ci è stato
+   assegnato (`subs_012000_luca_braglia`);
 
-4. trovare e cliccare poi sul nome del file che ci è stato assegnato
-   (`subs_012000_luca_braglia` nell'esempio);
+4. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
+   `Blame`) per modificare il file. 
+   
+   Non preoccuparsi del messaggio "You are making changes in a project
+   you don't have write access...";
 
-5. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
-   `Blame`) per modificare il file. Non preoccuparsi del messaggio
-   "You are making changes in a project you don't have write
-   access...";
-
-6. fare le modifiche/tradurre. Se si vuole avere un sommario delle modifiche
+5. fare le modifiche/tradurre. Se si vuole avere un sommario delle modifiche
    effettuate spostarsi nel tab `Preview changes`;
 
-7. una volta terminata la modifica, scorrere in basso nella pagina,
+6. una volta terminata la modifica, scorrere in basso nella pagina,
    verso la sezione `Propose changes`: in `Update XX` dare un titolo
    alla modifica che si è fatta (es `Update Dairy`) e sotto aggiungere
    una eventuale descrizione/specifica (es `fixed typos`);
 
-8. cliccare su `Propose Changes`, poi sul pulsante verde `Create Pull Request`
+7. cliccare su `Propose Changes`, poi sul pulsante verde `Create Pull Request`
    e ancora `Create pull request`;
 
-9. fine!! Repeat da 2 per le prossime modifiche.
+8. fine!! Repeat da 2 per le prossime modifiche.
 
 In seguito a revisione informatica di minima le modifiche saranno
 accettate ed integrate.  Modifiche che impattino su qualsiasi cosa
