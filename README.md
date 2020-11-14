@@ -205,9 +205,12 @@ Per lavorare alle traduzioni:
 
 	![subs dir](img/pull_request2.png)
 
-9. fine!! 
+9. fine!! In seguito a revisione informatica di minima le modifiche
+   saranno accettate ed integrate.  Modifiche che impattino su qualsiasi
+   cosa diversa dalla traduzione (es progressivo sottotitolo, secondi)
+   saranno verosimilmente rifiutate.
 
-	Se si è *terminato il proprio file* la prossima sessione re-iniziare
+	Ora, se si è *terminato il proprio file* la prossima sessione re-iniziare
     da 2 per chiedere un nuovo file da modificare.
 	
 	Alternativamente *se occorre finire il file assegnato*,
@@ -215,10 +218,6 @@ Per lavorare alle traduzioni:
     apportate non saranno visualizzate se non saranno state da me già
     approvate, ma tuttavia sono state sottomesse/non perse)
 
-In seguito a revisione informatica di minima le modifiche saranno
-accettate ed integrate.  Modifiche che impattino su qualsiasi cosa
-diversa dalla traduzione (es progressivo sottotitolo, secondi) saranno
-verosimilmente rifiutate.
 
 
 <!-- ## Considerazioni sul workflow -->
