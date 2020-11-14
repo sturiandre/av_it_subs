@@ -12,7 +12,7 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
 2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
 
 	```
-	@lucailgarb sandbox
+	@lucailgarb #sandbox
 	```
 	per richiedere la predisposizione di un file di prova (prima di
 	passare alle modifiche sui subs ufficiali).
@@ -29,7 +29,7 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
    il comando:
    
 	```
-	@lucailgarb translate
+	@lucailgarb #translate
 	```
 
 ## Formato sottotitoli 
@@ -132,7 +132,7 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" dare il "comando":
 
 	```
-	@lucailgarb translate
+	@lucailgarb #translate
 	```
 	Per richiedere l'assegnazione di un file da tradurre.
 	Verrà risposto (quanto prima) un messaggio del tipo:
