@@ -131,10 +131,9 @@ verameeente lungo
 
 ## Istruzioni per i traduttori
 
-Per tradurre (o anche per la fase di sandbox, cambiando solo il
-"comando" della chat Telegram):
+Per lavorare alle traduzioni:
 
-0. da computer, effettuare il login su [GitHub](https://www.github.com);
+0. da **computer**, effettuare il login su [GitHub](https://www.github.com);
 
 1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
    conservate le traduzioni (aggiungerla ai preferiti è comodo);
@@ -148,23 +147,23 @@ Per tradurre (o anche per la fase di sandbox, cambiando solo il
 	Verrà risposto (quanto prima) un messaggio del tipo:
 	
 	```
-	hnva2/subs_012000_luca_braglia
+	subs/hnva2/subs_012000_luca_braglia
 	```
 	che sta a significare: ti è stato assegnato
 	
-	* il file
-	`subs_012000_luca_braglia` (ossia in pratica uno spezzone di sottotitoli
-	che inizia approssimativamente a `01:20:00` nel video);
-	* residente nella cartella `hnva2` 
-	(da "Holding Non-Vegans Accountable 2.0").
+	* il file `subs_012000_luca_braglia` (ossia in pratica uno
+	spezzone di sottotitoli che inizia approssimativamente a
+	`01:20:00` nel video);
+	* che si trova nella cartella `hnva2` (da "Holding Non-Vegans
+	Accountable 2.0")
+	* che a sua volta è posta nella cartella che racchiude tutti i
+	sottotitoli (di tutti i video), ossia `subs`.
 
-3. cliccare dunque sul nome della cartella (`hnva2` nell'esempio) per
-   entrarci: si trova all'inizio di questa pagina (di sopra), nel
-   riquadro dove sono elencati cartelle/file (prime di queste
-   istruzioni);
+3. cliccare dunque sulla cartella `subs` e poi sulla cartella `hnva2`
+   (nell'esempio) per trovare il proprio file;
 
-4. cliccare poi sul nome del file che ti è stato assegnato: 
-   ossia `subs_012000_luca_braglia`;
+4. trovare e cliccare poi sul nome del file che ci è stato assegnato
+   (`subs_012000_luca_braglia` nell'esempio);
 
 5. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
    `Blame`) per modificare il file. Non preoccuparsi del messaggio
