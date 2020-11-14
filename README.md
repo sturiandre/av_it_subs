@@ -145,7 +145,7 @@ Per lavorare alle traduzioni:
 	```
 	Per richiedere l'assegnazione di un file da tradurre.
 	Verrà risposto (quanto prima) un messaggio con la posizione del 
-	file da tradurre, del tipo:
+	file, del tipo:
 	
 	```
 	subs/hnva2/subs_012000_luca_braglia
