@@ -144,7 +144,8 @@ Per lavorare alle traduzioni:
 	@lucailgarb #translate
 	```
 	Per richiedere l'assegnazione di un file da tradurre.
-	Verrà risposto (quanto prima) un messaggio del tipo:
+	Verrà risposto (quanto prima) un messaggio con la localizzazione del 
+	file da tradurre, del tipo:
 	
 	```
 	subs/hnva2/subs_012000_luca_braglia
@@ -154,8 +155,8 @@ Per lavorare alle traduzioni:
 	* il file `subs_012000_luca_braglia` (ossia in pratica uno
 	spezzone di sottotitoli che inizia approssimativamente a
 	`01:20:00` nel video);
-	* che si trova nella cartella `hnva2` (da "Holding Non-Vegans
-	Accountable 2.0")
+	* che si trova nella cartella `hnva2` (che contiene i sottotitoli
+	per "Holding Non-Vegans Accountable 2.0")
 	* che a sua volta è posta nella cartella che racchiude tutti i
 	sottotitoli (di tutti i video), ossia `subs`.
 

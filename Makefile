@@ -10,9 +10,9 @@ help:
 
 # target per creare un sandbox per un utente
 sandbox:
-	cp sandbox/template.srt sandbox/$(USR).srt && \
-	git add sandbox/$(USR).srt && \
-	git commit -m "sandbox/$(USR).srt"
+	cp subs/sandbox/template.srt subs/sandbox/$(USR).srt && \
+	git add subs/sandbox/$(USR).srt && \
+	git commit -m "subs/sandbox/$(USR).srt"
 
 # target per splittare un file origine in inglese in più filettini
 # es: make split YT=cJ9kGZMbyVw
