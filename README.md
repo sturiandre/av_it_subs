@@ -136,7 +136,7 @@ Per lavorare alle traduzioni:
 0. da **computer**, effettuare il login su [GitHub](https://www.github.com);
 
 1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
-   conservate le traduzioni (aggiungerla ai preferiti è comodo);
+   conservate le traduzioni;
 
 2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" dare il "comando":
 
@@ -168,8 +168,13 @@ Per lavorare alle traduzioni:
 
 	![subs dir](img/hnva2_dir.png)
 
-5. cliccare sul nome del file che ci è stato
-   assegnato (`subs_012000_luca_braglia` nell'esempio);
+5. arrivati a questo punto conviene **salvare questa pagina nei
+   preferiti** (per accedervi facilmente alle prossime sessioni)
+   perché tutte i file di un dato video si trovano qui e si
+   velocizzerà l'accesso al file assegnato.
+
+   Cliccare dunque sul nome del file che ci è stato assegnato
+   (`subs_012000_luca_braglia` nell'esempio);
 
    ![subs dir](img/subs_file_select.png)
 
@@ -186,15 +191,11 @@ Per lavorare alle traduzioni:
    Se si vuole avere un sommario delle modifiche effettuate spostarsi
    nel tab `Preview changes`;
 
-6. una volta terminata la modifica, scorrere in basso nella pagina,
-   verso la sezione `Propose changes`: cliccare sul tasto verde
-   `Propose changes`
+6. a termine sessione, quando si vuole "salvare", scorrere in basso
+   nella pagina, verso la sezione `Propose changes`: cliccare sul
+   tasto verde `Propose changes`
 
 	![subs dir](img/propose_changes.png)
-
-   Volendo in `Update XX` si può dare un titolo alla modifica che si è
-   fatta (es `Update Dairy`) e sotto aggiungere una eventuale
-   descrizione/specifica (es `fixed typos`);
 
 7. cliccare sul pulsante verde `Create Pull Request`
    
@@ -204,7 +205,15 @@ Per lavorare alle traduzioni:
 
 	![subs dir](img/pull_request2.png)
 
-9. fine!! Repeat da 2 per le prossime modifiche.
+9. fine!! 
+
+	Se si è *terminato il proprio file* la prossima sessione re-iniziare
+    da 2 per chiedere un nuovo file da modificare.
+	
+	Alternativamente *se occorre finire il file assegnato*,
+    ri-cominciare da 5 (tener conto che le modifiche in precedenza
+    apportate non saranno visualizzate se non saranno state da me già
+    approvate, ma tuttavia sono state sottomesse/non perse)
 
 In seguito a revisione informatica di minima le modifiche saranno
 accettate ed integrate.  Modifiche che impattino su qualsiasi cosa
