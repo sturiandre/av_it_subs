@@ -154,21 +154,21 @@ Per lavorare alle traduzioni:
 	
 	* il file `subs_012000_luca_braglia` (uno
 	spezzone di sottotitoli che inizia approssimativamente a
-	`01:20:00` nel video) ...
+	`01:20:00` nel video) 
 	* che si trova nella cartella `hnva2` (che contiene i sottotitoli
-	per "Holding Non-Vegans Accountable 2.0") ...
-	* posta nella cartella `subs`, che racchiude tutti i
-	sottotitoli di tutti i video.
+	per "Holding Non-Vegans Accountable 2.0") 
+	* posta nella cartella `subs` (che racchiude tutti i
+	sottotitoli di tutti i video).
 
 3. cliccare quindi sulla cartella `subs`, poi sulla cartella del video
    (`hnva2` nell'esempio) e poi sul nome del file che ci è stato
-   assegnato (`subs_012000_luca_braglia`);
+   assegnato (`subs_012000_luca_braglia` nell'esempio);
 
 4. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
    `Blame`) per modificare il file. 
    
    Non preoccuparsi del messaggio "You are making changes in a project
-   you don't have write access...";
+   you don't have write access ...";
 
 5. fare le modifiche/tradurre. Se si vuole avere un sommario delle modifiche
    effettuate spostarsi nel tab `Preview changes`;
