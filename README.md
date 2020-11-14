@@ -179,7 +179,7 @@ Per lavorare alle traduzioni:
    ![subs dir](img/pencil.png)
 
 7. fare le modifiche/tradurre (non preoccuparsi del messaggio "You are
-   making changes in a project you don't have write access")
+   making changes ...")
    
    ![subs dir](img/editing.png)
 
@@ -187,7 +187,8 @@ Per lavorare alle traduzioni:
    nel tab `Preview changes`;
 
 6. una volta terminata la modifica, scorrere in basso nella pagina,
-   verso la sezione `Propose changes`: cliccare su `Propose Changes`
+   verso la sezione `Propose changes`: cliccare sul tasto verde
+   `Propose changes`
 
 	![subs dir](img/propose_changes.png)
 
