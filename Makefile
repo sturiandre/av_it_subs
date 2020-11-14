@@ -18,9 +18,9 @@ sandbox:
 # es: make split YT=cJ9kGZMbyVw
 # es: make split PRJ=hnva2 YT=cJ9kGZMbyVw
 split:
-	${RSCRIPT} -e "library(lbav); srt_en <- read_srt('source/${PRJ}_en.srt'); srt_it <- read_srt('source/${PRJ}_it.srt'); chunks <- av_srt_chunk_maker(srt_en = srt_en, srt_it = srt_it, yt_id = '${YT}'); tmp <- lapply(chunks, av_srt_chunk_printer, con_des = 'file', output_dir = '$subs/{PRJ}', use_gtranslate= ${USE_GTRANSLATE})"
+	${RSCRIPT} -e "library(lbav); srt_en <- read_srt('source/${PRJ}_en.srt'); srt_it <- read_srt('source/${PRJ}_it.srt'); chunks <- av_srt_chunk_maker(srt_en = srt_en, srt_it = srt_it, yt_id = '${YT}'); tmp <- lapply(chunks, av_srt_chunk_printer, con_des = 'file', output_dir = 'subs/${PRJ}', use_gtranslate= ${USE_GTRANSLATE})"
 
 # incolla filettini e crea srt finale
 srt:
-	${RSCRIPT} -e "library(lbav); srt <- read_srt(pipe('cat $subs/(PRJ)/subs_*')); write_srt(srt, f = 'subs/$(PRJ)/$(PRJ)_final.srt')"
+	${RSCRIPT} -e "library(lbav); srt <- read_srt(pipe('cat subs/$(PRJ)/subs_*')); write_srt(srt, f = 'subs/$(PRJ)/$(PRJ)_final.srt')"
 
