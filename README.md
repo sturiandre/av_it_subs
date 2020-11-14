@@ -76,9 +76,13 @@ Questo è quello che troverete:
 00:00:33,000 --> 00:00:49,000
 ## NEWBORN SEPARATION
 
+
+
 4
 00:00:51,000 --> 00:01:04,000
 ## THIS IS STANDARD PRACTICE
+
+
 
 ```
 
@@ -94,10 +98,14 @@ Come segue:
 ## NEWBORN SEPARATION
 SEPARAZIONE DEI NEONATI
 
+
+
 4
 00:00:51,000 --> 00:01:04,000
 ## THIS IS STANDARD PRACTICE
 QUESTA È PRATICA STANDARD
+
+
 
 ```
 
@@ -108,8 +116,10 @@ corretto procedere come segue:
 ## THIS IS STANDARD PRACTICE
 QUESTA È UNA PRATICA STANDARD
 
+
 ## This is standard practice
 Questa è una pratica standard
+
 
 ## This is a very very
 ## long subtitle
