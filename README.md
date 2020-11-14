@@ -160,28 +160,46 @@ Per lavorare alle traduzioni:
 	* posta nella cartella `subs` (che racchiude tutti i
 	sottotitoli di tutti i video).
 
-3. cliccare quindi sulla cartella `subs`, poi sulla cartella del video
-   (`hnva2` nell'esempio) e poi sul nome del file che ci è stato
+3. cliccare quindi sulla cartella `subs`
+   ![subs dir](img/subs_dir.png)
+
+4. cliccare sulla cartella del video (`hnva2` nell'esempio) 
+   ![subs dir] (img/hnva2_dir.png)
+
+5. cliccare sul nome del file che ci è stato
    assegnato (`subs_012000_luca_braglia` nell'esempio);
+   ![subs dir] (img/subs_file_select.png)
 
-4. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
-   `Blame`) per modificare il file. 
+6. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
+   `Blame`) per modificare il file; 
+   ![subs dir] (img/pencil.png)
+
+7. fare le modifiche/tradurre (non preoccuparsi del messaggio "You are
+   making changes in a project you don't have write access")
    
-   Non preoccuparsi del messaggio "You are making changes in a project
-   you don't have write access ...";
+   ![subs dir] (img/editing.png)
 
-5. fare le modifiche/tradurre. Se si vuole avere un sommario delle modifiche
+   Se si vuole avere un sommario delle modifiche
    effettuate spostarsi nel tab `Preview changes`;
 
 6. una volta terminata la modifica, scorrere in basso nella pagina,
-   verso la sezione `Propose changes`: in `Update XX` dare un titolo
-   alla modifica che si è fatta (es `Update Dairy`) e sotto aggiungere
-   una eventuale descrizione/specifica (es `fixed typos`);
+   verso la sezione `Propose changes`: cliccare su `Propose Changes`
 
-7. cliccare su `Propose Changes`, poi sul pulsante verde `Create Pull Request`
-   e ancora `Create pull request`;
+	![subs dir] (img/propose_changes.png)
 
-8. fine!! Repeat da 2 per le prossime modifiche.
+   Volendo in `Update XX` si può dare un titolo alla modifica che si è
+   fatta (es `Update Dairy`) e sotto aggiungere una eventuale
+   descrizione/specifica (es `fixed typos`);
+
+7. cliccare sul pulsante verde `Create Pull Request`
+   
+   ![subs dir] (img/pull_request1.png)
+
+8. cliccare su `Create Pull Request`;
+
+	![subs dir] (img/pull_request2.png)
+
+9. fine!! Repeat da 2 per le prossime modifiche.
 
 In seguito a revisione informatica di minima le modifiche saranno
 accettate ed integrate.  Modifiche che impattino su qualsiasi cosa
