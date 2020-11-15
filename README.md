@@ -22,7 +22,7 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
 	per saper cosa/come fare).
 	
 	Quando ci si sente ragionevolmente a proprio agio con la procedura
-    di modifica/sottomissione (si può chiedere `sandbox` più volte) si
+    di modifica/sottomissione (si può chiedere `#sandbox` più volte) si
     può passare allo step successivo;
 
 3. per richiedere l'assegnazione di uno spezzone di sottotitoli dare
