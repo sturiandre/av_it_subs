@@ -150,6 +150,21 @@ QUESTA È PRATICA STANDARD
 
 ## Istruzioni per i traduttori
 
+<!-- Prima di procedere ad una traduzione occorre: -->
+
+<!-- * sentire il proprio spezzone per intero, più volte se necessario, per -->
+<!--   comprendere l'argomento -->
+
+<!-- * magari per contesto può essere utile sentire anche un po' di pezzo -->
+<!--   precedente, per il legame -->
+  
+<!-- * guardare il file da tradurre per la trascrizione -->
+
+<!-- * chiedere in chat per eventuali dubbi linguistici -->
+
+<!-- * procedere alla modifica/traduzione -->
+
+
 Per lavorare alle traduzioni:
 
 0. da **computer**, effettuare il login su [GitHub](https://www.github.com);
