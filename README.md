@@ -1,5 +1,20 @@
 # AV subs (IT)
 
+## NB
+
+**Attenzione**: in questo momento stiamo lavorando per
+
+* costituire il team di traduzione;
+* ottenere il file da tradurre (ossia inglese validato e in sync con
+  il video).
+
+Al momento pertanto *non è possibile ancora tradurre*; tuttavia, per
+mettersi avanti, è possibile impratichirsi con lo strumento che verrà
+impiegato con la traduzione (una volta che il file sia disponibile).
+
+Appena sarà disponibile il file per la traduzione ne verrà data comunicazione
+nella chat, dopodiché si accetteranno
+
 
 ## Setup/Overview
 
