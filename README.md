@@ -4,7 +4,7 @@
 
 **Attenzione**: in questo momento stiamo lavorando per
 
-* costituire il team di traduzione;
+* costituire il team di traduzione, contarci, organizzarci;
 * ottenere il file da tradurre (ossia inglese validato e in sync con
   il video).
 
@@ -128,24 +128,24 @@ QUESTA È PRATICA STANDARD
 
 ```
 
-Infine nella traduzione occorre rispettare lo stile
-maiuscolo/minuscolo e l'eventuale splitting su più righe, ossia è
-corretto procedere come segue:
-```
-## THIS IS STANDARD PRACTICE
-QUESTA È UNA PRATICA STANDARD
+<!-- Infine nella traduzione occorre rispettare lo stile -->
+<!-- maiuscolo/minuscolo e l'eventuale splitting su più righe, ossia è -->
+<!-- corretto procedere come segue: -->
+<!-- ``` -->
+<!-- ## THIS IS STANDARD PRACTICE -->
+<!-- QUESTA È UNA PRATICA STANDARD -->
 
 
-## This is standard practice
-Questa è una pratica standard
+<!-- ## This is standard practice -->
+<!-- Questa è una pratica standard -->
 
 
-## This is a very very
-## long subtitle
-Questo è un sottotitolo
-verameeente lungo
+<!-- ## This is a very very -->
+<!-- ## long subtitle -->
+<!-- Questo è un sottotitolo -->
+<!-- verameeente lungo -->
 
-```
+<!-- ``` -->
 
 
 ## Istruzioni per i traduttori
