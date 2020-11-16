@@ -27,7 +27,7 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
 2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
 
 	```
-	@lucailgarb sandbox
+	@lucailgarb #sandbox
 	```
 	per richiedere la predisposizione di un file di prova (prima di
 	passare alle modifiche sui subs ufficiali).
@@ -37,14 +37,14 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
 	per saper cosa/come fare).
 	
 	Quando ci si sente ragionevolmente a proprio agio con la procedura
-    di modifica/sottomissione (si può chiedere `sandbox` più volte) si
+    di modifica/sottomissione (si può chiedere `#sandbox` più volte) si
     può passare allo step successivo;
 
 3. per richiedere l'assegnazione di uno spezzone di sottotitoli dare
    il comando:
    
 	```
-	@lucailgarb translate
+	@lucailgarb #translate
 	```
 
 ## Formato sottotitoli 
@@ -91,9 +91,13 @@ Questo è quello che troverete:
 00:00:33,000 --> 00:00:49,000
 ## NEWBORN SEPARATION
 
+
+
 4
 00:00:51,000 --> 00:01:04,000
 ## THIS IS STANDARD PRACTICE
+
+
 
 ```
 
@@ -109,10 +113,14 @@ Come segue:
 ## NEWBORN SEPARATION
 SEPARAZIONE DEI NEONATI
 
+
+
 4
 00:00:51,000 --> 00:01:04,000
 ## THIS IS STANDARD PRACTICE
 QUESTA È PRATICA STANDARD
+
+
 
 ```
 
@@ -123,8 +131,10 @@ corretto procedere come segue:
 ## THIS IS STANDARD PRACTICE
 QUESTA È UNA PRATICA STANDARD
 
+
 ## This is standard practice
 Questa è una pratica standard
+
 
 ## This is a very very
 ## long subtitle
@@ -136,63 +146,93 @@ verameeente lungo
 
 ## Istruzioni per i traduttori
 
-Per tradurre (o anche per la fase di sandbox, cambiando solo il
-"comando" della chat Telegram):
+Per lavorare alle traduzioni:
 
-0. da computer, effettuare il login su [GitHub](https://www.github.com);
+0. da **computer**, effettuare il login su [GitHub](https://www.github.com);
 
 1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
-   conservate le traduzioni (aggiungerla ai preferiti è comodo);
+   conservate le traduzioni;
 
 2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" dare il "comando":
 
 	```
-	@lucailgarb translate
+	@lucailgarb #translate
 	```
 	Per richiedere l'assegnazione di un file da tradurre.
-	Verrà risposto (quanto prima) un messaggio del tipo:
+	Verrà risposto (quanto prima) un messaggio con la posizione del 
+	file, del tipo:
 	
 	```
-	hnva2/subs_012000_luca_braglia
+	subs/hnva2/subs_012000_luca_braglia
 	```
 	che sta a significare: ti è stato assegnato
 	
-	* il file
-	`subs_012000_luca_braglia` (ossia in pratica uno spezzone di sottotitoli
-	che inizia approssimativamente a `01:20:00` nel video);
-	* residente nella cartella `hnva2` 
-	(da "Holding Non-Vegans Accountable 2.0").
+	* il file `subs_012000_luca_braglia` (uno
+	spezzone di sottotitoli che inizia approssimativamente a
+	`01:20:00` nel video) 
+	* che si trova nella cartella `hnva2` (che contiene i sottotitoli
+	per "Holding Non-Vegans Accountable 2.0") 
+	* posta nella cartella `subs` (che racchiude tutti i
+	sottotitoli di tutti i video).
 
-3. cliccare dunque sul nome della cartella (`hnva2` nell'esempio) per
-   entrarci: si trova all'inizio di questa pagina (di sopra), nel
-   riquadro dove sono elencati cartelle/file (prime di queste
-   istruzioni);
+3. cliccare quindi sulla cartella `subs`
+   
+   ![subs dir](img/subs_dir.png)
 
-4. cliccare poi sul nome del file che ti è stato assegnato: 
-   ossia `subs_012000_luca_braglia`;
+4. cliccare sulla cartella del video (`hnva2` nell'esempio)
 
-5. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
-   `Blame`) per modificare il file. Non preoccuparsi del messaggio
-   "You are making changes in a project you don't have write
-   access...";
+	![subs dir](img/hnva2_dir.png)
 
-6. fare le modifiche/tradurre. Se si vuole avere un sommario delle modifiche
-   effettuate spostarsi nel tab `Preview changes`;
+5. arrivati a questo punto conviene **salvare questa pagina nei
+   preferiti** (per accedervi facilmente alle prossime sessioni)
+   perché tutte i file di un dato video si trovano qui e si
+   velocizzerà l'accesso al file assegnato.
 
-7. una volta terminata la modifica, scorrere in basso nella pagina,
-   verso la sezione `Propose changes`: in `Update XX` dare un titolo
-   alla modifica che si è fatta (es `Update Dairy`) e sotto aggiungere
-   una eventuale descrizione/specifica (es `fixed typos`);
+   Cliccare dunque sul nome del file che ci è stato assegnato
+   (`subs_012000_luca_braglia` nell'esempio);
 
-8. cliccare su `Propose Changes`, poi sul pulsante verde `Create Pull Request`
-   e ancora `Create pull request`;
+   ![subs dir](img/subs_file_select.png)
 
-9. fine!! Repeat da 2 per le prossime modifiche.
+6. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
+   `Blame`) per modificare il file; 
 
-In seguito a revisione informatica di minima le modifiche saranno
-accettate ed integrate.  Modifiche che impattino su qualsiasi cosa
-diversa dalla traduzione (es progressivo sottotitolo, secondi) saranno
-verosimilmente rifiutate.
+   ![subs dir](img/pencil.png)
+
+7. fare le modifiche/tradurre (non preoccuparsi del messaggio "You are
+   making changes ...")
+   
+   ![subs dir](img/editing.png)
+
+   Se si vuole avere un sommario delle modifiche effettuate spostarsi
+   nel tab `Preview changes`;
+
+6. a termine sessione, quando si vuole "salvare", scorrere in basso
+   nella pagina, verso la sezione `Propose changes`: cliccare sul
+   tasto verde `Propose changes`
+
+	![subs dir](img/propose_changes.png)
+
+7. cliccare sul pulsante verde `Create Pull Request`
+   
+   ![subs dir](img/pull_request1.png)
+
+8. cliccare su `Create Pull Request`;
+
+	![subs dir](img/pull_request2.png)
+
+9. fine!! In seguito a revisione informatica di minima le modifiche
+   saranno accettate ed integrate.  Modifiche che impattino su qualsiasi
+   cosa diversa dalla traduzione (es progressivo sottotitolo, secondi)
+   saranno verosimilmente rifiutate.
+
+	Ora, se si è *terminato il proprio file* la prossima sessione re-iniziare
+    da 2 per chiedere un nuovo file da modificare.
+	
+	Alternativamente *se occorre finire il file assegnato*,
+    ri-cominciare da 5 (tener conto che le modifiche in precedenza
+    apportate non saranno visualizzate se non saranno state da me già
+    approvate, ma tuttavia sono state sottomesse/non perse)
+
 
 
 <!-- ## Considerazioni sul workflow -->
