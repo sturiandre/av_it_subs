@@ -14,6 +14,9 @@ sandbox:
 	git add subs/sandbox/$(USR).srt && \
 	git commit -m "subs/sandbox/$(USR).srt"
 
+edit-source-subs:
+	gnome-subtitles source/${PRJ}_en.srt
+
 # target per splittare un file origine in inglese in più filettini
 # es: make split YT=cJ9kGZMbyVw
 # es: make split PRJ=hnva2 YT=cJ9kGZMbyVw
