@@ -239,18 +239,23 @@ Per lavorare alle traduzioni:
 
 	![subs dir](img/pull_request2.png)
 
-9. fine!! In seguito a revisione informatica di minima le modifiche
-   saranno accettate ed integrate.  Modifiche che impattino su qualsiasi
-   cosa diversa dalla traduzione (es progressivo sottotitolo, secondi)
+9. fine!! 
+
+   In seguito a revisione informatica di minima le modifiche saranno
+   accettate ed integrate: modifiche che impattino su qualsiasi cosa
+   diversa dalla traduzione (es progressivo sottotitolo, secondi)
    saranno verosimilmente rifiutate.
 
-	Ora, se si è *terminato il proprio file* la prossima sessione re-iniziare
-    da 2 per chiedere un nuovo file da modificare.
+	Ora:
 	
-	Alternativamente *se occorre finire il file assegnato*,
-    ri-cominciare da 5 (tener conto che le modifiche in precedenza
-    apportate non saranno visualizzate se non saranno state da me già
-    approvate, ma tuttavia sono state sottomesse/non perse)
+	* se si è *terminato il proprio file*, dopo accettazione/merge
+      (comunicata automaticamente via mail), si può re-iniziare da 2
+      per chiedere un nuovo file da modificare;
+	
+	* *se occorre finire il file assegnato*, ri-cominciare da 5 (tener
+      conto che le modifiche in precedenza apportate non saranno
+      visualizzate, se non sono state nel frattempo
+      approvate. Tuttavia sono state sottomesse/non perse).
 
 
 
