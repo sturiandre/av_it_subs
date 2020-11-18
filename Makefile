@@ -8,7 +8,7 @@ USE_GTRANSLATE = TRUE
 
 help:
 
-# target per creare sanboxes anche multipli
+# target per creare sandboxes (anche più utenti)
 # make sandbox USR=asd
 # make sandbox USR="asd foo bar"
 sandbox:
