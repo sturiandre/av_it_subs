@@ -12,12 +12,11 @@
 Al momento pertanto *non è possibile ancora tradurre* (portate
 pazienza ;) ); tuttavia, per mettersi avanti, è possibile
 impratichirsi con lo strumento che verrà impiegato con la traduzione
-(una volta che il file sia disponibile) mediante comandi `#sandbox`,
-come descritto sotto.
+(una volta pronti) mediante comandi `#sandbox`, come descritto sotto.
 
-Appena sarà disponibile il file per la traduzione ne verrà data
-comunicazione nella chat "AV: Traduzioni e Sub YouTube", dopodiché si
-accetteranno "comandi" `#translate`.
+Appena sarà possibile iniziare a tradurre ne verrà data comunicazione
+nella chat "AV: Traduzioni e Sub YouTube", dopodiché si accetteranno
+"comandi" `#translate`.
 
 Stay tuned.
 
