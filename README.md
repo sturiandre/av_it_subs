@@ -5,7 +5,7 @@
 **Attenzione**: in questo momento stiamo lavorando per
 
 * costituire il team di traduzione, contarci, organizzarci;
-* terminare di costruire infrastruttura e documentazione;
+* terminare di mettere a punto infrastruttura e documentazione;
 * ottenere il file da tradurre (ossia inglese validato e in sync con
   il video).
 
