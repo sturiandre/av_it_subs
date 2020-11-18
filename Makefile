@@ -8,11 +8,11 @@ USE_GTRANSLATE = TRUE
 
 help:
 
-# target per creare un sandbox per un utente
+# target per creare sanboxes anche multipli
+# make sandbox USR=asd
+# make sandbox USR="asd foo bar"
 sandbox:
-	cp subs/sandbox/template.srt subs/sandbox/$(USR).srt && \
-	git add subs/sandbox/$(USR).srt && \
-	git commit -m "subs/sandbox/$(USR).srt"
+	av_yt_sandbox $(USR)
 
 edit-source-subs:
 	gnome-subtitles source/${PRJ}_en.srt
