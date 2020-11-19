@@ -230,16 +230,20 @@ Per lavorare alle traduzioni:
 
 12. fine!! 
 
-   In seguito a revisione informatica di minima le modifiche saranno
-   accettate ed integrate: modifiche che impattino su qualsiasi cosa
-   diversa dalla traduzione (es progressivo sottotitolo, secondi)
-   saranno verosimilmente rifiutate.
+
+In seguito a revisione informatica di minima le modifiche saranno
+accettate ed integrate: modifiche che impattino su qualsiasi cosa
+diversa dalla traduzione (es progressivo sottotitolo, secondi)
+saranno verosimilmente rifiutate.
 	
-   Ora, se si è *terminato il proprio file*, dopo accettazione/merge
-   (comunicata automaticamente via mail), si può re-iniziare da 2
-   per chiedere un nuovo file da modificare;
-	
-   Se viceversa *occorre finire il file assegnato*, ri-cominciare da 5
-   (tener conto che le modifiche in precedenza apportate non saranno
-   visualizzate, se non sono state nel frattempo approvate. Tuttavia
-   sono state sottomesse/non perse).
+Ora, se si è **terminato** il proprio file:
+* attendere accettazione/merge (comunicata automaticamente via mail);
+* *dare comunicazione* che la modifica è completo (es per "sbloccare"
+  la revisione);
+* si può procedere a richiesta di un nuovo file da modificare, re-iniziando
+  dal punto 2.
+
+Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
+punto 5 (tener conto che le modifiche in precedenza apportate non
+saranno visualizzate, se non sono state nel frattempo
+approvate. Tuttavia sono state sottomesse/non perse).
