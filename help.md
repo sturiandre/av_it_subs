@@ -92,20 +92,20 @@ Dopodiché potrai incollare l'url nel post di richiesta d'aiuto.
 
 ### Ottenere il link ai *subs* in un dato punto
 
-Visualizzare il file assegnato su GitHub (la schermata con la
+Occorre visualizzare il file assegnato su GitHub (la schermata con la
 matita ... *non* clicchiamo la matita perché non vogliamo effettuare
 modifiche ora) e posizionarsi nei pressi del sottotitolo in questione (es
 sottotitolo 23); clicchiamo sul numero della riga di interesse
-(nell'esempio clicchiamo sul numero 35)
+(nell'esempio clicchiamo sul numero 35):
 
 ![gh_link1](img/gh_link1.png)
 
 Ci compaiono tre puntini e la linea viene evidenziata. Clicchiamo
-dunque sui tre puntini
+dunque sui tre puntini:
 
 ![gh_link2](img/gh_link2.png)
 
-Dopodiché su copy permalink
+Dopodiché su copy permalink:
 
 ![gh_link3](img/gh_link3.png)
 
