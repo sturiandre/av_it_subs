@@ -4,11 +4,11 @@
 ## Risorse obbligatorie o caldamente consigliate
 
 Obbligatorie:
-[Linee guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+[[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
 
 Caldamente consigliate:
-[Telegram Web](https://web.telegram.org)
-[Telegram Desktop](https://desktop.telegram.org/)
+[[Telegram Web]](https://web.telegram.org), 
+[[Telegram Desktop]](https://desktop.telegram.org/)
 
 
 ## Il workflow da adottare
