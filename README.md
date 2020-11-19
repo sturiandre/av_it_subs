@@ -233,13 +233,13 @@ Per lavorare alle traduzioni:
    In seguito a revisione informatica di minima le modifiche saranno
    accettate ed integrate: modifiche che impattino su qualsiasi cosa
    diversa dalla traduzione (es progressivo sottotitolo, secondi)
-   saranno verosimilmente rifiutate. Ora:
+   saranno verosimilmente rifiutate.
 	
-   * se si è *terminato il proprio file*, dopo accettazione/merge
-     (comunicata automaticamente via mail), si può re-iniziare da 2
-     per chiedere un nuovo file da modificare;
+   Ora, se si è *terminato il proprio file*, dopo accettazione/merge
+   (comunicata automaticamente via mail), si può re-iniziare da 2
+   per chiedere un nuovo file da modificare;
 	
-   * *se occorre finire il file assegnato*, ri-cominciare da 5 (tener
-     conto che le modifiche in precedenza apportate non saranno
-     visualizzate, se non sono state nel frattempo
-     approvate. Tuttavia sono state sottomesse/non perse).
+   Se viceversa *occorre finire il file assegnato*, ri-cominciare da 5
+   (tener conto che le modifiche in precedenza apportate non saranno
+   visualizzate, se non sono state nel frattempo approvate. Tuttavia
+   sono state sottomesse/non perse).
