@@ -238,8 +238,14 @@ saranno verosimilmente rifiutate.
 	
 Ora, se si è **terminato** il proprio file:
 * attendere accettazione/merge (comunicata automaticamente via mail);
-* *dare comunicazione* che la modifica è completo (es per "sbloccare"
-  la revisione);
+* *dare comunicazione* che la modifica è completa (per motivi
+  logistici, aka "sbloccare" la revisione), idealmente mediante un
+  messaggio tipo
+  ```
+  subs/hnva2/subs_012000_luca_braglia completo
+  ```
+  oppure rispondendo all'assegnazione con `completo`
+  
 * si può procedere a richiesta di un nuovo file da modificare, re-iniziando
   dal punto 2.
 
