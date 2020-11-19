@@ -1,7 +1,7 @@
 # Come affrontare la traduzione al meglio
 
 
-## Risorse obbligatorie o caldamente consigliate
+## Risorse
 
 Obbligatorie:
 [[Linee guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)]
@@ -14,8 +14,10 @@ Caldamente consigliate:
 ## Il workflow da adottare
 
 Il modo peggiore, da **non** adottare, consiste nel partire a testa
-bassa con la modifica dei subs su GitHub, procedendo un subs alla
-volta e non ascoltando il video.
+bassa con la modifica dei subs su GitHub, procedendo un sub alla
+volta, e non ascoltando il video.
+
+**Sviluppare qui con:**
 
 - [ ] workflow con stampa e visione
 
@@ -71,10 +73,12 @@ Per costruire un post del genere:
 
 ### Ottenere il link al *video* in un dato punto
 
-Come hai forse notato, a inizio del file da tradurre vi è un url che
-ti porta in prossimità dell'inizio dei tuoi sottotitoli. Dobbiamo
-ottenere qualcosa del genere per il punto del dubbio. Per farlo
-posizionati in tale punto sul video, dopodiché clicca su "Condividi":
+Come detto, a inizio del file da tradurre vi è un url che ti porta in
+prossimità dell'inizio dei tuoi sottotitoli. Dobbiamo ottenere
+qualcosa del genere per il punto del dubbio. 
+
+Per farlo posizionati in tale punto sul video, dopodiché clicca su
+"Condividi":
 
 ![yt_link1](img/yt_link1.png)
 
