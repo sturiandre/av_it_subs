@@ -200,9 +200,9 @@ Per lavorare alle traduzioni:
 6. ora **visionare il lavoro da fare nel suo complesso**, seguendo [le
    istruzioni riportate qui](help.md);
 
-7. **una volta che abbiamo chiara la traduzione da apportare nel suo
-   complesso**, cliccare sul pulsante matita per procedere alla modifica
-   del file (quello a destra dei bottoni `Raw` e `Blame`);
+7. **ora che hai chiara la traduzione da effettuare nel suo
+   complesso**, puoi cliccare sul pulsante matita per procedere alla
+   modifica del file (quello a destra dei bottoni `Raw` e `Blame`);
 
    ![subs dir](img/pencil.png)
 
