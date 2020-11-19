@@ -250,6 +250,6 @@ Ora, se si è **terminato** il proprio file:
   dal punto 2.
 
 Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
-punto 5 (tener conto che le modifiche in precedenza apportate non
+punto 7 (tener conto che le modifiche in precedenza apportate non
 saranno visualizzate, se non sono state nel frattempo
 approvate. Tuttavia sono state sottomesse/non perse).
