@@ -11,8 +11,6 @@ Caldamente consigliate:
 [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
-** Tutorial telegram web? **
-
 ## Il workflow da adottare
 
 **Non** partire a testa bassa con la modifica dei subs GitHub,
@@ -20,7 +18,7 @@ procedendo un subs alla volta.
 
 workflow con stampa
 
-lasciare una nota ai revisori
+come lasciare una nota ai revisori
 
 
 ![url inizio file](img/url_inizio_file.png)
@@ -39,7 +37,7 @@ Nel prosieguo ci concentriamo sulla richiesta aiuto per *aspetti
 linguistici*. 
 
 La cosa migliore che tu possa fare (per aumentare la
-probabilità/velocità di risposta) è un post dettagliato in "AV:
+facilità/probabilità/velocità di risposta) è un post dettagliato in "AV:
 Traduttori e Revisori"che contenga:
 
 * info sul punto di interesse (in YT ed eventualmente in GitHub);
@@ -48,55 +46,61 @@ Traduttori e Revisori"che contenga:
 Ad esempio (link fittizi):
 
 ```
-Care/i, ho difficoltà su come tradurre nei pressi del sottotitolo 234 che
-trovate qui
+Care/i, ho un dubbio su come tradurre nei pressi del sottotitolo 230 che
+trovate qui:
 
 https://youtu.be/cJ9kGZMbyVw?t=3455
 
 e per il testo "fermo" qui: 
-
-https://youtu.be/cJ9kGZMbyVw?t=3455
 
 https://github.com/lbraglia/av_it_subs/blob/662b792247f56e3203d635d977658c7a6d7ef511/source/test_en.srt#L54
 
 In particolar modo sono indeciso su ...
 ``` 
 
-Per costruire un post del genere (che facilita/velocizza
-incredibilmente il darti una mano):
+Per costruire un post del genere:
 
 * serve ottenere i link ad un determinato punto in YouTube e GitHub:
-  questo verrà spiegato in seguito;
+  questo verrà spiegato *in seguito*;
  
-* può essere molto comodo (assolutamente consigliato per continuare a
-  lavorare da pc) scrivendo tale post mediante [Telegram
-  Web](https://web.telegram.org) (e se ti trovi bene ti consiglio di
-  passare a [Telegram Desktop](https://desktop.telegram.org/)).
+* può essere molto comodo (anzi assolutamente consigliato) scrivere tale
+  post mediante [Telegram Web](https://web.telegram.org) 
+  (e se ti trovi bene ti consiglio di
+  provare [Telegram Desktop](https://desktop.telegram.org/)).
 
 
-### Ottenere il link al video in un dato punto
+### Ottenere il link al *video* in un dato punto
 
-Innanzitutto per comodità all'inizio del file da tradurre vi è un url
-che porta
+Come hai visto a inizio del file da tradurre vi è un url che ti porta
+in prossimità dell'inizio dei tuoi sottotitoli. Dobbiamo ottenere
+qualcosa del genere per il punto del dubbio. Per farlo posizionati in tale 
+punto sul video, dopodiché clicca su Condividi:
 
 ![yt_link1](img/yt_link1.png)
 
+In seguito clicca su "Inizia da" e poi su "Copia":
+
 ![yt_link2](img/yt_link2.png)
 
+Dopodiché potrai incollare l'url nel post di richiesta d'aiuto.
 
-### Ottenere il link ai subs in un dato punto
+
+### Ottenere il link ai *subs* in un dato punto
 
 Aprire il file assegnato su GitHub e posizionarsi nei pressi del
-sottotitolo in questione (es
+sottotitolo in questione (es sottotitolo 23); clicchiamo sul numero
+della riga di interesse (nell'esempio clicchiamo sul numero 35)
 
 ![gh_link1](img/gh_link1.png)
 
-Cliccare sulla riga di interesse
+Ci compaiono tre puntini e la linea viene evidenziata. Clicchiamo
+dunque sui tre puntini
 
 ![gh_link2](img/gh_link2.png)
 
-
+Dopodiché su copy permalink
 
 ![gh_link3](img/gh_link3.png)
 
-
+Analogamente, nel seguito, si potrà incollare l'url nel post di
+richiesta d'aiuto.
