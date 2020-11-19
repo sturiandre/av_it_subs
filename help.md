@@ -37,7 +37,7 @@ Traduttori e Revisori"che contenga:
 * info sul punto di interesse (in YT ed eventualmente in GitHub);
 * info sul dubbio/difficoltà.
 
-Ad esempio (con link fittizi):
+Ad esempio (link fittizi):
 
 ```
 Care/i, ho difficoltà su come tradurre 'attorno' al sottotitolo 234 che
