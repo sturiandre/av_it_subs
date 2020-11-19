@@ -238,8 +238,8 @@ saranno verosimilmente rifiutate.
 	
 Ora, se si è **terminato** il proprio file:
 * attendere accettazione/merge (comunicata automaticamente via mail);
-* *dare comunicazione* che la modifica del file assegnato è completa
-  (per motivi logistici, aka "sbloccare" la revisione)
+* *dare comunicazione* in chat che la modifica del file assegnato è completa
+  (per motivi logistici, aka "sbloccare" la revisione);
   <!-- idealmente mediante un -->
   <!-- messaggio tipo -->
   <!-- ``` -->
