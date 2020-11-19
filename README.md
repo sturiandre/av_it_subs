@@ -233,39 +233,13 @@ Per lavorare alle traduzioni:
    In seguito a revisione informatica di minima le modifiche saranno
    accettate ed integrate: modifiche che impattino su qualsiasi cosa
    diversa dalla traduzione (es progressivo sottotitolo, secondi)
-   saranno verosimilmente rifiutate.
-
-	Ora:
+   saranno verosimilmente rifiutate. Ora:
 	
-	* se si è *terminato il proprio file*, dopo accettazione/merge
-      (comunicata automaticamente via mail), si può re-iniziare da 2
-      per chiedere un nuovo file da modificare;
+   * se si è *terminato il proprio file*, dopo accettazione/merge
+     (comunicata automaticamente via mail), si può re-iniziare da 2
+     per chiedere un nuovo file da modificare;
 	
-	* *se occorre finire il file assegnato*, ri-cominciare da 5 (tener
-      conto che le modifiche in precedenza apportate non saranno
-      visualizzate, se non sono state nel frattempo
-      approvate. Tuttavia sono state sottomesse/non perse).
-
-
-
-<!-- ## Considerazioni sul workflow -->
-
-<!-- Come pro vedo: -->
-
-<!-- - se vi è priorità/urgenza, si può lavorare tutti sullo stesso file -->
-<!--   contemporaneamente (anche se è *meglio suddividersi il lavoro*, es -->
-<!--   sulla base dei secondi del video, per evitare di duplicare lo sforzo -->
-<!--   di traduzione), rendendo il tutto più veloce; -->
-
-<!-- - mi pare tutto sommato abbastanza semplice (per problemi ditemi): in -->
-<!--   particolare i traduttori possono limitarsi a fare "solamente" i -->
-<!--   traduttori - senza doversi preoccupare di altri aspetti -->
-<!--   (es informatici) - mentre altri che magari sono meno -->
-<!--   "prima scelta" in traduzione (come il sottoscritto) si possono -->
-<!--   focalizzare su questi ultimi; -->
-  
-<!-- - non serve software particolare, non problemi di formato file / -->
-<!--   sistemi operativi differenti, no file "volanti" inviati per mail; -->
-
-<!-- - immediato lo stato di avanzamento delle varie traduzioni, anche più -->
-<!--   facile prioritarizzare. -->
+   * *se occorre finire il file assegnato*, ri-cominciare da 5 (tener
+     conto che le modifiche in precedenza apportate non saranno
+     visualizzate, se non sono state nel frattempo
+     approvate. Tuttavia sono state sottomesse/non perse).
