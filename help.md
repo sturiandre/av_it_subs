@@ -87,9 +87,11 @@ Dopodiché potrai incollare l'url nel post di richiesta d'aiuto.
 
 ### Ottenere il link ai *subs* in un dato punto
 
-Aprire il file assegnato su GitHub e posizionarsi nei pressi del
-sottotitolo in questione (es sottotitolo 23); clicchiamo sul numero
-della riga di interesse (nell'esempio clicchiamo sul numero 35)
+Visualizzare il file assegnato su GitHub (la schermata con la
+matita ... *non* clicchiamo la matita perché non vogliamo effettuare
+modifiche ora) e posizionarsi nei pressi del sottotitolo in questione (es
+sottotitolo 23); clicchiamo sul numero della riga di interesse
+(nell'esempio clicchiamo sul numero 35)
 
 ![gh_link1](img/gh_link1.png)
 
