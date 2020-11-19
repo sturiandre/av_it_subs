@@ -13,17 +13,15 @@ Caldamente consigliate:
 
 ## Il workflow da adottare
 
-**Non** partire a testa bassa con la modifica dei subs GitHub,
-procedendo un subs alla volta.
+Il modo peggiore, da **non** adottare, consiste nel partire a testa
+bassa con la modifica dei subs su GitHub, procedendo un subs alla
+volta e non ascoltando il video.
 
-workflow con stampa
+- [ ] workflow con stampa e visione
 
-come lasciare una nota ai revisori
+  ![url inizio file](img/url_inizio_file.png)
 
-
-![url inizio file](img/url_inizio_file.png)
-
-
+- [ ] come lasciare una nota ai revisori
 
 
 ## Ottenere aiuto
@@ -31,7 +29,7 @@ In caso di dubbi/difficoltà:
 
 * per **aspetti linguistici** non esitare a chiedere un parere/aiuto al gruppo
   "AV: Traduttori e Revisori";
-* per **aspetti informatici** contattami direttamente. 
+* per **aspetti informatici** contattami direttamente.
 
 Nel prosieguo ci concentriamo sulla richiesta aiuto per *aspetti
 linguistici*. 
@@ -56,12 +54,14 @@ e per il testo "fermo" qui:
 https://github.com/lbraglia/av_it_subs/blob/662b792247f56e3203d635d977658c7a6d7ef511/source/test_en.srt#L54
 
 In particolar modo sono indeciso su ...
+
+Grazie as usual
 ``` 
 
 Per costruire un post del genere:
 
-* serve ottenere i link ad un determinato punto in YouTube e GitHub:
-  questo verrà spiegato *in seguito*;
+* serve ottenere i link ad un determinato punto in YouTube (ed
+  eventualmente GitHub): questo verrà spiegato *in seguito*;
  
 * può essere molto comodo (anzi assolutamente consigliato) scrivere tale
   post mediante [Telegram Web](https://web.telegram.org) 
@@ -71,14 +71,15 @@ Per costruire un post del genere:
 
 ### Ottenere il link al *video* in un dato punto
 
-Come hai visto a inizio del file da tradurre vi è un url che ti porta
-in prossimità dell'inizio dei tuoi sottotitoli. Dobbiamo ottenere
-qualcosa del genere per il punto del dubbio. Per farlo posizionati in tale 
-punto sul video, dopodiché clicca su Condividi:
+Come hai forse notato, a inizio del file da tradurre vi è un url che
+ti porta in prossimità dell'inizio dei tuoi sottotitoli. Dobbiamo
+ottenere qualcosa del genere per il punto del dubbio. Per farlo
+posizionati in tale punto sul video, dopodiché clicca su "Condividi":
 
 ![yt_link1](img/yt_link1.png)
 
-In seguito clicca su "Inizia da" e poi su "Copia":
+In seguito clicca su "Inizia da" (per fare iniziare il video dal punto
+selezionato) e poi su "Copia" per ottenere il link:
 
 ![yt_link2](img/yt_link2.png)
 

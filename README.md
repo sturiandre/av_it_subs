@@ -150,21 +150,6 @@ QUESTA È PRATICA STANDARD
 
 ## Istruzioni per i traduttori
 
-<!-- Prima di procedere ad una traduzione occorre: -->
-
-<!-- * sentire il proprio spezzone per intero, più volte se necessario, per -->
-<!--   comprendere l'argomento -->
-
-<!-- * magari per contesto può essere utile sentire anche un po' di pezzo -->
-<!--   precedente, per il legame -->
-  
-<!-- * guardare il file da tradurre per la trascrizione -->
-
-<!-- * chiedere in chat per eventuali dubbi linguistici -->
-
-<!-- * procedere alla modifica/traduzione -->
-
-
 Per lavorare alle traduzioni:
 
 0. da **computer**, effettuare il login su [GitHub](https://www.github.com);
@@ -212,12 +197,16 @@ Per lavorare alle traduzioni:
 
    ![subs dir](img/subs_file_select.png)
 
-6. cliccare sul pulsante matita (quello a destra dei bottoni `Raw` e
-   `Blame`) per modificare il file; 
+6. ora visionare il lavoro da fare nel suo complesso, seguendo le
+   istruzioni riportate [qui](help.md);
+
+7. una volta che abbiamo chiara la traduzione da apportare nel suo
+   complesso, cliccare sul pulsante matita per procedere alla modifica
+   del file (quello a destra dei bottoni `Raw` e `Blame`);
 
    ![subs dir](img/pencil.png)
 
-7. fare le modifiche/tradurre (non preoccuparsi del messaggio "You are
+8. fare le modifiche/tradurre (non preoccuparsi del messaggio "You are
    making changes ...")
    
    ![subs dir](img/editing.png)
@@ -225,21 +214,21 @@ Per lavorare alle traduzioni:
    Se si vuole avere un sommario delle modifiche effettuate spostarsi
    nel tab `Preview changes`;
 
-6. a termine sessione, quando si vuole "salvare", scorrere in basso
+9. a termine sessione, quando si vuole "salvare", scorrere in basso
    nella pagina, verso la sezione `Propose changes`: cliccare sul
    tasto verde `Propose changes`
 
 	![subs dir](img/propose_changes.png)
 
-7. cliccare sul pulsante verde `Create Pull Request`
+10. cliccare sul pulsante verde `Create Pull Request`
    
    ![subs dir](img/pull_request1.png)
 
-8. cliccare su `Create Pull Request`;
+11. cliccare su `Create Pull Request`;
 
 	![subs dir](img/pull_request2.png)
 
-9. fine!! 
+12. fine!! 
 
    In seguito a revisione informatica di minima le modifiche saranno
    accettate ed integrate: modifiche che impattino su qualsiasi cosa
