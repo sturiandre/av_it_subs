@@ -11,12 +11,20 @@ Caldamente consigliate:
 [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
+** Tutorial telegram web? **
+
 ## Il workflow da adottare
 
-**Non** partire a testa bassa con la modifica dei subs GitHub.
+**Non** partire a testa bassa con la modifica dei subs GitHub,
+procedendo un subs alla volta.
+
+workflow con stampa
+
+lasciare una nota ai revisori
 
 
 ![url inizio file](img/url_inizio_file.png)
+
 
 
 
@@ -40,7 +48,7 @@ Traduttori e Revisori"che contenga:
 Ad esempio (link fittizi):
 
 ```
-Care/i, ho difficoltà su come tradurre 'attorno' al sottotitolo 234 che
+Care/i, ho difficoltà su come tradurre nei pressi del sottotitolo 234 che
 trovate qui
 
 https://youtu.be/cJ9kGZMbyVw?t=3455
@@ -55,12 +63,15 @@ In particolar modo sono indeciso su ...
 ``` 
 
 Per costruire un post del genere (che facilita/velocizza
-incredibilmente il darti una mano) serve ottenere i link ad un
-determinato punto in YouTube e GitHub. 
+incredibilmente il darti una mano):
+
+* serve ottenere i link ad un determinato punto in YouTube e GitHub:
+  questo verrà spiegato in seguito;
  
-Inoltre può essere molto comodo scrivere tale post mediante
-un'applicazione come Telegram Web (e se ti trovi bene vi consiglio di
-passare a Telegram Desktop).
+* può essere molto comodo (assolutamente consigliato per continuare a
+  lavorare da pc) scrivendo tale post mediante [Telegram
+  Web](https://web.telegram.org) (e se ti trovi bene ti consiglio di
+  passare a [Telegram Desktop](https://desktop.telegram.org/)).
 
 
 ### Ottenere il link al video in un dato punto
