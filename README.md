@@ -197,11 +197,11 @@ Per lavorare alle traduzioni:
 
    ![subs dir](img/subs_file_select.png)
 
-6. ora visionare il lavoro da fare nel suo complesso, seguendo le
-   istruzioni riportate [qui](help.md);
+6. ora **visionare il lavoro da fare nel suo complesso**, seguendo [le
+   istruzioni riportate qui](help.md);
 
-7. una volta che abbiamo chiara la traduzione da apportare nel suo
-   complesso, cliccare sul pulsante matita per procedere alla modifica
+7. **una volta che abbiamo chiara la traduzione da apportare nel suo
+   complesso**, cliccare sul pulsante matita per procedere alla modifica
    del file (quello a destra dei bottoni `Raw` e `Blame`);
 
    ![subs dir](img/pencil.png)
