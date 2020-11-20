@@ -249,7 +249,7 @@ Ora, se si è **terminato** il proprio file:
 
 	![trn completa](img/translate_completa.png)
  
-  Per trovare l'assegnazione la cosa più facile è cercare il proprio
+  Per *trovare l'assegnazione* la cosa più facile è cercare il proprio
   username GitHub nella chat.
 * si può procedere a richiesta di un nuovo file da modificare, re-iniziando
   dal punto 2.
