@@ -29,8 +29,8 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
    [GitHub](https://www.github.com) ("Sign Up" e seguire la procedura
    sino a verificare la mail);
    
-2. comunicarmi il login GitHub con cui intendete collaborare (lo
-   username), per [abilitazione](data/users.csv);
+2. comunicarmi lo username GitHub con cui intendete collaborare, per
+   [abilitazione](data/users.csv);
 
 3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
 
