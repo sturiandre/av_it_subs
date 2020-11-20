@@ -9,6 +9,12 @@ USE_GTRANSLATE = FALSE
 help:
 
 # ------------------------------------------------
+# Target per editing user database
+# ------------------------------------------------
+edit-users-db:
+	libreoffice --calc data/users.csv
+
+# ------------------------------------------------
 # Target per editing sottotitoli originali pre-trn
 # ------------------------------------------------
 edit-source-subs:

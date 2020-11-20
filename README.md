@@ -25,10 +25,14 @@ Stay tuned.
 Per poter contribuire alla traduzione, dopo aver letto le linee guida
 del gruppo Telegram "AV: Traduttori e Revisori", occorre:
 
-1. creare (gratuitamente) un account su [GitHub](https://www.github.com) ("Sign
-   Up" e seguire la procedura sino a verificare la mail);
+1. creare (gratuitamente) un account su
+   [GitHub](https://www.github.com) ("Sign Up" e seguire la procedura
+   sino a verificare la mail);
+   
+2. comunicarmi il login GitHub con cui intendete collaborare (lo
+   username) per "abilitazione";
 
-2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
+3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
 
 	```
 	@lucailgarb #sandbox
@@ -44,7 +48,7 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
     di modifica/sottomissione (si può chiedere `#sandbox` più volte) si
     può passare allo step successivo;
 
-3. per richiedere l'assegnazione di uno spezzone di sottotitoli dare
+4. per richiedere l'assegnazione di uno spezzone di sottotitoli dare
    il comando:
    
 	```
