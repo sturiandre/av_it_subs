@@ -259,3 +259,14 @@ Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
 punto 7 (tener conto che le modifiche in precedenza apportate non
 saranno visualizzate, se non sono state nel frattempo
 approvate. Tuttavia sono state sottomesse/non perse).
+
+
+## Istruzioni per i revisori
+
+<!-- Revisione: la revisione procederà in maniera simile alla traduzione -->
+<!-- (da un punto di vista informatico) ma: -->
+
+<!-- - con il "comando" @lucaigarb #revise; -->
+<!-- - verranno assegnati più file tradotti, posti in sequenza tra loro; -->
+<!-- - terminata sarà necessario darne comunicazione. -->
+
