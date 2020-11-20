@@ -22,8 +22,9 @@ Stay tuned.
 
 ## Setup/Overview
 
-Per poter contribuire alla traduzione, dopo aver letto le linee guida
-del gruppo Telegram "AV: Traduttori e Revisori", occorre:
+Per poter contribuire alla traduzione, dopo aver letto le 
+[linee guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+per la traduzione occorre:
 
 1. creare (gratuitamente) un account su
    [GitHub](https://www.github.com) ("Sign Up" e seguire la procedura
