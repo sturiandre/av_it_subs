@@ -11,20 +11,20 @@
 
 Al momento pertanto *non è possibile ancora tradurre* (portate
 pazienza ;) ); tuttavia, per mettersi avanti, è possibile
-impratichirsi con lo strumento che verrà impiegato con la traduzione
-(una volta pronti) mediante comandi `#sandbox`, come descritto sotto.
+impratichirsi con lo strumento che verrà impiegato (una volta pronti)
+mediante richieste `#sandbox`, come descritto sotto.
 
 Appena sarà possibile iniziare a tradurre ne verrà data comunicazione
 nella chat "AV: Traduzioni e Sub YouTube", dopodiché si accetteranno
-"comandi" `#translate`.
+richieste `#translate`.
 
 Stay tuned.
 
 ## Setup/Overview
 
-Per poter contribuire alla traduzione, dopo aver letto le 
-[linee guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
-per la traduzione occorre:
+Per poter contribuire alla traduzione, dopo aver letto le [linee
+guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+occorre:
 
 1. creare (gratuitamente) un account su
    [GitHub](https://www.github.com) ("Sign Up" e seguire la procedura
@@ -33,7 +33,7 @@ per la traduzione occorre:
 2. comunicarmi lo username GitHub con cui intendete collaborare, per
    [abilitazione](data/users.csv);
 
-3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
+3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", postare la richiesta:
 
 	```
 	@lucailgarb #sandbox
@@ -49,12 +49,18 @@ per la traduzione occorre:
     di modifica/sottomissione (si può chiedere `#sandbox` più volte) si
     può passare allo step successivo;
 
-4. per richiedere l'assegnazione di uno spezzone di sottotitoli dare
-   il comando:
+4. per richiedere l'assegnazione di uno spezzone di sottotitoli postare:
    
 	```
 	@lucailgarb #translate
 	```
+5. in seguito, *i revisori abilitati* potranno richiedere
+   l'assegnazione di uno spezzone da revisionare mediante:
+   
+	```
+	@lucailgarb #revise
+	```
+
 
 ## Formato sottotitoli 
 
@@ -162,7 +168,7 @@ Per lavorare alle traduzioni:
 1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
    conservate le traduzioni;
 
-2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" dare il "comando":
+2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" postare:
 
 	```
 	@lucailgarb #translate
@@ -269,7 +275,7 @@ work in progress ...
 <!-- Revisione: la revisione procederà in maniera simile alla traduzione -->
 <!-- (da un punto di vista informatico) ma: -->
 
-<!-- - con il "comando" @lucaigarb #revise; -->
+<!-- - con la richiesta @lucailgarb #revise; -->
 <!-- - verranno assegnati più file tradotti, posti in sequenza tra loro; -->
 <!-- - terminata sarà necessario darne comunicazione. -->
 
