@@ -245,10 +245,9 @@ Ora, se si è **terminato** il proprio file:
 * *dare comunicazione* in chat che la modifica del file assegnato è
   completa (per motivi logistici, aka "sbloccare" la revisione). 
   
-  Il modo migliore per farlo è rispondere all'assegnazione con un
-  messaggio tipo "terminato"/"completato" (per *trovare
-  l'assegnazione* la cosa più facile è cercare il proprio username
-  GitHub nella chat). Es
+  Il modo migliore per farlo è rispondere all'assegnazione ((per
+  trovarla cercare il proprio username GitHub nella chat) con un
+  messaggio del tipo "completato"/"terminato". Es
 
 	![trn_completa](img/translate_completa.jpg)
  
