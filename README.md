@@ -263,6 +263,8 @@ approvate. Tuttavia sono state sottomesse/non perse).
 
 ## Istruzioni per i revisori
 
+work in progress ...
+
 <!-- Revisione: la revisione procederà in maniera simile alla traduzione -->
 <!-- (da un punto di vista informatico) ma: -->
 
