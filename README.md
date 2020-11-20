@@ -243,14 +243,16 @@ saranno verosimilmente rifiutate.
 Ora, se si è **terminato** il proprio file:
 * attendere accettazione/merge (comunicata automaticamente via mail);
 * *dare comunicazione* in chat che la modifica del file assegnato è
-  completa (per motivi logistici, aka "sbloccare" la revisione). Il
-  modo migliore per farlo è rispondere all'assegnazione con un
-  messaggio tipo "terminato"/"completato". Es.
+  completa (per motivi logistici, aka "sbloccare" la revisione). 
+  
+  Il modo migliore per farlo è rispondere all'assegnazione con un
+  messaggio tipo "terminato"/"completato" (per *trovare
+  l'assegnazione* la cosa più facile è cercare il proprio username
+  GitHub nella chat). Es
 
 	![trn_completa](img/translate_completa.jpg)
  
-  Per *trovare l'assegnazione* la cosa più facile è cercare il proprio
-  username GitHub nella chat.
+  
 * si può procedere a richiesta di un nuovo file da modificare, re-iniziando
   dal punto 2.
 
