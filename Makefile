@@ -14,6 +14,9 @@ help:
 edit-users-db:
 	libreoffice --calc data/users.csv
 
+list-users:
+	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); db <- db[order(db[,1]), ]; rownames(db) <- NULL; print(db)'
+
 # ------------------------------------------------
 # Target per editing sottotitoli originali pre-trn
 # ------------------------------------------------

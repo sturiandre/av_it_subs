@@ -30,7 +30,7 @@ del gruppo Telegram "AV: Traduttori e Revisori", occorre:
    sino a verificare la mail);
    
 2. comunicarmi il login GitHub con cui intendete collaborare (lo
-   username) per "abilitazione";
+   username), per [abilitazione](data/users.csv);
 
 3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", dare il "comando":
 
