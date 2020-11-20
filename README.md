@@ -247,7 +247,7 @@ Ora, se si è **terminato** il proprio file:
   modo migliore per farlo è rispondere all'assegnazione con un
   messaggio tipo "terminato"/"completato". Es.
 
-	![trn_completa](img/translate_completa.png)
+	![trn_completa](img/translate_completa.jpg)
  
   Per *trovare l'assegnazione* la cosa più facile è cercare il proprio
   username GitHub nella chat.
