@@ -178,11 +178,11 @@ Per lavorare alle traduzioni:
 	file, del tipo:
 	
 	```
-	subs/hnva2/subs_012000_luca_braglia
+	subs/hnva2/subs_012000_lbraglia.srt
 	```
 	che sta a significare: ti è stato assegnato
 	
-	* il file `subs_012000_luca_braglia` (uno
+	* il file `subs_012000_lbraglia.srt` (uno
 	spezzone di sottotitoli che inizia approssimativamente a
 	`01:20:00` nel video) 
 	* che si trova nella cartella `hnva2` (che contiene i sottotitoli
@@ -196,7 +196,7 @@ Per lavorare alle traduzioni:
 
 4. cliccare sulla cartella del video (`hnva2` nell'esempio)
 
-	![subs dir](img/hnva2_dir.png)
+	![hnva2 dir](img/hnva2_dir.png)
 
 5. arrivati a questo punto conviene **salvare questa pagina nei
    preferiti** (per accedervi facilmente alle prossime sessioni)
@@ -204,9 +204,9 @@ Per lavorare alle traduzioni:
    velocizzerà l'accesso al file assegnato.
 
    Cliccare dunque sul nome del file che ci è stato assegnato
-   (`subs_012000_luca_braglia` nell'esempio);
+   (`subs_012000_lbraglia.srt` nell'esempio);
 
-   ![subs dir](img/subs_file_select.png)
+   ![subs file_select](img/subs_file_select.png)
 
 6. ora **visionare il lavoro da fare nel suo complesso**, seguendo [le
    istruzioni riportate qui](help.md);
@@ -215,12 +215,12 @@ Per lavorare alle traduzioni:
    puoi cliccare sul pulsante matita per procedere alla modifica del
    file (quello a destra dei bottoni `Raw` e `Blame`);
 
-   ![subs dir](img/pencil.png)
+   ![pencil](img/pencil.png)
 
 8. fare le modifiche/tradurre (non preoccuparsi del messaggio "You are
    making changes ...")
    
-   ![subs dir](img/editing.png)
+   ![editing](img/editing.png)
 
    Se si vuole avere un sommario delle modifiche effettuate spostarsi
    nel tab `Preview changes`;
@@ -229,15 +229,15 @@ Per lavorare alle traduzioni:
    nella pagina, verso la sezione `Propose changes`: cliccare sul
    tasto verde `Propose changes`
 
-	![subs dir](img/propose_changes.png)
+	![propose_changes](img/propose_changes.png)
 
 10. cliccare sul pulsante verde `Create Pull Request`
    
-   ![subs dir](img/pull_request1.png)
+   ![pull_request1](img/pull_request1.png)
 
 11. cliccare su `Create Pull Request`;
 
-	![subs dir](img/pull_request2.png)
+	![pull_request2](img/pull_request2.png)
 
 12. fine!! 
 

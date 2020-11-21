@@ -27,6 +27,9 @@ split-source-subs:
 # -----------------------------------------------
 # Target per assegnare sandbox e file da tradurre
 # -----------------------------------------------
+edit-assign-files:
+	emacs -nw /tmp/translate /tmp/sandbox 
+
 assign:
 	av_yt_assign --prj $(PRJ) \
 	--sandbox_file /tmp/sandbox \
