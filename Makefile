@@ -30,7 +30,8 @@ split-source-subs:
 assign:
 	av_yt_assign --prj $(PRJ) \
 	--sandbox_file /tmp/sandbox \
-	--translate_file /tmp/translate
+	--translate_file /tmp/translate \
+	2>&1 | less
 
 # # incolla filettini e crea srt finale
 # srt:
