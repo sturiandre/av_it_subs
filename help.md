@@ -30,8 +30,8 @@ video.
 
   ![url inizio file](img/url_inizio_file.png)
 
-* può essere molto utile **stampare** i sottotitoli per poter avere un
-  documento di lavoro; 
+* può essere davvero molto utile **stampare** i sottotitoli per poter
+  avere un documento di lavoro cartaceo;
   
 * riascoltare più volte l'audio, scorrendo visivamente i sottotitoli
   in contemporanea. Si consiglia di ascoltare anche un pezzo di video
@@ -40,8 +40,9 @@ video.
 * iniziare ad abbozzare punteggiatura, traduzione, e ad evidenziare
   *dubbi*;
 
-* non esitare a domandare/condividere eventuali dubbi nella chat.
-  Alcuni suggerimenti su come porre domande sono dati nel seguito;
+* non esitare a domandare/condividere eventuali dubbi nella chat "AV:
+  Traduttori e Revisori".  Alcuni suggerimenti su come farlo sono forniti
+  nel seguito;
 
 * una volta che abbiamo una idea compiuta della traduzione da
   effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
@@ -50,15 +51,15 @@ video.
 * durante la modifica è possibile lasciare una nota per i revisori
   usando la medesima convenzione del testo in inglese. Vale la regola:
   tutto ciò che sta dopo due cancelletti è "informaticamente"
-  ignorato. Ad esempio:
+  ignorato. Ad esempio, questo è assolutamente ok:
 
 	```
 	3
 	00:00:33,000 --> 00:00:49,000
 	## SEPARATION OF CALVES
 	## 
-	## Per revisori: qui nel dubbio tra XXX, YYY e ZZZ si è
-	## optato alla fine per Y andando per esclusione.
+	## Per i revisori: qui nel dubbio tra XXX, YYY e ZZZ alla fine si è
+	## adottato YYY andando per esclusione.
 	## Infatti ...
 	## 
 	YYY
