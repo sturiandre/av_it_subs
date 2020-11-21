@@ -1,10 +1,10 @@
-.PHONY: sandbox split srt
 .DEFAULT_GOAL = help
 
 PRJ     = test
 R_HOME  = "$(shell R RHOME)"
 RSCRIPT = "$(R_HOME)/bin/Rscript"
 USE_GTRANSLATE = FALSE
+BROWSER = firefox
 
 # ------------------------------------------------
 # Target per editing user database
@@ -29,14 +29,16 @@ split-source-subs:
 # -----------------------------------------------
 assign:
 	av_yt_assign --prj $(PRJ) \
-	--sandbox $(SND) --sandbox_file /tmp/sandbox \
-	--translate $(TRN) --translate_file /tmp/translate
-
+	--sandbox_file /tmp/sandbox \
+	--translate_file /tmp/translate
 
 # # incolla filettini e crea srt finale
 # srt:
 # 	${RSCRIPT} -e "library(lbav); srt <- read_srt(pipe('cat subs/$(PRJ)/subs_*')); write_srt(srt, f = 'subs/$(PRJ)/$(PRJ)_final.srt')"
 
+
+git-log-analysis:
+	av_yt_git_log_analysis --prj $(PRJ) 
 
 # help
 help:
@@ -62,8 +64,8 @@ help:
 	@echo " edit-source-subs   - edit original source from speech-to-text (in source dir)"
 	@echo " split-source-subs  - split original source subs for translation"
 	@echo
-	@echo "   es: make split YT-cJ9kGZMbyVw"
-	@echo "   es: make split PRJ-hnva2 YT-cJ9kGZMbyVw"
+	@echo "   es: make split YT=cJ9kGZMbyVw"
+	@echo "   es: make split PRJ-hnva2 YT=cJ9kGZMbyVw"
 	@echo
 	@echo "--------------------------------"
 	@echo "Assignments (sandbox, translate) "
@@ -72,6 +74,12 @@ help:
 	@echo " assign              - create a sandbox or assign a translate"
 	@echo
 	@echo "    es: make assign PRJ-hnva2 SND-'luca1 luca2' TRN-'luca3 luca4'"
+	@echo
+	@echo "-----"
+	@echo "Utils"
+	@echo "-----"
+	@echo
+	@echo " git-log-analysis           - analyze git logs with gitinspector"
 	@echo
 	@echo "----------------"
 	@echo "Useful variables"
@@ -82,3 +90,6 @@ help:
 	@echo " SND                 - users for sandbox requests (command-line specified)"
 	@echo " TRN                 - users for translate requests (command-line specified)"
 	@echo
+
+
+
