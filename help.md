@@ -13,17 +13,56 @@ Caldamente consigliate:
 
 ## Il workflow da adottare
 
-Il modo peggiore, da **non** adottare, consiste nel partire a testa
-bassa con la modifica dei subs su GitHub, procedendo un sub alla
-volta, e non ascoltando il video.
+Il file da tradurre è molto diverso da quello provato in sandbox
+(strumentale per l'esercizio delle skill informatiche di base). È un
+file sicuramente più lungo e verosimilmente meno "predigerito" dal
+punto di vista dell'inglese riportato.
 
-**Sviluppare qui con:**
+Nell'attività di traduzione il modo *peggiore* di procedere, da
+**non adottare**, consiste nel partire a testa bassa con la modifica
+dei subs su GitHub, procedendo un sub alla volta, e non ascoltando il
+video.
 
-- [ ] workflow con stampa e visione
+**Quello che viceversa si consiglia caldamente di fare è:**
+
+* puntare il proprio browser all'url riportato a inizio file; questo è
+  il link all'inizio dello spezzone di propria competenza:
 
   ![url inizio file](img/url_inizio_file.png)
 
-- [ ] come lasciare una nota ai revisori
+* può essere molto utile **stampare** i sottotitoli per poter avere un
+  documento di lavoro; 
+  
+* riascoltare più volte l'audio, scorrendo visivamente i sottotitoli
+  in contemporanea. Si consiglia di ascoltare anche un pezzo di video
+  precedente e uno susseguente, per contesto;
+
+* iniziare ad abbozzare punteggiatura, traduzione, e ad evidenziare
+  *dubbi*;
+
+* non esitare a domandare/condividere eventuali dubbi nella chat.
+  Alcuni suggerimenti su come porre domande sono dati nel seguito;
+
+* una volta che abbiamo una idea compiuta della traduzione da
+  effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
+  possiamo procedere alla modifica dei file;
+
+* durante la modifica è possibile lasciare una nota per i revisori
+  usando la medesima convenzione del testo in inglese. Vale la regola:
+  tutto ciò che sta dopo due cancelletti è "informaticamente"
+  ignorato. Ad esempio:
+
+	```
+	3
+	00:00:33,000 --> 00:00:49,000
+	## SEPARATION OF CALVES
+	## 
+	## Per revisori: qui nel dubbio tra XXX, YYY e ZZZ si è
+	## optato alla fine per Y andando per esclusione.
+	## Infatti ...
+	## 
+	YYY
+	```
 
 
 ## Ottenere aiuto
