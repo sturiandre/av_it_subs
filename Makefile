@@ -28,7 +28,9 @@ split-source-subs:
 # Target per assegnare sandbox e file da tradurre
 # -----------------------------------------------
 assign:
-	av_yt_assign --prj $(PRJ) --sandbox $(SND) --translate $(TRN)
+	av_yt_assign --prj $(PRJ) \
+	--sandbox $(SND) --sandbox_file /tmp/sandbox \
+	--translate $(TRN) --translate_file /tmp/translate
 
 
 # # incolla filettini e crea srt finale
@@ -77,6 +79,6 @@ help:
 	@echo
 	@echo " PRJ                 - project name"
 	@echo " YT                  - YouTube id of the video"
-	@echo " SND                 - users for sandbox requests"
-	@echo " TRN                 - users for translate requests"
+	@echo " SND                 - users for sandbox requests (command-line specified)"
+	@echo " TRN                 - users for translate requests (command-line specified)"
 	@echo
