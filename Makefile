@@ -8,7 +8,7 @@ BROWSER = firefox
 # Default project infos
 PRJ     = test
 YT_ID   = cJ9kGZMbyVw
-USE_GTRANSLATE = FALSE
+# USE_GTRANSLATE = FALSE # se disp test_it.srt lo usa, se no amen, kiss
 CHUNKS_LEN_MINS = 5   #lunghezza dei chunk di sottotitoli per splitting
 
 # ------------------------------------------------
