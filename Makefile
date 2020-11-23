@@ -8,7 +8,7 @@ BROWSER = firefox
 # Default project infos
 PRJ     = test
 YT_ID   = cJ9kGZMbyVw
-# USE_GTRANSLATE = FALSE # se disp test_it.srt lo usa, se no amen, kiss
+# USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, kiss
 CHUNKS_LEN_MINS = 5   #lunghezza dei chunk di sottotitoli per splitting
 
 # ------------------------------------------------
@@ -27,7 +27,7 @@ edit-source-subs:
 	gnome-subtitles source/${PRJ}_en.srt
 
 split-source-subs:
-	av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --use_gtranslate ${USE_GTRANSLATE} --chunks_len_mins ${CHUNKS_LEN_MINS}
+	av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
 
 # -----------------------------------------------
 # Target per assegnare sandbox e file da tradurre
@@ -39,6 +39,17 @@ assign:
 	av_yt_assign --prj $(PRJ) \
 	--sandbox_file /tmp/sandbox \
 	--translate_file /tmp/translate \
+	2>&1 | less
+
+# -------------------------------------------------------
+# Target per markare i translate completi e fare il check
+# -------------------------------------------------------
+edit-completed-files:
+	emacs -nw /tmp/translate_completed
+
+mark-as-completed:
+	av_yt_mark_as_completed --prj $(PRJ) \
+	--translate_file /tmp/translate_completed \
 	2>&1 | less
 
 # # incolla filettini e crea srt finale
@@ -98,6 +109,3 @@ help:
 	@echo " SND                 - users for sandbox requests (command-line specified)"
 	@echo " TRN                 - users for translate requests (command-line specified)"
 	@echo
-
-
-
