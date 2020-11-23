@@ -30,8 +30,9 @@ video.
 
   ![url inizio file](img/url_inizio_file.png)
 
-* può essere davvero molto utile **stampare** i sottotitoli per poter
-  avere un documento di lavoro cartaceo;
+* può essere davvero molto utile **stampare** (su carta riciclata) i
+  sottotitoli, per poter avere un supporto utile per
+  appunti/annotazioni ecc;
   
 * **riascoltare più volte** l'audio, **scorrendo visivamente i sottotitoli**
   in contemporanea. Si consiglia di ascoltare anche un pezzo di video
@@ -105,9 +106,8 @@ Per costruire un post del genere:
 * serve ottenere i link ad un determinato punto in YouTube (ed
   eventualmente GitHub): questo verrà spiegato *in seguito*;
  
-* può essere molto comodo (anzi assolutamente consigliato) scrivere tale
-  post da PC mediante [Telegram Web](https://web.telegram.org) 
-  (e se ti trovi bene ti consiglio di
+* può essere molto comodo scrivere tale post da PC mediante [Telegram
+  Web](https://web.telegram.org) (e se ti trovi bene ti consiglio di
   provare [Telegram Desktop](https://desktop.telegram.org/)).
 
 
