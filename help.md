@@ -106,7 +106,7 @@ Per costruire un post del genere:
   eventualmente GitHub): questo verrà spiegato *in seguito*;
  
 * può essere molto comodo (anzi assolutamente consigliato) scrivere tale
-  post mediante [Telegram Web](https://web.telegram.org) 
+  post da PC mediante [Telegram Web](https://web.telegram.org) 
   (e se ti trovi bene ti consiglio di
   provare [Telegram Desktop](https://desktop.telegram.org/)).
 
