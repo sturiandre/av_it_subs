@@ -33,22 +33,22 @@ video.
 * può essere davvero molto utile **stampare** i sottotitoli per poter
   avere un documento di lavoro cartaceo;
   
-* riascoltare più volte l'audio, scorrendo visivamente i sottotitoli
+* **riascoltare più volte** l'audio, **scorrendo visivamente i sottotitoli**
   in contemporanea. Si consiglia di ascoltare anche un pezzo di video
   precedente e uno susseguente, per contesto;
 
-* iniziare ad abbozzare punteggiatura, traduzione, e ad evidenziare
+* iniziare ad **abbozzare** punteggiatura, traduzione, e ad evidenziare
   *dubbi*;
 
-* non esitare a domandare/condividere eventuali dubbi nella chat "AV:
+* non esitare a **domandare/condividere eventuali dubbi** nella chat "AV:
   Traduttori e Revisori".  Alcuni suggerimenti su come farlo sono forniti
   nel seguito;
 
 * una volta che abbiamo una idea compiuta della traduzione da
   effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
-  possiamo procedere alla modifica dei file;
+  possiamo **procedere alla modifica** dei file;
 
-* durante la modifica è possibile lasciare una nota per i revisori
+* durante la modifica è possibile **lasciare una nota per i revisori**
   usando la medesima convenzione del testo in inglese. Vale la regola:
   tutto ciò che sta dopo due cancelletti è "informaticamente"
   ignorato. Ad esempio, questo è assolutamente ok:
