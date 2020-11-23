@@ -8,8 +8,8 @@ BROWSER = firefox
 # Default project infos
 PRJ     = test
 YT_ID   = cJ9kGZMbyVw
-# USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, kiss
-CHUNKS_LEN_MINS = 5   #lunghezza dei chunk di sottotitoli per splitting
+# USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, KISS
+CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
 
 # ------------------------------------------------
 # Target per editing user database
@@ -20,9 +20,9 @@ edit-users-db:
 list-users:
 	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); db <- db[order(db[,1]), ]; rownames(db) <- NULL; print(db)' | less
 
-list-revisors:
-	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\nRevisors: ", sprintf("@%s", revisors), "\n\n")'\
-	| less
+# list-revisors:
+# 	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\nRevisors: ", sprintf("@%s", revisors), "\n\n")'\
+# 	| less
 
 # ------------------------------------------------
 # Target per sottotitoli originali pre-translation
@@ -47,20 +47,19 @@ assign:
 
 # -------------------------------------------------------
 # Target per markare i translate completi e fare il check
+# revisioni, creare le revisioni ed evocare revisori
 # -------------------------------------------------------
 edit-completed-files:
-	emacs -nw /tmp/translate_completed
+	emacs -nw /tmp/completed_files
 
 mark-as-completed:
 	av_yt_mark_as_completed --prj $(PRJ) \
-	--translate_file /tmp/translate_completed \
+	--completed_files /tmp/completed_files \
 	2>&1 | less
 
-# # incolla filettini e crea srt finale
-# srt:
-# 	${RSCRIPT} -e "library(lbav); srt <- read_srt(pipe('cat subs/$(PRJ)/subs_*')); write_srt(srt, f = 'subs/$(PRJ)/$(PRJ)_final.srt')"
-
-
+# ------------
+# Misc & utils
+# ------------
 git-log-analysis:
 	av_yt_git_log_analysis --prj $(PRJ) 
 
