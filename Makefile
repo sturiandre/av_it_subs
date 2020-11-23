@@ -24,7 +24,7 @@ list-users:
 # Target per sottotitoli originali pre-translation
 # ------------------------------------------------
 edit-source-subs:
-	gnome-subtitles source/${PRJ}_en.srt
+	gnome-subtitles source/hnva2_en.srt
 
 split-source-subs:
 	av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
