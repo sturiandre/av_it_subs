@@ -51,7 +51,7 @@ video.
 
 * durante la modifica è possibile **lasciare una nota per i revisori**
   usando la medesima convenzione del testo in inglese. Vale la regola:
-  tutto ciò che sta dopo due cancelletti è "informaticamente"
+  tutto ciò che sta **dopo due cancelletti** è "informaticamente"
   ignorato. Ad esempio, questo è assolutamente ok:
 
 	```
