@@ -10,6 +10,9 @@ PRJ     = test
 YT_ID   = cJ9kGZMbyVw
 # USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, KISS
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
+TRN_TO_REV_RATIO = 4  #quanti translate completi per creare una revisione?
+# es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 4 una revisione è
+# di 20 minuti e ingloba 4 translate di 5 minuti ciascuno
 
 # ------------------------------------------------
 # Target per editing user database
@@ -55,6 +58,7 @@ edit-completed-files:
 mark-as-completed:
 	av_yt_mark_as_completed --prj $(PRJ) \
 	--completed_files /tmp/completed_files \
+	--trn_to_rev_ratio ${TRN_TO_REV_RATIO} \
 	2>&1 | less
 
 # ------------

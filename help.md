@@ -18,8 +18,8 @@ Il file da tradurre è molto diverso da quello provato in sandbox
 file sicuramente più lungo e verosimilmente meno "predigerito" dal
 punto di vista dell'inglese riportato.
 
-Nell'attività di traduzione il modo *peggiore* di procedere, da
-**non adottare**, consiste nel partire a testa bassa con la modifica
+Nell'attività di traduzione **il modo peggiore di procedere**, **da
+non adottare**, consiste nel partire a testa bassa con la modifica
 dei subs su GitHub, procedendo un sub alla volta, e non ascoltando il
 video.
 
