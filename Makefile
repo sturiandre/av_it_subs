@@ -64,6 +64,9 @@ mark-as-completed:
 # ------------
 # Misc & utils
 # ------------
+monitoring:
+	av_yt_monitoring --prj $(PRJ)
+
 git-log-analysis:
 	av_yt_git_log_analysis --prj $(PRJ) 
 
