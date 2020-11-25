@@ -23,9 +23,9 @@ edit-users-db:
 list-users:
 	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); db <- db[order(db[,1]), ]; rownames(db) <- NULL; print(db)' | less
 
-# list-revisors:
-# 	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\nRevisors: ", sprintf("@%s", revisors), "\n\n")'\
-# 	| less
+summon-revisors:
+	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\nRevisors: ", sprintf("@%s", revisors), "\n\n")'\
+	| less
 
 # ------------------------------------------------
 # Target per sottotitoli originali pre-translation
