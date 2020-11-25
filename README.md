@@ -270,12 +270,24 @@ approvate. Tuttavia sono state sottomesse/non perse).
 
 ## Istruzioni per i revisori
 
-work in progress ...
+Per poter effettuare revisioni, dopo aver letto le [linee
+guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+occorre:
 
-<!-- Revisione: la revisione procederà in maniera simile alla traduzione -->
-<!-- (da un punto di vista informatico) ma: -->
+1. creare (gratuitamente) un account su
+   [GitHub](https://www.github.com) ("Sign Up" e seguire la procedura
+   sino a verificare la mail);
+   
+2. comunicarmi lo username GitHub con cui intendete collaborare, per
+   [abilitazione](data/users.csv);
 
-<!-- - con la richiesta @lucailgarb #revise; -->
-<!-- - verranno assegnati più file tradotti, posti in sequenza tra loro; -->
-<!-- - terminata sarà necessario darne comunicazione. -->
-
+3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
+   Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
+   per la revisione. Si può richiedere una assegnazione mediante:
+   
+	```
+	@lucailgarb #revise
+	```
+4. dopodiché l'attività di revisione segue gli stessi modi (dal punto
+   di vista informatico) di quella di traduzione; per tale aspetto,
+   quindi, fare riferimento a quanto riportato in precedenza.
