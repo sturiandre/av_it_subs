@@ -13,11 +13,6 @@ Caldamente consigliate:
 
 ## Il workflow da adottare
 
-Il file da tradurre è molto diverso da quello provato in sandbox
-(strumentale per l'esercizio delle skill informatiche di base). È un
-file sicuramente più lungo e verosimilmente meno "predigerito" dal
-punto di vista dell'inglese riportato.
-
 Nell'attività di traduzione **il modo peggiore di procedere**, **da
 non adottare**, consiste nel partire a testa bassa con la modifica
 dei subs su GitHub, procedendo un sub alla volta, e non ascoltando il
@@ -117,8 +112,8 @@ Come detto, a inizio del file da tradurre vi è un url che ti porta in
 prossimità dell'inizio dei tuoi sottotitoli. Dobbiamo ottenere
 qualcosa del genere per il punto del dubbio. 
 
-Per farlo posizionati in tale punto sul video, dopodiché clicca su
-"Condividi":
+Per farlo posizionati in tale punto sul video (in quello con i
+sottotitoli, non nell'originale), dopodiché clicca su "Condividi":
 
 ![yt_link1](img/yt_link1.png)
 
