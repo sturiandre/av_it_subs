@@ -30,8 +30,8 @@ summon-revisors:
 # ------------------------------------------------
 # Target per sottotitoli originali pre-translation
 # ------------------------------------------------
-edit-source-subs:
-	gnome-subtitles source/hnva2_en.srt
+# edit-source-subs:
+# 	gnome-subtitles source/hnva2_en.srt
 
 split-source-subs:
 	av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
@@ -80,9 +80,9 @@ burn-with-subs:
 	ffmpeg -i video/$(PRJ).mp4 -vf ass=source/$(PRJ)_en.ass \
 	/tmp/$(PRJ)_en_subtitled.mp4
 
-
-
-# help
+# ------------
+# Help
+# ------------
 help:
 	@echo "====="
 	@echo "Usage"
@@ -98,12 +98,12 @@ help:
 	@echo
 	@echo " edit-users-db      - edit users data"
 	@echo " list-users         - list users and permissions"
+	@echo " summon-revisors    - list revisors with @ for easy telegram copy'n paste"
 	@echo
 	@echo "-----------"
 	@echo "Subs source "
 	@echo "-----------"
 	@echo
-	@echo " edit-source-subs   - edit original source from speech-to-text (in source dir)"
 	@echo " split-source-subs  - split original source subs for translation"
 	@echo
 	@echo "   es: make split-source-subs YT_ID=cJ9kGZMbyVw"
@@ -113,21 +113,34 @@ help:
 	@echo "Assignments (sandbox, translate) "
 	@echo "--------------------------------"
 	@echo
+	@echo " edit-assign-files   - create/edit /tmp/sandbox and /tmp/translate"
 	@echo " assign              - create sandboxes or assign translates"
 	@echo "                       using /tmp/sandbox and /tmp/translate"
+	@echo
+	@echo "--------------------------------"
+	@echo "Assignments (sandbox, translate) "
+	@echo "--------------------------------"
+	@echo
+	@echo " edit-completed-files   - create/edit /tmp/completed_files"
+	@echo " mark-as-completed      - mark file as completed using /tmp/completed_files"
+	@echo "                          check for available revisions and summon revisors"
 	@echo
 	@echo "-----"
 	@echo "Utils"
 	@echo "-----"
 	@echo
+	@echo " monitoring                 - plot advancement status"
 	@echo " git-log-analysis           - analyze git logs with gitinspector"
-	@echo
+	@echo " view-with-subs             - mpv the video with subs from source"
+	@echo " burn-with-subs             - burn the subs into the video (output in /tmp)"
+	@echo 
 	@echo "----------------"
 	@echo "Useful variables"
 	@echo "----------------"
 	@echo
 	@echo " PRJ                 - project name"
 	@echo " YT_ID               - YouTube id of the video"
-	@echo " SND                 - users for sandbox requests (command-line specified)"
-	@echo " TRN                 - users for translate requests (command-line specified)"
+	@echo " CHUNKS_LEN_MINS     - minutes (length) for subs-chunks splitting (default = 5mins)"
+	@echo " TRN_TO_REV_RATIO    - how much subs for a rev (default = 4)"
 	@echo
+
