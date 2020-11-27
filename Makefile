@@ -70,6 +70,18 @@ monitoring:
 git-log-analysis:
 	av_yt_git_log_analysis --prj $(PRJ) 
 
+# mplayer the video with subs
+view-with-subs:
+	mplayer --sub-file=source/$(PRJ)_en.srt  video/$(PRJ).mp4 
+
+# make a version of the video with subs
+burn-with-subs:
+	ffmpeg -i source/$(PRJ)_en.srt source/$(PRJ)_en.ass && \
+	ffmpeg -i video/$(PRJ).mp4 -vf ass=source/$(PRJ)_en.ass \
+	/tmp/$(PRJ)_en_subtitled.mp4
+
+
+
 # help
 help:
 	@echo "====="
