@@ -7,7 +7,7 @@ BROWSER = firefox
 
 # Default project infos
 PRJ     = test
-YT_ID   = cJ9kGZMbyVw
+YT_ID   = Jaok_8MNntQ
 # USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, KISS
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
 TRN_TO_REV_RATIO = 4  #quanti translate completi per creare una revisione?
