@@ -6,7 +6,7 @@ RSCRIPT = "$(R_HOME)/bin/Rscript"
 BROWSER = firefox
 
 # Default project infos
-PRJ     = test
+PRJ     = hnva2
 YT_ID   = Jaok_8MNntQ
 # USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, KISS
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
