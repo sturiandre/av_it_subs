@@ -11,30 +11,27 @@ occorre:
    sino a verificare la mail);
    
 2. comunicarmi lo username GitHub con cui intendete collaborare, per
-   [abilitazione](data/users.csv);
+   [abilitazione](data/users.csv). 
 
-3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", postare la richiesta:
-
-	```
-	@lucailgarb #sandbox
-	```
-	per richiedere la predisposizione di un file di prova (prima di
-	passare alle modifiche sui subs ufficiali).
-	
 	Verrà risposto un nome file: tradurlo e sottomettere la revisione,
 	*come illustrato nel seguito* (occorre leggere fino a fine pagina
 	per saper cosa/come fare).
 	
-	Quando ci si sente ragionevolmente a proprio agio con la procedura
-    di modifica/sottomissione (si può chiedere `#sandbox` più volte) si
-    può passare allo step successivo;
+	Una volta fatto, se ci si sente ragionevolmente a proprio agio con
+    la procedura di modifica/sottomissione si può passare allo step
+    successivo, alternativamente si può chiedere
+	
+	```
+	@lucailgarb #sandbox
+	```
+	per la predisposizione di un altro file di prova;
 
-4. per richiedere l'assegnazione di uno spezzone di sottotitoli postare:
+3. per richiedere l'assegnazione di uno spezzone di sottotitoli postare:
    
 	```
 	@lucailgarb #translate
 	```
-5. in seguito, *i revisori abilitati* potranno richiedere
+4. in seguito, *i revisori abilitati* potranno richiedere
    l'assegnazione di uno spezzone da revisionare mediante:
    
 	```
@@ -263,19 +260,20 @@ occorre:
 
 3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", postare la richiesta:
 
-	```
-	@lucailgarb #sandbox
-	```
-	per richiedere la predisposizione di un file di prova. 
 	
 	Verrà risposto un nome file: revisionare correggendo la traduzione
 	italiana. Informaticamente l'attività di revisione segue gli
 	stessi modi di quella di traduzione; per tale aspetto, quindi,
 	fare riferimento a quanto riportato in precedenza.
 	
-	Quando ci si sente ragionevolmente a proprio agio con la procedura
-    (si può chiedere `#sandbox` più volte) si può passare allo step
-    successivo;
+	Se ci si sente ragionevolmente a proprio agio con la procedura si
+     può passare allo step successivo, altrimenti è possibile chiedere
+
+	```
+	@lucailgarb #sandbox
+	```
+	per richiedere la predisposizione di un altro file di prova; 
+
 
 4. periodicamente (quando disponibili) nel gruppo Telegram "AV:
    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
