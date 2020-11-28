@@ -263,8 +263,9 @@ occorre:
 	stessi modi di quella di traduzione; per tale aspetto, quindi,
 	fare riferimento a quanto riportato in precedenza.
 	
-	Se ci si sente ragionevolmente a proprio agio con la procedura si
-     può passare allo step successivo, altrimenti è possibile chiedere
+	Una volta fatto, se ci si sente ragionevolmente a proprio agio con
+    la procedura si può passare allo step successivo, altrimenti è
+    possibile chiedere
 
 	```
 	@lucailgarb #sandbox
