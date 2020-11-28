@@ -257,9 +257,6 @@ occorre:
    
 2. comunicarmi lo username GitHub con cui intendete collaborare, per
    [abilitazione](data/users.csv);
-
-3. nel gruppo Telegram "AV: Traduzioni e Sub YouTube", postare la richiesta:
-
 	
 	Verrà risposto un nome file: revisionare correggendo la traduzione
 	italiana. Informaticamente l'attività di revisione segue gli
