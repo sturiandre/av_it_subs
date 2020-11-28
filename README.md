@@ -1,25 +1,5 @@
 # AV subs (IT)
 
-## NB/Aggiornamento
-
-**Attenzione**: in questo momento stiamo lavorando per
-
-* costituire il team di traduzione/revisione, contarci, organizzarci;
-* terminare di mettere a punto infrastruttura e documentazione;
-* ottenere il file da tradurre (ossia inglese validato e in sync con
-  il video).
-
-Al momento pertanto *non è possibile ancora tradurre* (portate
-pazienza ;) ); tuttavia, per mettersi avanti, è possibile
-impratichirsi con lo strumento che verrà impiegato (una volta pronti)
-mediante richieste `#sandbox`, come descritto sotto.
-
-Appena sarà possibile iniziare a tradurre ne verrà data comunicazione
-nella chat "AV: Traduzioni e Sub YouTube", dopodiché si accetteranno
-richieste `#translate`.
-
-Stay tuned.
-
 ## Setup/Overview
 
 Per poter contribuire alla traduzione, dopo aver letto le [linee
