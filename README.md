@@ -13,9 +13,9 @@ occorre:
 2. comunicarmi lo username GitHub con cui intendete collaborare, per
    [abilitazione](data/users.csv). 
 
-	Verrà risposto un nome file: tradurlo e sottomettere la revisione,
-	*come illustrato nel seguito* (occorre leggere fino a fine pagina
-	per saper cosa/come fare).
+	Verrà risposto un nome file di prova: tradurlo e sottomettere la
+	revisione, *come illustrato nel seguito* (occorre leggere fino a
+	fine pagina per saper cosa/come fare).
 	
 	Una volta fatto, se ci si sente ragionevolmente a proprio agio con
     la procedura di modifica/sottomissione si può passare allo step
@@ -258,10 +258,10 @@ occorre:
 2. comunicarmi lo username GitHub con cui intendete collaborare, per
    [abilitazione](data/users.csv);
 	
-	Verrà risposto un nome file: revisionare correggendo la traduzione
-	italiana. Informaticamente l'attività di revisione segue gli
-	stessi modi di quella di traduzione; per tale aspetto, quindi,
-	fare riferimento a quanto riportato in precedenza.
+	Verrà risposto un nome file di prova: revisionare correggendo la
+	traduzione italiana. Informaticamente l'attività di revisione
+	segue gli stessi modi di quella di traduzione; per tale aspetto,
+	quindi, fare riferimento a quanto riportato in precedenza.
 	
 	Una volta fatto, se ci si sente ragionevolmente a proprio agio con
     la procedura si può passare allo step successivo, altrimenti è
