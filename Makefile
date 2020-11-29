@@ -36,24 +36,18 @@ summon-revisors:
 split-source-subs:
 	av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
 
-# -----------------------------------------------
-# Target per assegnare sandbox e file da tradurre
-# -----------------------------------------------
-edit-assign-files:
-	emacs -nw /tmp/translate /tmp/sandbox 
+# ----------------------------------------------------------------------
+# Target per editare file di supporto, assegnare e markare completamenti
+# ----------------------------------------------------------------------
+edit-files:
+	rm -rf /tmp/completed_files /tmp/translate /tmp/sandbox && \
+	emacs -nw /tmp/completed_files /tmp/translate /tmp/sandbox
 
 assign:
 	av_yt_assign --prj $(PRJ) \
 	--sandbox_file /tmp/sandbox \
 	--translate_file /tmp/translate \
 	2>&1 | less
-
-# -------------------------------------------------------
-# Target per markare i translate completi e fare il check
-# revisioni, creare le revisioni ed evocare revisori
-# -------------------------------------------------------
-edit-completed-files:
-	emacs -nw /tmp/completed_files
 
 mark-as-completed:
 	av_yt_mark_as_completed --prj $(PRJ) \
