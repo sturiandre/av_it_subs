@@ -18,7 +18,7 @@ TRN_TO_REV_RATIO = 4  #quanti translate completi per creare una revisione?
 # Target per editing user database
 # ------------------------------------------------
 edit-users-db:
-	libreoffice --calc data/users.csv
+	emacs -nw data/users.csv
 
 list-users:
 	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); db <- db[order(db[,1]), ]; rownames(db) <- NULL; print(db)' | less
@@ -37,12 +37,20 @@ split-source-subs:
 	av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
 
 # ----------------------------------------------------------------------
-# Target per editare file di supporto, assegnare e markare completamenti
+# Target per editare file di supporto, 
 # ----------------------------------------------------------------------
-edit-files:
-	rm -rf /tmp/completed_files /tmp/translate /tmp/sandbox && \
-	emacs -nw /tmp/completed_files /tmp/translate /tmp/sandbox
+edit-sandbox:
+	rm -rf /tmp/sandbox && emacs -nw /tmp/sandbox
 
+edit-translate:
+	rm -rf /tmp/translate && emacs -nw /tmp/translate
+
+edit-completed:
+	rm -rf /tmp/completed_files && 	emacs -nw /tmp/completed_files
+
+# --------------------------------------------
+# Target per assegnare e markare completamenti
+# --------------------------------------------
 assign:
 	av_yt_assign --prj $(PRJ) \
 	--sandbox_file /tmp/sandbox \
