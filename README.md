@@ -50,19 +50,19 @@ ai cubi:
 ```
 1
 00:00:00,000 --> 00:00:01,200
-PRODOTTI CASEARI
+Prodotti caseari
 
 2
 00:00:02,000 --> 00:00:24,000
-INSEMINAZIONE FORZATA
+Inseminazione forzata
 
 3
 00:00:33,000 --> 00:00:49,000
-SEPARAZIONE DEI NEONATI
+Separazione dei neonati
 
 4
 00:00:51,000 --> 00:01:04,000
-QUESTA È UNA PRATICA STANDARD
+Questa è una pratica standard
 ```
 
 Vi è dunque:
@@ -77,17 +77,17 @@ Questo è quello a cui dobbiamo, *alla fine di tutto*, arrivare.
 ## Come/cosa modificare
 Per permettere la **revisione** delle traduzioni noi lavoreremo su un file
 *lievemente diverso*, che includa sia l'originale che la traduzione.
-Questo è quello che troverete:
+Questo è simile a quello che troverete:
 ```
 3
 00:00:33,000 --> 00:00:49,000
-## NEWBORN SEPARATION
+## Newborn separation
 
 
 
 4
 00:00:51,000 --> 00:01:04,000
-## THIS IS STANDARD PRACTICE
+## This is standard practice
 
 
 
@@ -102,38 +102,20 @@ Come segue:
 ```
 3
 00:00:33,000 --> 00:00:49,000
-## NEWBORN SEPARATION
-SEPARAZIONE DEI NEONATI
+## Newborn separation
+Separazione dei neonati
 
 
 
 4
 00:00:51,000 --> 00:01:04,000
-## THIS IS STANDARD PRACTICE
-QUESTA È PRATICA STANDARD
+## This is standard practice
+Questa è pratica standard
 
 
 
 ```
 
-<!-- Infine nella traduzione occorre rispettare lo stile -->
-<!-- maiuscolo/minuscolo e l'eventuale splitting su più righe, ossia è -->
-<!-- corretto procedere come segue: -->
-<!-- ``` -->
-<!-- ## THIS IS STANDARD PRACTICE -->
-<!-- QUESTA È UNA PRATICA STANDARD -->
-
-
-<!-- ## This is standard practice -->
-<!-- Questa è una pratica standard -->
-
-
-<!-- ## This is a very very -->
-<!-- ## long subtitle -->
-<!-- Questo è un sottotitolo -->
-<!-- verameeente lungo -->
-
-<!-- ``` -->
 
 
 ## Istruzioni per i traduttori
