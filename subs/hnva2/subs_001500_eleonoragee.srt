@@ -8,20 +8,20 @@
 00:15:01,680 --> 00:15:06,560
 ## okay i'm gonna have to this is ten years ago 
 ## but the temperament of the times right now  
-ok, devo (in sottofondo "dieci anni fa")
+ok, devo (dieci anni fa)
 (ma l'attitudine in questo momento)
 
 
 ##nota per i revisori: lo spezzone comincia con la sovrapposizione di due voci. un video riprodotto in sottofondo e Paul che parla su zoom.
 ##nota per i revisori segue: in cam Paul dice, ok devo staccare il microfono. Scusate ragazzi non mi sono reso conto che stavo riproducendo il video 
-## nota per i revisori segue: tra le parentesi inserisco la traduzione dell'audio che si sente in sottofondo
+##nota per i revisori segue: tra le parentesi inserisco la traduzione dell'audio che si sente in sottofondo
 
 
 111
 00:15:07,680 --> 00:15:12,080
 ## from what i can see is that most people already 
 ## get sorry about that guys i didn't realize that  
-( da quello che vedo, la maggior parte delle persone)
+(da quello che vedo, la maggior parte delle persone)
 scusate ragazzi, non mi sono reso conto
 
 
@@ -81,7 +81,7 @@ mi chiamo Paul Bashir e sono
 00:16:27,280 --> 00:16:32,800
 ## is paul bashir i am the co-founder and 
 ## director of anonymous for the voiceless  
-mi chiamo Paul Bashire e sono il co-fondatoe
+mi chiamo Paul Bashir e sono il co-fondatore
 e direttore di Anonymous for the Voiceless
 
 
@@ -98,14 +98,14 @@ nel Giugno del 2015. Ho fondato AV con
 ## partner who i met basically just before we started 
 ## av asal and we started av in april of 2016.  
 la mia compagna Asal che ho incontrato poco prima
-che lanciassimo AV, nell'Aprile del 2016.
+che lanciassimo AV nell'Aprile del 2016.
 
 
 122
 00:16:50,080 --> 00:16:54,800
 ## since then we've become one of the most prominent 
 ## animal rights organizations in the world not  
-da allora siamo diventati una delle organizzazioni
+Da allora siamo diventati una delle organizzazioni
 piú importanti nel mondo per la difesa dei diritti degli animali
 
 
@@ -113,16 +113,16 @@ piú importanti nel mondo per la difesa dei diritti degli animali
 00:16:54,800 --> 00:16:58,960
 ## that it's a goal of ours necessarily at 
 ## the moment to have a billion chapters  
-non che al momento sia uno dei nostri obiettivi
-quello di avere miliardi di capitoli.
+non che al momento quello di avere miliardi di capitoli
+sia uno dei nostri obiettivi.
 
 
 124
 00:16:59,760 --> 00:17:06,800
 ## that was our goal but we've changed that now to 
 ## wanting to have chapters who are working with us  
-E' stato il nostro obiettivo, ma ci siamo rifocalizzati
-nel cercare capitoli che lavorini con noi
+E' stato il nostro target, ma ci siamo rifocalizzati
+nel cercare capitoli che lavorini con noi,
 
 
 125
@@ -154,15 +154,14 @@ abbiamo delle regole e una struttura precisa.  Crediamo
 ## really important because the more serious we take 
 ## our roles on the streets or in general the more  
 sia davvero importante perchè più prendiamo seriamente
-le nostre regole nelle piazze o in generale, più
+il nostro ruolo in strada o in generale,
 
-##nota per i revisori: al 155 secondo me dice roles e non rules. quindi piu prendiamo seriamente il nostro ruolo... ecc
 
 129
 00:17:28,720 --> 00:17:34,640
 ## serious people take us and the message as you know 
 ## we have rules like wearing all black at the cubes  
-le persone prenderanno seriamente noi e il nostro messaggio.
+piú le persone prenderanno seriamente noi e il nostro messaggio.
 Come sapete abbiamo la regola di vestirci completamente di nero durante i Cubi
 
 
@@ -170,7 +169,7 @@ Come sapete abbiamo la regola di vestirci completamente di nero durante i Cubi
 00:17:35,440 --> 00:17:42,320
 ## we wear the masks and only one kind of mask in the 
 ## cube we form a square cube structure there's the
-indossiamo maschere e solo di un certo tipo
+indossiamo maschere e solo di un certo tipo,
 nel Cubo formiamo un quadrato, c'è il team che fa
 
 
@@ -180,14 +179,14 @@ nel Cubo formiamo un quadrato, c'è il team che fa
 ## outreach team in the cube team so we have these 
 ## kinds of structures another thing that we have  
 outreach e c'è il team che fa il Cubo.  Abbiamo quindi
-questo tipo di procedure. Un'altra cosa che adottiamo
+questo tipo di regole. Un altro standard che adottiamo
 
 
 132
 00:17:46,880 --> 00:17:50,560
 ## as a standardized structure is the outreach and 
 ## that's what i'm going to be talking to you about  
-come standard è l'outreach.
+è nel fare outreach.
 Ed è di questo che vi voglio parlare oggi
 
 
@@ -196,14 +195,14 @@ Ed è di questo che vi voglio parlare oggi
 ## today and the standard outreach approach that we 
 ## expect at the cubes is there to help you and help  
 E l'approccio standard che ci aspettiamo
-nell'outreach durante i Cubi è a vostra disposizione per 
+nelle conversazioni durante i Cubi è a vostra disposizione per 
 
 
 134
 00:17:58,080 --> 00:18:02,640
 ## everybody that does outreach to be effective 
 ## and the only thing i've found to be fulfilling  
-aiutare voi e tutti coloro che desiderano una conversazione efficace.
+aiutare voi e tutti coloro che desiderano essere efficaci.
 E l'unica vera soddisfazione 
 
 
@@ -228,7 +227,7 @@ se presterete attenzione. Come forse saprete,
 ## you've seen some outreach from me but it's from 
 ## the earlier stages and only recently did i start  
 alcuni avranno visto delle mie conversazioni, ma risalgono
-ai primi tentativi.  Solo recentemente, lo scorso anno, ho imiziato
+a esperienze passate.  Solo recentemente, lo scorso anno, ho iniziato
 
 
 138
@@ -251,98 +250,109 @@ adottando diversi approcci, desideroso
 00:18:34,080 --> 00:18:41,120
 ## wanted to see what stuck what didn't i'm teaching 
 ## you nuts and bolts stuff here that i've observed  
-di vedere cosa cunzionava e cosa mon funzionava.  
-Vi sto insegnando le regole fondamentali di ciò che ho osservato
+di vedere cosa funzionava e cosa non funzionava.  
+Vi sto insegnando le regole fondamentali di ciò che ho osservato, 
 
 
 141
 00:18:41,120 --> 00:18:48,400
 ## i've learned i've applied and i have observed 
 ## others apply and i can deem confidently now works  
-
+appreso, adottato e ho osservato
+altri applicare e ora posso dire con certezza che funziona
 
 
 142
 00:18:48,400 --> 00:18:53,760
 ## effectively for everybody this is also an approach 
 ## that is truly for everybody but i'm going to start  
-
+efficacemente per tutti. È un metodo
+onesto e chiaro per tutti.  Ma desidero partire
 
 
 143
 00:18:53,760 --> 00:18:59,360
 ## from the very top here with the definition 
 ## of veganism because in our movement right now  
-
+dall'inizio, con la definizione
+di veganesimo perchè nel nostro movimento in questo momento
 
 
 144
 00:19:00,080 --> 00:19:04,160
 ## veganism is confused like everybody has a 
 ## different definition have you noticed this  
-
-
+si fa confusione. Ognuno ha una
+definizione diversa. Ci avete fatto caso?
 
 145
 00:19:05,360 --> 00:19:10,720
 ## does this bother you guys yeah don't you wish 
 ## we're on the same page about this wouldn't it be  
-
+Vi da' fastidio? Non preferireste
+essere tutti allineati? Non sarebbe
 
 
 146
 00:19:10,720 --> 00:19:16,320
 ## easier i don't know why we're so confused about 
 ## it it seems pretty straightforward but i'll get  
-
+più semplice? Non capisco perchè siamo così confusi,
+sembrerebbe così immediato. Vi darò
 
 
 147
 00:19:16,320 --> 00:19:22,960
 ## into the definition of veganism for you it's a way 
 ## of living that seeks to exclude any form of animal  
-
-
+la definizione di veganesimo 
+È uno stile di vita che cerca di escludere ogni forma di 
 
 148
 00:19:22,960 --> 00:19:29,520
 ## exploitation as much as practicably possible 
 ## in the definition it doesn't include anything  
-
+sfruttamento animale quanto più praticamente possibile.
+La definizione non riguarda nulla
 
 
 149
 00:19:29,520 --> 00:19:35,200
 ## to do with the environment it doesn't include 
 ## anything to do with human health it's purely about  
-
+che abbia a che fare con l'ambiente, non include
+nulla sulla salute umana, è esclusivamente focalizzata
 
 
 150
 00:19:35,920 --> 00:19:42,480
 ## animals and their rights and it really is that 
 ## simple another thing i'd like to tell you and  
-
+sugli animali e i loro diritti, ed è davvero così semplice.
+Un'altra cosa che desidero dirvi
 
 
 151
 00:19:42,480 --> 00:19:50,480
 ## this has helped me to understand the function of 
 ## an activist is to be a medium of truth because  
-
+che mi ha aiutato a comprendere il ruolo di un
+attivista, è che dobbiamo essere veicolo di verità
 
 
 152
 00:19:50,480 --> 00:19:57,280
 ## truth exists in this world but it doesn't act on 
 ## its own so we need to act and we need to speak the  
-
+La verità esiste nel mondo ma non agisce da sola
+Quindi siamo noi a dover agire, a dover raccontare
 
 
 153
 00:19:57,280 --> 00:20:03,680
 ## truth we need to continually speak the truth 
 ## and we need to act on it as much as possible  
-
+la verità, dobbiamo costantemente raccontare la verità
+e agire in base ad essa quanto più possibile
 
 
