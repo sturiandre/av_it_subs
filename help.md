@@ -11,6 +11,20 @@ Caldamente consigliate:
 [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
+## Il file su cui lavoriamo per la traduzione
+
+Il file su cui dobbiamo operare è stato generato (tipicamente) dal
+software di speech to text di Google/YT, a partire dal video originale.
+
+Per quanto riguarda il riconoscimento delle parole (soprattutto in
+inglese e quando l'audio è chiaro) oramai questi software fanno
+abbastanza "paura"; quello che ancora fanno fatica a capire sono i
+toni (es quindi fanno fatica a capire le domande, la punteggiatura
+ecc). 
+
+Ma qui entrate in gioco voi e l'imprescindibilità, quando si andrà a
+tradurre e preparare i subs, di *ascoltare/guardare* il video.
+
 ## Il workflow da adottare
 
 Nell'attività di traduzione **il modo peggiore di procedere**, **da
