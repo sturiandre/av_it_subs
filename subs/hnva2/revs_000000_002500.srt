@@ -483,8 +483,8 @@ risponderò velocemente ma questa sarà
 
 100
 00:13:19,600 --> 00:13:23,280
-l'ultima domanda a cui  risponderò
-prima di cominciare e  voglio 
+l'ultima domanda a cui risponderò
+prima di cominciare e voglio 
 
 101
 00:13:23,280 --> 00:13:27,280
@@ -535,8 +535,8 @@ ok, devo (dieci anni fa)
 (ma l'attitudine in questo momento)
 # REVISORI: primo sub di spezzone
 # REVISORI: lo spezzone comincia con la sovrapposizione di due voci. un video riprodotto in sottofondo e Paul che parla su zoom.
-# REVISORI segue: in cam Paul dice, ok devo staccare il microfono. Scusate ragazzi non mi sono reso conto che stavo riproducendo il video 
-# REVISORI segue: tra le parentesi inserisco la traduzione dell'audio che si sente in sottofondo
+# REVISORI: in cam Paul dice, ok devo staccare il microfono. Scusate ragazzi non mi sono reso conto che stavo riproducendo il video 
+# REVISORI: tra le parentesi inserisco la traduzione dell'audio che si sente in sottofondo
 
 111
 00:15:07,680 --> 00:15:12,080
@@ -995,7 +995,7 @@ risponderò ma non andrò a fare questo,
 
 202
 00:24:33,920 --> 00:24:41,520
-perchè ho realizzato che sono solo 
+perché ho realizzato che sono solo 
 scuse ridicole e non ci sono scuse che 
 
 203
