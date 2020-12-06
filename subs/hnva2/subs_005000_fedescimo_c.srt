@@ -195,8 +195,8 @@ perché abbiamo bisogno di un impegno da parte loro, in modo
 ## this is a two-way conversation so you shouldn't 
 ## be talking to people who are obviously unreachable  
 che questa sia una conversazione bilaterale; quindi non dovreste
-## PER I REVISORI: "two-way conversation" resa con "conversazione bilaterale" per evitare fraintendimenti rendendo la traduzione: "conversazione a doppio senso"
 parlare a persone che sono evidentemente irraggiungibili,
+# REVISORI: "two-way conversation" resa con "conversazione bilaterale" per evitare fraintendimenti rendendo la traduzione: "conversazione a doppio senso"
 
 
 477
@@ -309,7 +309,7 @@ domande su domande. Ci saranno molte
 ## you the flaw to speak and lecturing them in that  
 occasioni durante l'interazione in cui vi daranno
 la parola e impartire loro degli insegnamenti in quel 
-## PER I REVISORI: nei sub inglesi è "floor to speak" non "flaw". Anche nelle righe seguenti (punti 492 e 499)
+# REVISORI: nei sub inglesi è "floor to speak" non "flaw". Anche nelle righe seguenti (punti 492 e 499)
 
 
 491

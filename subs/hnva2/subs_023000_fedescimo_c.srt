@@ -18,8 +18,8 @@ che le piante abbiano sentimenti, per esempio, è come
 ## really get deep into it and they're like yeah 
 ## like they feel stuff and like yeah they're like  
 se ci andassero davvero a nozze, tipo
-## PER I REVISORI: ho tradotto con un senso figurato "andarci a nozze" piuttosto che "andarci a fondo"
 "Sì, loro provano emozioni, sì", e 
+# REVISORI: ho tradotto con un senso figurato "andarci a nozze" piuttosto che "andarci a fondo"
 
 
 1379
@@ -255,8 +255,8 @@ che può aiutare la vostra comunicazione, ma feel,
 ## fat found no you don't really need to use 
 ## that and we've removed it it's unnecessary
 felt, found no, non c'è davvero bisogno che lo 
-## PER I REVISORI: nei sub eng, "felt" non "fat"
 usiate e lo abbiamo rimosso, non è necessario.
+# REVISORI: nei sub eng, "felt" non "fat"
 
 
 1409

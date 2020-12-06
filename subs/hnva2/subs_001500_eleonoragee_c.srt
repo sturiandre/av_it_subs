@@ -11,9 +11,9 @@
 ok, devo (dieci anni fa)
 (ma l'attitudine in questo momento)
 # REVISORI: primo sub di spezzone
-#nota per i revisori: lo spezzone comincia con la sovrapposizione di due voci. un video riprodotto in sottofondo e Paul che parla su zoom.
-#nota per i revisori segue: in cam Paul dice, ok devo staccare il microfono. Scusate ragazzi non mi sono reso conto che stavo riproducendo il video 
-#nota per i revisori segue: tra le parentesi inserisco la traduzione dell'audio che si sente in sottofondo
+# REVISORI: lo spezzone comincia con la sovrapposizione di due voci. un video riprodotto in sottofondo e Paul che parla su zoom.
+# REVISORI segue: in cam Paul dice, ok devo staccare il microfono. Scusate ragazzi non mi sono reso conto che stavo riproducendo il video 
+# REVISORI segue: tra le parentesi inserisco la traduzione dell'audio che si sente in sottofondo
 
 
 111
@@ -74,7 +74,7 @@ fatemi sapere nei commenti se riuscite a vederlo e
 ## my name is paul bashir i am my name my name  
 inizio a riprodurre il video ora, ok
 mi chiamo Paul Bashir e sono
-##nota per i revisori: mi chiamo Paul Bashir viene ripetuto due volte
+# REVISORI: mi chiamo Paul Bashir viene ripetuto due volte
 
 119
 00:16:27,280 --> 00:16:32,800

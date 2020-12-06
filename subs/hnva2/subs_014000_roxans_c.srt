@@ -81,7 +81,7 @@ vi ci dedicate con passione non solo vi ci dedicate
 ## you're not just passionate about this this is  
 con passione non stiamo parlando di arte 
 non solo vi ci dedicate con passione questa è  
-## nota per i revisori qui trovo this is an art we are talking about ma dall'audio mi pare dica this isn't art 
+# REVISORI: qui trovo this is an art we are talking about ma dall'audio mi pare dica this isn't art 
 
 963
 01:41:09,520 --> 01:41:15,840

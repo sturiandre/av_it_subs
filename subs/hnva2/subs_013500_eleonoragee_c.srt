@@ -83,8 +83,7 @@ puoi sentirti velocemente molto meglio, per queste ragioni
 ## those reasons next question even if that were true  
 non vale neanche la pena discutere sulla salute e sull'ambiente.
 Prossima domanda.  Vorrei sapere che ne pensi della frase "e anche se fosse tutto vero?"
-
-## nota per revisori: c'è sovrapposizione con la persona che fa la domanda che chiede I just wanted to implore your thoughts on the whole "even if that where true?" reply
+# REVISORI: c'è sovrapposizione con la persona che fa la domanda che chiede I just wanted to implore your thoughts on the whole "even if that where true?" reply
 
 
 909
@@ -427,5 +426,4 @@ come possano ignorare il problema degli animali e mi definiscono piena di odio
 ## of adoption and views around farm animals  
 come convinciamo le persone ad abbandonare una vita di
 indottrinamenti sugli animali da fattoria?
-
-##nota per i revisori: il testo qui in inglese non riflette ciò che dice chi sta facendo la domanda. ho seguito quello che ha detto realmente la persona
+# REVISORI: il testo qui in inglese non riflette ciò che dice chi sta facendo la domanda. ho seguito quello che ha detto realmente la persona

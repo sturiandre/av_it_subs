@@ -280,8 +280,8 @@ per un panino è sbagliato?" "Sì,
 ## that's hard what are your initial thoughts how 
 ## does this kind of stuff make you guys feel guilty
 è orribile." "Quali sono i vostri primi pensieri, come
-## PER I REVISORI: credo che nell'originale dica "this is horrible"
 vi fanno sentire questo genere di cose?" "In colpa"
+# REVISORI: credo che nell'originale dica "this is horrible"
 
 
 732

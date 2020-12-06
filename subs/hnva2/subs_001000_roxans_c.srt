@@ -25,7 +25,7 @@ non siamo in grado di fare le cose giuste qui
 ## to that all right so next question um
 non ha senso ecco la mia risposta
 ok allora prossima domanda
-##per i revisori ho omesso to that perchè in italiano mi suonava male, forse ci sta "alla tua domanda" ma mi sembrava ridondante
+# REVISORI ho omesso to that perchè in italiano mi suonava male, forse ci sta "alla tua domanda" ma mi sembrava ridondante
 
 77
 00:10:27,120 --> 00:10:27,520

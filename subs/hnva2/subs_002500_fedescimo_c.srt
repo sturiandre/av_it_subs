@@ -77,9 +77,8 @@ a essere etichettato come maltrattatore di animali.
 ## and that's what non-vegans are they're abusing 
 ## animals the only reason why they feel comfortable  
 E questo è ciò che sono i non-vegani, stanno abusando
-## PER I REVISORI: ho tradotto "animal abuser" con "maltrattatore", ma penso che qui possa andare bene il verbo "abusando" nonostante il verbo sia sempre "to abuse"
 degli animali. L'unico motivo per cui si sentono a proprio agio 
-
+# REVISORI: ho tradotto "animal abuser" con "maltrattatore", ma penso che qui possa andare bene il verbo "abusando" nonostante il verbo sia sempre "to abuse"
 
 
 216
@@ -131,7 +130,7 @@ che loro non possono giustificare l'abuso degli animali inutilmente,
 ## just compare to any other
 fine della storia. Ogni volta che siete in dubbio
 fate il paragone con ogni altra ingiustizia.
-## PER I REVISORI: nel sub eng manca il termine "injustice" dopo "to any other"
+# REVISORI: nel sub eng manca il termine "injustice" dopo "to any other"
 
 
 
@@ -192,7 +191,7 @@ che dovremmo farlo lo stesso di tanto in tanto?"
 ## not vegan but we're vegetarian delivered chicken  
 "Beh, questa era buona, buona obiezione." "Non siamo
 vegani ma siamo vegetariani, mangiamo pollo,
-## PER I REVISORI: credo che nell'audio dica "we eat chicken" e così anche nella frase successiva. 
+# REVISORI: credo che nell'audio dica "we eat chicken" e così anche nella frase successiva. 
 
 
 

@@ -182,8 +182,8 @@ domanda, ma ci sono domande che stanno arrivando ora,
 ## so i will answer them what does leaf litting mean 
 ## leafleting means handing out pieces of information  
 quindi rispondo. "Cosa significa fare volantinaggio?" 
-## PER I REVISORI: grafia sbagliata nel sub eng: "Leafleting" non "leaf litting"
 Fare volantinaggio significa dare pezzi di informazione
+# REVISORI: grafia sbagliata nel sub eng: "Leafleting" non "leaf litting"
 
 
 

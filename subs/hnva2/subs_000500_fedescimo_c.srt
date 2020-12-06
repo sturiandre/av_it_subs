@@ -17,7 +17,7 @@ ehm se avete qualche domanda
 ## if you can't wait until then drop them in the
 per favore cercate di aspettare fin quando non faccio un Q&A ma
 se non potete aspettare potete lasciarla in
-## PER I REVISORI: indecisa tra "Q&A" e "domanda e risposta"
+# REVISORI: indecisa tra "Q&A" e "domanda e risposta"
 
 
 40
@@ -159,7 +159,7 @@ Accidenti.
 00:07:41,200 --> 00:07:45,360
 ## struggleville trying to get
 Che faticaccia. Sto cercando di fare in modo
-## PER I REVISORI: ho reso "struggleville" con "che faticaccia" in assenza di un corrispettivo italiano. Altra opzione sarebbe lasciare invariato.
+# REVISORI: ho reso "struggleville" con "che faticaccia" in assenza di un corrispettivo italiano. Altra opzione sarebbe lasciare invariato.
 
 
 57
