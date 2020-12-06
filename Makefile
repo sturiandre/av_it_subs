@@ -10,7 +10,7 @@ PRJ     = hnva2
 YT_ID   = Jaok_8MNntQ
 # USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, KISS
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
-TRN_TO_REV_RATIO = 4  #quanti translate completi per creare una revisione?
+TRN_TO_REV_RATIO = 6  #quanti translate completi per creare una revisione?
 # es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 4 una revisione è
 # di 20 minuti e ingloba 4 translate di 5 minuti ciascuno
 
