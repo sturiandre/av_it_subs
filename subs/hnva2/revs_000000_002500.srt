@@ -185,6 +185,7 @@ ehm se avete qualche domanda
 00:05:08,640 --> 00:05:15,200
 per favore cercate di aspettare fin quando non faccio un Q&A ma
 se non potete aspettare potete lasciarla in
+# REVISORI: indecisa tra "Q&A" e "domanda e risposta"
 
 40
 00:05:15,200 --> 00:05:24,720
@@ -266,6 +267,7 @@ Accidenti.
 56
 00:07:41,200 --> 00:07:45,360
 Che faticaccia. Sto cercando di fare in modo
+# REVISORI: ho reso "struggleville" con "che faticaccia" in assenza di un corrispettivo italiano. Altra opzione sarebbe lasciare invariato.
 
 57
 00:07:47,840 --> 00:08:00,240
@@ -367,6 +369,7 @@ non siamo in grado di fare le cose giuste qui
 00:10:12,480 --> 00:10:22,560
 non ha senso ecco la mia risposta
 ok allora prossima domanda
+# REVISORI ho omesso to that perchè in italiano mi suonava male, forse ci sta "alla tua domanda" ma mi sembrava ridondante
 
 77
 00:10:27,120 --> 00:10:27,520
@@ -531,9 +534,9 @@ ah ok
 ok, devo (dieci anni fa)
 (ma l'attitudine in questo momento)
 # REVISORI: primo sub di spezzone
-#nota per i revisori: lo spezzone comincia con la sovrapposizione di due voci. un video riprodotto in sottofondo e Paul che parla su zoom.
-#nota per i revisori segue: in cam Paul dice, ok devo staccare il microfono. Scusate ragazzi non mi sono reso conto che stavo riproducendo il video 
-#nota per i revisori segue: tra le parentesi inserisco la traduzione dell'audio che si sente in sottofondo
+# REVISORI: lo spezzone comincia con la sovrapposizione di due voci. un video riprodotto in sottofondo e Paul che parla su zoom.
+# REVISORI segue: in cam Paul dice, ok devo staccare il microfono. Scusate ragazzi non mi sono reso conto che stavo riproducendo il video 
+# REVISORI segue: tra le parentesi inserisco la traduzione dell'audio che si sente in sottofondo
 
 111
 00:15:07,680 --> 00:15:12,080
@@ -572,6 +575,7 @@ fatemi sapere nei commenti se riuscite a vederlo e
 00:16:14,400 --> 00:16:27,280
 inizio a riprodurre il video ora, ok
 mi chiamo Paul Bashir e sono
+# REVISORI: mi chiamo Paul Bashir viene ripetuto due volte
 
 119
 00:16:27,280 --> 00:16:32,800
@@ -1059,6 +1063,7 @@ a essere etichettato come maltrattatore di animali.
 00:25:54,000 --> 00:26:00,560
 E questo è ciò che sono i non-vegani, stanno abusando
 degli animali. L'unico motivo per cui si sentono a proprio agio 
+# REVISORI: ho tradotto "animal abuser" con "maltrattatore", ma penso che qui possa andare bene il verbo "abusando" nonostante il verbo sia sempre "to abuse"
 
 216
 00:26:00,560 --> 00:26:05,600
@@ -1089,6 +1094,7 @@ che loro non possono giustificare l'abuso degli animali inutilmente,
 00:26:29,920 --> 00:26:33,360
 fine della storia. Ogni volta che siete in dubbio
 fate il paragone con ogni altra ingiustizia.
+# REVISORI: nel sub eng manca il termine "injustice" dopo "to any other"
 
 222
 00:26:37,360 --> 00:26:40,160
@@ -1124,6 +1130,7 @@ che dovremmo farlo lo stesso di tanto in tanto?"
 00:27:09,280 --> 00:27:17,280
 "Beh, questa era buona, buona obiezione." "Non siamo
 vegani ma siamo vegetariani, mangiamo pollo,
+# REVISORI: credo che nell'audio dica "we eat chicken" e così anche nella frase successiva. 
 
 229
 00:27:17,280 --> 00:27:23,680

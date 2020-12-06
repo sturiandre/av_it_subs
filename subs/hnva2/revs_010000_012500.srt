@@ -900,6 +900,7 @@ per un panino è sbagliato?" "Sì,
 01:18:30,000 --> 01:18:35,040
 è orribile." "Quali sono i vostri primi pensieri, come
 vi fanno sentire questo genere di cose?" "In colpa"
+# REVISORI: credo che nell'originale dica "this is horrible"
 
 732
 01:18:38,240 --> 01:18:44,160

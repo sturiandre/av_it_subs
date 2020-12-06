@@ -303,6 +303,7 @@ puoi sentirti velocemente molto meglio, per queste ragioni
 01:35:59,520 --> 01:36:07,360
 non vale neanche la pena discutere sulla salute e sull'ambiente.
 Prossima domanda.  Vorrei sapere che ne pensi della frase "e anche se fosse tutto vero?"
+# REVISORI: c'è sovrapposizione con la persona che fa la domanda che chiede I just wanted to implore your thoughts on the whole "even if that where true?" reply
 
 909
 01:36:08,880 --> 01:36:14,000
@@ -517,6 +518,7 @@ come possano ignorare il problema degli animali e mi definiscono piena di odio
 01:39:55,840 --> 01:40:02,000
 come convinciamo le persone ad abbandonare una vita di
 indottrinamenti sugli animali da fattoria?
+# REVISORI: il testo qui in inglese non riflette ciò che dice chi sta facendo la domanda. ho seguito quello che ha detto realmente la persona
 
 952
 01:40:02,000 --> 01:40:06,800
@@ -573,6 +575,7 @@ vi ci dedicate con passione non solo vi ci dedicate
 01:41:05,280 --> 01:41:09,520
 con passione non stiamo parlando di arte 
 non solo vi ci dedicate con passione questa è  
+# REVISORI: qui trovo this is an art we are talking about ma dall'audio mi pare dica this isn't art 
 
 963
 01:41:09,520 --> 01:41:15,840
@@ -1000,6 +1003,7 @@ vibriamo su questa frequenza, ed è importante.
 01:50:46,800 --> 01:50:53,360
 Dove posso trovare i nuovi materiali per l'outreach?
 Dal tuo organizer, se non ci sono organizer
+# REVISORI: ho tradotto cards con materiali perchè non sapevo se si trattasse di cartoline, brochure o leaflets,  ho volutamente lasciato in inglese organizers
 
 1050
 01:50:53,360 --> 01:50:59,600

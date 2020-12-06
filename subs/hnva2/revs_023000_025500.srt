@@ -8,6 +8,7 @@ che le piante abbiano sentimenti, per esempio, è come
 02:30:07,680 --> 02:30:12,800
 se ci andassero davvero a nozze, tipo
 "Sì, loro provano emozioni, sì", e 
+# REVISORI: ho tradotto con un senso figurato "andarci a nozze" piuttosto che "andarci a fondo"
 
 1379
 02:30:12,800 --> 02:30:23,200
@@ -156,6 +157,7 @@ che può aiutare la vostra comunicazione, ma feel,
 02:34:02,640 --> 02:34:09,281
 felt, found no, non c'è davvero bisogno che lo 
 usiate e lo abbiamo rimosso, non è necessario.
+# REVISORI: nei sub eng, "felt" non "fat"
 
 1409
 02:34:15,200 --> 02:34:19,040
