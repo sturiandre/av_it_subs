@@ -76,7 +76,7 @@ il metodo socratico, l'intervista socratica
 ## is a communication tool that we use within our 
 ## approach it is not an approach in and of itself  
 è uno strumento di comunicazione che utilizziamo
-nel nostro approccio - non è un approccio in sè e per sè -
+nel nostro approccio - non è un approccio in sé e per sé -
 
 
 1427
@@ -100,7 +100,7 @@ di nuovo, okay, l'intervista socratica è
 ## a communication tool that we use within our 
 ## approach it is not an approach in and of itself  
 uno strumento di comunicazione che utilizziamo nel
-nostro approccio - non è un approccio in sè e per sè -
+nostro approccio - non è un approccio in sé e per sé -
 
 
 1430
@@ -123,7 +123,7 @@ riparto dall'inizio, utilizzate domande aperte come
 02:36:45,840 --> 02:36:51,840
 ## as why are you against animal abuse instead of 
 ## a closed statement such as animal abuse is wrong  
-"perchè sei contrario all'abuso sugli animali?" imvece di una
+"perché sei contrario all'abuso sugli animali?" invece di una
 affermazione chiusa come "abusare degli animali è sbagliato"
 
 
@@ -147,7 +147,8 @@ sono generalmente da preferire. Per agganciare
 02:37:03,520 --> 02:37:17,840
 ## and progress the conversation you should use 
 ## closed-ended questions and statements 30 seconds  
-e sviluppare la conversazione dovete usare domande chiuse e affermazioni - 30 secondi -
+e sviluppare la conversazione dovete usare
+domande chiuse e affermazioni - 30 secondi -
 
 
 1436
@@ -177,7 +178,7 @@ il tuo nome correttamente
 1439
 02:37:46,560 --> 02:37:48,400
 ## dania could you also point out the tip about
-Danya, puoi imdicare chiarire il punto sulle
+Danya, puoi indicare chiarire il punto sulle
 
 
 1440
@@ -231,7 +232,7 @@ ad un non-vegano che noi, come società, siamo responsabili
 ## for animal cruelty in farms it takes away the 
 ## imperative for the individual accountability it  
 della crudeltà sugli animali nelle fattorie, eliminiamo
-l'obbligo della responsabilità imdividuale
+l'obbligo della responsabilità individuale
 
 
 1447
