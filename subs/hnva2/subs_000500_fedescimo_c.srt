@@ -8,7 +8,7 @@
 00:05:03,600 --> 00:05:06,320
 ## um if you have any questions
 ehm se avete qualche domanda
-
+# REVISORI: primo sub di spezzone
 
 
 39
@@ -16,8 +16,8 @@ ehm se avete qualche domanda
 ## please try to save them until i do a q a but 
 ## if you can't wait until then drop them in the
 per favore cercate di aspettare fin quando non faccio un Q&A ma
-## PER I REVISORI: indecisa tra "Q&A" e "domanda e risposta"
 se non potete aspettare potete lasciarla in
+## PER I REVISORI: indecisa tra "Q&A" e "domanda e risposta"
 
 
 40

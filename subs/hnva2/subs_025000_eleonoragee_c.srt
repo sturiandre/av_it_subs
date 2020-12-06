@@ -10,8 +10,7 @@
 ## respond to your response should always anchor  
 e necessitano di una spiegazione approfondita, ma si possono comunque
 indirizzare velocemente. La risposta deve sempre
-
-##nota per i revisori: segue da blocco precedente
+# REVISORI: primo sub di spezzone
 
 1538
 02:50:09,600 --> 02:50:21,840

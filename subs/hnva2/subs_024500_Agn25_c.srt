@@ -8,6 +8,7 @@
 02:45:06,960 --> 02:45:13,840
 ## hmm
 Uhm...
+# REVISORI: primo sub di spezzone
 
 
 1495

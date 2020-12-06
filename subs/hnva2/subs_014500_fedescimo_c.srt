@@ -8,6 +8,7 @@
 01:45:07,520 --> 01:45:08,560
 ## okay where is this
 Ok, dov'è?
+# REVISORI: primo sub di spezzone
 
 
 1002

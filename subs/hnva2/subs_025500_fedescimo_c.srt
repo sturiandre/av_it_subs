@@ -8,7 +8,7 @@
 02:55:03,279 --> 02:55:15,840
 ## end the conversation with the statement 30 seconds
 finisci la conversazione con l'affermazione. 30 secondi.
-
+# REVISORI: primo sub di spezzone
 
 1576
 02:55:27,760 --> 02:55:35,280

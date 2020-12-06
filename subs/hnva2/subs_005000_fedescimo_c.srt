@@ -10,6 +10,7 @@
 ## other countries or if it just creates a caption  
 beh, non so bene come funzioni negli
 altri paesi, o se si crea solo un sottotitolo
+# REVISORI: primo sub di spezzone
 
 
 454
