@@ -87,7 +87,7 @@ burn-revise-with-subs:
 	cat subs/$(PRJ)/revs_*.srt > /tmp/$(PRJ)_revs.srt && \
 	ffmpeg -i /tmp/$(PRJ)_revs.srt /tmp/$(PRJ)_revs.ass && \
 	ffmpeg -i video/$(PRJ).mp4 -vf ass=/tmp/$(PRJ)_revs.ass \
-	/tmp/$(PRJ)_it_rev.mp4
+	/tmp/$(PRJ)_it_for_revs.mp4
 
 # ------------
 # Help
