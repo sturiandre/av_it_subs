@@ -269,3 +269,5 @@ occorre:
 	```
 	@lucailgarb #revise
 	```
+
+	Dopodiché seguire le [istruzioni](revise.md) per i revisori. 
