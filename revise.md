@@ -26,7 +26,7 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 2. scaricare (la prima volta) il video: il link si trova nella [pagina
    principale](README.md), ad esempio (per hnva2) qui:
 
-	![video-download](img/video_download.png)
+	![video-original-download](img/video_original_download.png)
 
 3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file

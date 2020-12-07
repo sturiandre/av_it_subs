@@ -39,12 +39,14 @@ Per costruire un post del genere:
 
 ## Ottenere il link al *video* in un dato punto
 
-Come detto, a inizio del file da tradurre vi è un url che ti porta in
-prossimità dell'inizio dei tuoi sottotitoli. Dobbiamo ottenere
-qualcosa del genere per il punto del dubbio. 
+A seconda che tu sia traduttore o revisore ti può tornare comodo un
+video differente (ossia rispettivamente montato con i sub in inglese o
+in italiano)
 
-Per farlo posizionati in tale punto sul video (in quello con i
-sottotitoli, non nell'originale), dopodiché clicca su "Condividi":
+![video-translate-revise](img/video_translate_revise.png)
+
+Una volta scelto il video, per ottenere un link posizionati nel punto
+sul video dopodiché clicca su "Condividi":
 
 ![yt_link1](img/yt_link1.png)
 
