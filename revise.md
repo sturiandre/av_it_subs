@@ -36,21 +36,18 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 	```
 	@lucailgarb #revise
 	```
-
-4. ottenere il file dello spezzone assegnato: TODO
-
-
+	
 	Verrà risposto (quanto prima) un messaggio con la posizione del
 	file, del tipo:
 
 	```
-	subs/hnva2/subs_012000_lbraglia.srt
+	subs/hnva2/revs_000000_002500_lbraglia.srt
 	```
 	che sta a significare: ti è stato assegnato
 
-	* il file `subs_012000_lbraglia.srt` (uno
-	spezzone di sottotitoli che inizia approssimativamente a
-	`01:20:00` nel video)
+	* il file `revs_000000_002500_lbraglia.srt` (uno
+	spezzone di sottotitoli che include da quelli aventi inizio a
+	`00:00:00` a quelli aventi inizio a `00:25:00`)
 	* che si trova nella cartella `hnva2` (che contiene i sottotitoli
 	per "Holding Non-Vegans Accountable 2.0")
 	* posta nella cartella `subs` (che racchiude tutti i
