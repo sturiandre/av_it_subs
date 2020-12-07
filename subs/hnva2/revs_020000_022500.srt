@@ -1019,9 +1019,9 @@ sintomo di efficacia è molto semplice essere d'accordo con idee tipo
 
 1335
 02:25:09,040 --> 02:25:14,080
-# REVISORI: primo sub di spezzone
-um, ad esempio se hanno un cane con sè 
+um, ad esempio se hanno un cane con sé 
 ed è chiaro che gli importa del loro cane, se 
+# REVISORI: primo sub di spezzone
 
 1336
 02:25:14,080 --> 02:25:18,319
@@ -1130,7 +1130,7 @@ quello che si ricorderanno.
 
 1357
 02:27:34,160 --> 02:27:34,639
-Andimao avanti.
+Andiamo avanti.
 
 1358
 02:27:37,600 --> 02:27:42,161
@@ -1220,5 +1220,6 @@ comunque, il modo in cui viene applicato in questo contesto
 
 1376
 02:29:55,040 --> 02:30:02,160
-è che i non-vegani sono molto furbi nell'affrontare questi argomenti con i non vegani.
+è che i non-vegani sono molto furbi nell'affrontare
+ questi argomenti con i non vegani.
 
