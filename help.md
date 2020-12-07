@@ -1,14 +1,10 @@
 # Come affrontare la traduzione al meglio
 
 
-## Risorse
-
-Obbligatorie:
-[[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
-
-Caldamente consigliate:
-[[Telegram Web]](https://web.telegram.org), 
-[[Telegram Desktop]](https://desktop.telegram.org/)
+Risorse | Link
+--------|------
+Obbligatorie | [[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
 ## Il file su cui lavoriamo per la traduzione
