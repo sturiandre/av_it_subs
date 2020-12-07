@@ -76,11 +76,18 @@ git-log-analysis:
 view-with-subs:
 	mplayer --sub-file=source/$(PRJ)_en.srt video/$(PRJ).mp4 
 
-# make a version of the video with subs
-burn-with-subs:
+# make a version of the video with subs (english, for translation)
+burn-translate-with-subs:
 	ffmpeg -i source/$(PRJ)_en.srt source/$(PRJ)_en.ass && \
 	ffmpeg -i video/$(PRJ).mp4 -vf ass=source/$(PRJ)_en.ass \
 	/tmp/$(PRJ)_en_subtitled.mp4
+
+# make a version of the video with subs (english, for translation)
+burn-revise-with-subs:
+	cat subs/$(PRJ)/revs_*.srt > /tmp/$(PRJ)_revs.srt && \
+	ffmpeg -i /tmp/$(PRJ)_revs.srt /tmp/$(PRJ)_revs.ass && \
+	ffmpeg -i video/$(PRJ).mp4 -vf ass=/tmp/$(PRJ)_revs.ass \
+	/tmp/$(PRJ)_it_rev.mp4
 
 # ------------
 # Help
