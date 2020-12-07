@@ -3,7 +3,7 @@
 ## Progetti attivi
 
 id   | Originale | Per traduzione | Per revisione | Finale
------|-----------|----------------|---------------|-------
+:---:|:---------:|:--------------:|:-------------:|:-----:
 hnva2| [Video](https://youtu.be/cJ9kGZMbyVw) | [Video](https://youtu.be/Jaok_8MNntQ) | Video | Video
 
 
