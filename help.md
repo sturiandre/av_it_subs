@@ -59,20 +59,20 @@ video.
   possiamo **procedere alla modifica** dei file;
 
 * durante la modifica è possibile **lasciare una nota per i revisori**
-  usando la medesima convenzione del testo in inglese. Vale la regola:
-  tutto ciò che sta **dopo due cancelletti** è "informaticamente"
-  ignorato. Ad esempio, questo è assolutamente ok:
+  ponendola dopo *1 cancelletto*, come *ultima linea* e assicurandosi che dopo
+  vi sia sempre una *linea vuota* di separazione. Ad esempio:
 
 	```
 	3
 	00:00:33,000 --> 00:00:49,000
-	## SEPARATION OF CALVES
-	## 
-	## Per i revisori: qui nel dubbio tra XXX, YYY e ZZZ alla fine si è
-	## adottato YYY andando per esclusione.
-	## Infatti ...
-	## 
-	YYY
+	## Linea 1 in inglese
+	## Linea 2 in inglese
+	Testo tradotto
+	testo tradotto
+	# REVISORI: qui nel dubbio si è optato per XYZ perché ...
+
+	4
+	...
 	```
 
 
@@ -86,9 +86,9 @@ In caso di dubbi/difficoltà:
 Nel prosieguo ci concentriamo sulla richiesta aiuto per *aspetti
 linguistici*. 
 
-La cosa migliore che tu possa fare (per aumentare la
-facilità/probabilità/velocità di risposta) è un post dettagliato in "AV:
-Traduttori e Revisori"che contenga:
+La cosa migliore che tu possa fare (per aumentare la facilità di
+risposta) è un post dettagliato in "AV: Traduttori e Revisori"che
+contenga:
 
 * info sul punto di interesse (in YT ed eventualmente in GitHub);
 * info sul dubbio/difficoltà.
@@ -96,14 +96,9 @@ Traduttori e Revisori"che contenga:
 Ad esempio (link fittizi):
 
 ```
-Care/i, ho un dubbio su come tradurre nei pressi del sottotitolo 230 che
-trovate qui:
+Care/i, ho un dubbio su come tradurre verso questo punto:
 
 https://youtu.be/cJ9kGZMbyVw?t=3455
-
-e per il testo "fermo" qui: 
-
-https://github.com/lbraglia/av_it_subs/blob/662b792247f56e3203d635d977658c7a6d7ef511/source/test_en.srt#L54
 
 In particolar modo sono indeciso su ...
 
@@ -112,8 +107,8 @@ Grazie as usual
 
 Per costruire un post del genere:
 
-* serve ottenere i link ad un determinato punto in YouTube (ed
-  eventualmente GitHub): questo verrà spiegato *in seguito*;
+* serve ottenere i link ad un determinato punto in YouTube: questo
+  verrà spiegato *in seguito*;
  
 * può essere molto comodo scrivere tale post da PC mediante [Telegram
   Web](https://web.telegram.org) (e se ti trovi bene ti consiglio di
@@ -139,24 +134,24 @@ selezionato) e poi su "Copia" per ottenere il link:
 Dopodiché potrai incollare l'url nel post di richiesta d'aiuto.
 
 
-### Ottenere il link ai *subs* in un dato punto
+<!-- ### Ottenere il link ai *subs* in un dato punto -->
 
-Occorre visualizzare il file assegnato su GitHub (la schermata con la
-matita ... *non* clicchiamo la matita perché non vogliamo effettuare
-modifiche ora) e posizionarsi nei pressi del sottotitolo in questione (es
-sottotitolo 23); clicchiamo sul numero della riga di interesse
-(nell'esempio clicchiamo sul numero 35):
+<!-- Occorre visualizzare il file assegnato su GitHub (la schermata con la -->
+<!-- matita ... *non* clicchiamo la matita perché non vogliamo effettuare -->
+<!-- modifiche ora) e posizionarsi nei pressi del sottotitolo in questione (es -->
+<!-- sottotitolo 23); clicchiamo sul numero della riga di interesse -->
+<!-- (nell'esempio clicchiamo sul numero 35): -->
 
-![gh_link1](img/gh_link1.png)
+<!-- ![gh_link1](img/gh_link1.png) -->
 
-Ci compaiono tre puntini e la linea viene evidenziata. Clicchiamo
-dunque sui tre puntini:
+<!-- Ci compaiono tre puntini e la linea viene evidenziata. Clicchiamo -->
+<!-- dunque sui tre puntini: -->
 
-![gh_link2](img/gh_link2.png)
+<!-- ![gh_link2](img/gh_link2.png) -->
 
-Dopodiché su copy permalink:
+<!-- Dopodiché su copy permalink: -->
 
-![gh_link3](img/gh_link3.png)
+<!-- ![gh_link3](img/gh_link3.png) -->
 
-Analogamente, nel seguito, si potrà incollare l'url nel post di
-richiesta d'aiuto.
+<!-- Analogamente, nel seguito, si potrà incollare l'url nel post di -->
+<!-- richiesta d'aiuto. -->
