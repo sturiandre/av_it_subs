@@ -1,4 +1,4 @@
-# Come affrontare la traduzione al meglio
+# Istruzioni per traduttori
 
 
 Risorse | Link
