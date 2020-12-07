@@ -45,8 +45,8 @@ in italiano)
 
 ![video-translate-revise](img/video_translate_revise.png)
 
-Una volta scelto il video, per ottenere un link posizionati nel punto
-sul video dopodiché clicca su "Condividi":
+Una volta scelto il video per ottenere un link posizionati nel punto
+del dubbio, dopodiché clicca su "Condividi":
 
 ![yt_link1](img/yt_link1.png)
 

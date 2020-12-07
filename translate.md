@@ -7,69 +7,6 @@ Obbligatorie | [[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81El
 Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
-## Il file su cui lavoriamo per la traduzione
-
-Il file su cui dobbiamo operare è stato generato (tipicamente) dal
-software di speech to text di Google/YT, a partire dal video originale.
-
-Per quanto riguarda il riconoscimento delle parole (soprattutto in
-inglese e quando l'audio è chiaro) oramai questi software fanno
-abbastanza "paura"; quello che ancora fanno fatica a capire sono i
-toni (es quindi fanno fatica a capire le domande, la punteggiatura
-ecc). 
-
-Ma qui entrate in gioco voi e l'imprescindibilità, quando si andrà a
-tradurre e preparare i subs, di *ascoltare/guardare* il video.
-
-## Il workflow da adottare
-
-Nell'attività di traduzione **il modo peggiore di procedere**, **da
-non adottare**, consiste nel partire a testa bassa con la modifica
-dei subs su GitHub, procedendo un sub alla volta, e non ascoltando il
-video.
-
-**Quello che viceversa si consiglia caldamente di fare è:**
-
-* puntare il proprio browser all'url riportato a inizio file; questo è
-  il link all'inizio dello spezzone di propria competenza:
-
-  ![url inizio file](img/url_inizio_file.png)
-
-* può essere davvero molto utile **stampare** (su carta riciclata) i
-  sottotitoli, per poter avere un supporto utile per
-  appunti/annotazioni ecc;
-  
-* **riascoltare più volte** l'audio, **scorrendo visivamente i sottotitoli**
-  in contemporanea. Si consiglia di ascoltare anche un pezzo di video
-  precedente e uno susseguente, per contesto;
-
-* iniziare ad **abbozzare** punteggiatura, traduzione, e ad evidenziare
-  *dubbi*;
-
-* non esitare a **domandare/condividere eventuali dubbi** nella chat "AV:
-  Traduttori e Revisori".  Alcuni suggerimenti su come farlo sono forniti
-  nel seguito;
-
-* una volta che abbiamo una idea compiuta della traduzione da
-  effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
-  possiamo **procedere alla modifica** dei file;
-
-* durante la modifica è possibile **lasciare una nota per i revisori**
-  ponendola dopo *1 cancelletto*, come *ultima linea* e assicurandosi che dopo
-  vi sia sempre una *linea vuota* di separazione. Ad esempio:
-
-	```
-	3
-	00:00:33,000 --> 00:00:49,000
-	## Linea 1 in inglese
-	## Linea 2 in inglese
-	Testo tradotto
-	testo tradotto
-	# REVISORI: qui nel dubbio si è optato per XYZ perché ...
-
-	4
-	...
-	```
 ## Setup/Overview
 
 Per poter contribuire alla traduzione, dopo aver letto le [linee
@@ -101,21 +38,31 @@ occorre:
 	```
 	@lucailgarb #translate
 	```
-4. in seguito, *i revisori abilitati* potranno richiedere
-   l'assegnazione di uno spezzone da revisionare mediante:
-   
-	```
-	@lucailgarb #revise
-	```
 
 
-## Formato sottotitoli 
+## Il file su cui lavoriamo per la traduzione
 
-I sottotitoli sono in formato `.srt` ossia un file di testo (tipo
-`.txt`) con una struttura precisa, da rispettare/non modificare.
+Il file su cui dobbiamo operare è stato generato (verosimilmente) dal
+software speech-to-text di Google/YT, a partire dal video originale.
 
-Ad esempio, di seguito uno stralcio per i primi secondi del video che usiamo
-ai cubi:
+Per quanto riguarda il riconoscimento delle parole (soprattutto in
+inglese e quando l'audio è chiaro) oramai questi software fanno
+abbastanza "paura"; quello che ancora fanno fatica a capire sono i
+toni (es quindi fanno fatica a capire le domande, la punteggiatura
+ecc). 
+
+Ma qui entrate in gioco voi e l'imprescindibilità, quando si andrà a
+tradurre e preparare i subs, di *ascoltare/guardare* il video.
+
+
+### Formato sottotitoli 
+
+Informaticamente i sottotitoli si trovano in un file `.srt` ossia un
+file di testo (tipo `.txt`) con una struttura precisa, da
+rispettare/non modificare.
+
+Ad esempio, di seguito uno stralcio per i primi secondi del video che
+usiamo ai cubi:
 
 ```
 1
@@ -135,19 +82,22 @@ Separazione dei neonati
 Questa è una pratica standard
 ```
 
-Vi è dunque:
-* un numero progressivo del sottotitolo;
+Per ogni sottotitolo vi è dunque:
+* un numero progressivo;
 * i secondi di inizio e fine della sua visualizzazione;
 * il testo (che può essere organizzato su più righe);
 * una linea bianca di separazione.
 
-Questo è quello a cui dobbiamo, *alla fine di tutto*, arrivare.
+Questo file (tradotto in italiano) è quello a cui dobbiamo, *alla fine
+di tutto*, arrivare.
 
 
-## Come/cosa modificare
-Per permettere la **revisione** delle traduzioni noi lavoreremo su un file
-*lievemente diverso*, che includa sia l'originale che la traduzione.
-Questo è simile a quello che troverete:
+### Come/cosa modificare
+
+Per permettere la **revisione** delle traduzioni, i traduttori
+lavorano su un file *lievemente diverso*, che includa sia l'originale
+che la traduzione. Uno stralcio/esempio del file che otterrete:
+
 ```
 3
 00:00:33,000 --> 00:00:49,000
@@ -163,10 +113,10 @@ Questo è simile a quello che troverete:
 
 ```
 
-Quello che dovrete fare è la cosa seguente: 
-* lasciare tutto immutato;
-* aggiungere la linea tradotta in italiano sotto a quella inglese;
-* lasciare sempre una linea di spazio alla fine.
+Quello che dovrete fare è la cosa seguente:
+* lasciare **tutto immutato**;
+* **aggiungere la/e linea/e tradotta/e** in italiano sotto a quella inglese;
+* **lasciare almeno una linea di spazio** alla fine.
 
 Come segue:
 ```
@@ -187,8 +137,7 @@ Questa è pratica standard
 ```
 
 
-
-## Istruzioni per i traduttori
+## Il processo step-by-step
 
 Per lavorare alle traduzioni:
 
@@ -238,7 +187,7 @@ Per lavorare alle traduzioni:
    ![subs file_select](img/subs_file_select.png)
 
 6. ora **visionare il lavoro da fare nel suo complesso**, seguendo [le
-   istruzioni riportate qui](help.md);
+   istruzioni riportate qui sotto](translate.md#il-workflow-da-adottare);
 
 7. **una volta chiara la traduzione da effettuare nel suo complesso**,
    puoi cliccare sul pulsante matita per procedere alla modifica del
@@ -295,3 +244,54 @@ Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
 punto 7 (tener conto che le modifiche in precedenza apportate non
 saranno visualizzate, se non sono state nel frattempo
 approvate. Tuttavia sono state sottomesse/non perse).
+
+
+## Il workflow da adottare
+
+Nell'attività di traduzione **il modo peggiore di procedere**, **da
+non adottare**, consiste nel partire a testa bassa con la modifica
+dei subs su GitHub, procedendo un sub alla volta, e non ascoltando il
+video.
+
+**Quello che viceversa si consiglia caldamente di fare è:**
+
+* puntare il proprio browser all'url riportato a inizio file; questo è
+  il link all'inizio dello spezzone di propria competenza:
+
+  ![url inizio file](img/url_inizio_file.png)
+
+* può essere davvero molto utile **stampare** (su carta riciclata) i
+  sottotitoli, per poter avere un supporto utile per
+  appunti/annotazioni ecc;
+  
+* **riascoltare più volte** l'audio, **scorrendo visivamente i sottotitoli**
+  in contemporanea. Si consiglia di ascoltare anche un pezzo di video
+  precedente e uno susseguente, per contesto;
+
+* iniziare ad **abbozzare** punteggiatura, traduzione, e ad evidenziare
+  *dubbi*;
+
+* non esitare a **domandare/condividere eventuali dubbi** nella chat "AV:
+  Traduttori e Revisori".  Alcuni suggerimenti su come farlo sono forniti
+  nel seguito;
+
+* una volta che abbiamo una idea compiuta della traduzione da
+  effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
+  possiamo **procedere alla modifica** dei file;
+
+* durante la modifica è possibile **lasciare una nota per i revisori**
+  ponendola dopo *1 cancelletto*, come *ultima linea* e assicurandosi che dopo
+  vi sia sempre una *linea vuota* di separazione. Ad esempio:
+
+	```
+	3
+	00:00:33,000 --> 00:00:49,000
+	## Linea 1 in inglese
+	## Linea 2 in inglese
+	Testo tradotto
+	testo tradotto
+	# REVISORI: qui nel dubbio si è optato per XYZ perché ...
+
+	4
+	...
+	```
