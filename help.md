@@ -1,78 +1,4 @@
-# Come affrontare la traduzione al meglio
-
-
-Risorse | Link
---------|:----:
-Obbligatorie | [[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
-Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
-
-
-## Il file su cui lavoriamo per la traduzione
-
-Il file su cui dobbiamo operare è stato generato (tipicamente) dal
-software di speech to text di Google/YT, a partire dal video originale.
-
-Per quanto riguarda il riconoscimento delle parole (soprattutto in
-inglese e quando l'audio è chiaro) oramai questi software fanno
-abbastanza "paura"; quello che ancora fanno fatica a capire sono i
-toni (es quindi fanno fatica a capire le domande, la punteggiatura
-ecc). 
-
-Ma qui entrate in gioco voi e l'imprescindibilità, quando si andrà a
-tradurre e preparare i subs, di *ascoltare/guardare* il video.
-
-## Il workflow da adottare
-
-Nell'attività di traduzione **il modo peggiore di procedere**, **da
-non adottare**, consiste nel partire a testa bassa con la modifica
-dei subs su GitHub, procedendo un sub alla volta, e non ascoltando il
-video.
-
-**Quello che viceversa si consiglia caldamente di fare è:**
-
-* puntare il proprio browser all'url riportato a inizio file; questo è
-  il link all'inizio dello spezzone di propria competenza:
-
-  ![url inizio file](img/url_inizio_file.png)
-
-* può essere davvero molto utile **stampare** (su carta riciclata) i
-  sottotitoli, per poter avere un supporto utile per
-  appunti/annotazioni ecc;
-  
-* **riascoltare più volte** l'audio, **scorrendo visivamente i sottotitoli**
-  in contemporanea. Si consiglia di ascoltare anche un pezzo di video
-  precedente e uno susseguente, per contesto;
-
-* iniziare ad **abbozzare** punteggiatura, traduzione, e ad evidenziare
-  *dubbi*;
-
-* non esitare a **domandare/condividere eventuali dubbi** nella chat "AV:
-  Traduttori e Revisori".  Alcuni suggerimenti su come farlo sono forniti
-  nel seguito;
-
-* una volta che abbiamo una idea compiuta della traduzione da
-  effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
-  possiamo **procedere alla modifica** dei file;
-
-* durante la modifica è possibile **lasciare una nota per i revisori**
-  ponendola dopo *1 cancelletto*, come *ultima linea* e assicurandosi che dopo
-  vi sia sempre una *linea vuota* di separazione. Ad esempio:
-
-	```
-	3
-	00:00:33,000 --> 00:00:49,000
-	## Linea 1 in inglese
-	## Linea 2 in inglese
-	Testo tradotto
-	testo tradotto
-	# REVISORI: qui nel dubbio si è optato per XYZ perché ...
-
-	4
-	...
-	```
-
-
-## Ottenere aiuto
+# Ottenere aiuto
 In caso di dubbi/difficoltà:
 
 * per **aspetti linguistici** non esitare a chiedere un parere/aiuto al gruppo
@@ -86,7 +12,7 @@ La cosa migliore che tu possa fare (per aumentare la facilità di
 risposta) è un post dettagliato in "AV: Traduttori e Revisori"che
 contenga:
 
-* info sul punto di interesse (in YT ed eventualmente in GitHub);
+* info sul punto di interesse (nel video YT con i sottotitoli inclusi);
 * info sul dubbio/difficoltà.
 
 Ad esempio (link fittizi):
@@ -111,7 +37,7 @@ Per costruire un post del genere:
   provare [Telegram Desktop](https://desktop.telegram.org/)).
 
 
-### Ottenere il link al *video* in un dato punto
+## Ottenere il link al *video* in un dato punto
 
 Come detto, a inizio del file da tradurre vi è un url che ti porta in
 prossimità dell'inizio dei tuoi sottotitoli. Dobbiamo ottenere
