@@ -14,14 +14,19 @@ traduzione.
 
 ## Setup
 
-Per poter effettuare revisioni, dopo aver letto le [linee
-guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
-occorre:
+Per poter effettuare revisioni per un dato video, dopo aver letto le [linee
+guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing) occorre:
 
-1. installare [Aegisub]((http://www.aegisub.org/), il programma con cui
+1. installare [Aegisub](http://www.aegisub.org/), il programma con cui
    verrà controllato il proprio spezzone;
 
-2. periodicamente (quando disponibili) nel gruppo Telegram "AV:
+2. scaricare (la prima volta) il video da impiegare nel processo: il
+   link si trova nella [pagina principale](README.md), qui (esempio
+   per hnva2):
+
+	![video-download](img/video_download.png)
+
+3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
    per la revisione. Si può richiedere una assegnazione mediante:
    
@@ -29,9 +34,7 @@ occorre:
 	@lucailgarb #revise
 	```
 
-3. download e caricamento video: TODO
-
-4. download e caricamento spezzone assegnato: TODO
+4. ottenere lo spezzone assegnato: TODO
 
 
 ## Il workflow da adottare
