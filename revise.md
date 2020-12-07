@@ -2,7 +2,7 @@
 
 
 Risorse | Link 
---------|------
+--------|:----:
 Obbligatorie | [[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing), [[Aegisub]](http://www.aegisub.org/), [[Telegram Web]](https://web.telegram.org) 
 Consigliate | [[Telegram Desktop]](https://desktop.telegram.org/)
 
