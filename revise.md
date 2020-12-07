@@ -1,15 +1,11 @@
 # Come affrontare la revisione
 
 
-## Risorse
-
-Obbligatorie: 
-[[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing) 
-[[Aegisub]](http://www.aegisub.org/)
-
-Caldamente consigliate:
-[[Telegram Web]](https://web.telegram.org), 
-[[Telegram Desktop]](https://desktop.telegram.org/)
+Risorse | Link 
+--------|------
+Obbligatorie | [[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing), [[Aegisub]](http://www.aegisub.org/),
+[[Telegram Web]](https://web.telegram.org) 
+Consigliate | [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
 ## Il file su cui lavoriamo per la revisione
