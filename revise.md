@@ -71,17 +71,37 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 
    ![subs file_select](img/revs_file_select.png)
 
-7.  Cliccare su Raw per ottenere il file;
+7.  Cliccare su `Raw` per ottenere il file;
 
    ![subs file_select](img/revs_raw.png)
 
 8.  Ora per fare il download del file:
 
 	* in Firefox: cliccare col destro, selezionare "Salva pagina con nome"
+	* in Chrome: cliccare col destro, selezionare "Salva con nome..."
 
+9. arrivati a questo punto dovremmo avere sia il video che i subs da editare
+   in una opportuna cartella
 
+   ![hnva2_folder](img/hnva2_folder.png)
 
+10. fare doppio click sul file `.srt` per fare in modo che Aegisub lo
+    inizi ad editare
+	
+   ![doppio_click](img/doppio_click_sub.png)
 
+11. per caricare il video cliccare `Video -> Apri video`
+
+   ![apri_video](img/apri_video.png)
+
+12. una volta importato il file ci troviamo in una situazione del genere:
+
+   ![post_importazione](img/post_importazione.png)
+
+13. per posizionare il video al primo sub (es soprattutto per i file
+    che iniziano più avanti di `00:00:00`), fare due clic sulla linea
+    del primo sub nella lista, dopodiché schiacciare il tasto play e
+    iniziare il controllo/editing.
 
 ## Il workflow da adottare
 
