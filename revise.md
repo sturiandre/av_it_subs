@@ -18,11 +18,13 @@ Per poter effettuare revisioni per un dato video, dopo aver letto le [linee
 guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing) occorre:
 
 1. installare [Aegisub](http://www.aegisub.org/), il programma con cui
-   verrà controllato il proprio spezzone;
+   verrà controllato il proprio spezzone. Per quanto riguarda Windows
+   è possibile eventualmente optare per la versione portabile (che non
+   richiede installazione e quindi i permessi di amministratore sulla
+   macchina);
 
-2. scaricare (la prima volta) il video da impiegare nel processo: il
-   link si trova nella [pagina principale](README.md), qui (esempio
-   per hnva2):
+2. scaricare (la prima volta) il video: il link si trova nella [pagina
+   principale](README.md), ad esempio (per hnva2) qui:
 
 	![video-download](img/video_download.png)
 
@@ -44,8 +46,7 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 In caso di dubbi/difficoltà:
 
 * per **aspetti linguistici** non esitare a chiedere un parere/aiuto al gruppo
-  "AV: Traduttori e Revisori" seguendo le [istruzioni](help.md) per i 
-  traduttori;
+  "AV: Traduttori e Revisori" seguendo [queste istruzioni](help.md);
 * per **aspetti informatici** contattami direttamente.
 
 ## Istruzioni per i revisori
