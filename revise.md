@@ -53,24 +53,31 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 	* posta nella cartella `subs` (che racchiude tutti i
 	sottotitoli di tutti i video).
 
-3. cliccare quindi sulla cartella `subs`
+4. cliccare quindi sulla cartella `subs`
 
    ![subs dir](img/subs_dir.png)
 
-4. cliccare sulla cartella del video (`hnva2` nell'esempio)
+5. cliccare sulla cartella del video (`hnva2` nell'esempio)
 
 	![hnva2 dir](img/hnva2_dir.png)
 
-5. arrivati a questo punto conviene **salvare questa pagina nei
+6. arrivati a questo punto conviene **salvare questa pagina nei
    preferiti** (per accedervi facilmente alle prossime sessioni)
    perché tutte i file di un dato video si trovano qui e si
    velocizzerà l'accesso al file assegnato.
 
    Cliccare dunque sul nome del file che ci è stato assegnato
-   (`subs_012000_lbraglia.srt` nell'esempio);
+   (`revs_000000_002500_lbraglia.srt` nell'esempio);
 
-   ![subs file_select](img/subs_file_select.png)
+   ![subs file_select](img/revs_file_select.png)
 
+7.  Cliccare su Raw per ottenere il file;
+
+   ![subs file_select](img/revs_raw.png)
+
+8.  Ora per fare il download del file:
+
+	* in Firefox: cliccare col destro, selezionare "Salva pagina con nome"
 
 
 
