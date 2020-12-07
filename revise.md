@@ -81,12 +81,12 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 	* in Chrome: cliccare col destro, selezionare "Salva con nome..."
 
 9. arrivati a questo punto dovremmo avere sia il video che i subs da editare
-   in una opportuna cartella
+   in una opportuna cartella:
 
    ![hnva2_folder](img/hnva2_folder.png)
 
 10. fare doppio click sul file `.srt` per fare in modo che Aegisub lo
-    inizi ad editare
+    inizi ad editare:
 	
    ![doppio_click](img/doppio_click_sub.png)
 
@@ -101,7 +101,14 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 13. per posizionare il video al primo sub (es soprattutto per i file
     che iniziano più avanti di `00:00:00`), fare due clic sulla linea
     del primo sub nella lista, dopodiché schiacciare il tasto play e
-    iniziare il controllo/editing.
+    iniziare il controllo/editing;
+
+14. Importante: **salvare** il lavoro e fare i **backup** del file
+    `.srt` editato;
+
+15. una volta concluso l'editing inviarmi la versione finale per
+    archiviazione e per produzione dell'`.srt` complessivo.
+
 
 ## Il workflow da adottare
 
