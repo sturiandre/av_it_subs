@@ -48,12 +48,12 @@ in italiano)
 Una volta scelto il video per ottenere un link posizionati nel punto
 del dubbio, dopodiché clicca su "Condividi":
 
-![yt_link1](img/yt_link1.png)
+![yt_link1](../img/yt_link1.png)
 
 In seguito clicca su "Inizia da" (per fare iniziare il video dal punto
 selezionato) e poi su "Copia" per ottenere il link:
 
-![yt_link2](img/yt_link2.png)
+![yt_link2](../img/yt_link2.png)
 
 Dopodiché potrai incollare l'url nel post di richiesta d'aiuto.
 
