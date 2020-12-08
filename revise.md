@@ -44,15 +44,20 @@ Per poter effettuare revisioni per un dato video, dopo aver letto le
 guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
 occorre:
 
-1. installare [Aegisub](http://www.aegisub.org/), il programma con cui
-   verrà controllato il proprio spezzone. Per quanto riguarda Windows
-   è possibile eventualmente optare per la versione portabile (che non
-   richiede installazione e quindi i permessi di amministratore sulla
-   macchina);
+0. installare [Aegisub](http://www.aegisub.org/), il programma con cui
+   verrà controllato il proprio spezzone. 
+   
+   Per quanto riguarda Windows è possibile eventualmente optare per la
+   versione portabile (che non richiede installazione e quindi i
+   permessi di amministratore sulla macchina);
 
-2. scaricare (la prima volta) il video senza sottotitoli: il link si
-   trova nella [pagina principale](README.md), ad esempio (per hnva2)
-   qui:
+1. per abilitazione alle richieste di revisione correggere e
+   sottomettermi il file di prova `subs/sandbox/revs_sandbox.srt` (come
+   spiegato in seguito) che è basato sul [questo video](https://drive.google.com/file/d/1bgxoD6IrdfN507xylHW3ylcZk73GBaIc/view?usp=sharing) (da scaricare);
+
+2. scaricare il video senza sottotitoli su cui stiamo lavorando: il
+   link si trova nella [pagina principale](README.md), ad esempio (per
+   hnva2) qui:
 
 	![video-original-download](img/video_original_download.png)
 
@@ -149,6 +154,8 @@ occorre:
     versione finale (come si preferisce, Telegram o
     lbraglia@gmail.com) per archiviazione e per produzione dell'`.srt`
     complessivo.
+	
+16. *repeat* da 3.
 
 
 # Editing con Aegisub
@@ -161,9 +168,9 @@ Un *workflow* minimale:
       
    In particolar modo controllare:
    * **corretta resa in italiano** di quello che viene detto in
-	 inglese, seguendo le linee guida;
+	 inglese, seguendo le [linee guida AV](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing);
    * **leggibilità** del sub, facendo riferimento 
-	 a [guidelines comuni](guidelines.md).
+	 a [convenzioni comuni](guidelines.md).
 
    Evitare di modificare:
    * formattazione (per compatibilità);
