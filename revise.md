@@ -16,8 +16,7 @@ Il file su cui dobbiamo operare:
 
 * include solamente la traduzione in italiano, dato che per l'inglese
   è disponibile l'audio originale (attraverso il caricamento del
-  video), che è la fonte cui ci dobbiamo riferire (piuttosto che
-  l'esito dello speech-to-text);
+  video);
   
 * presenta eventuali commenti lasciati ai revisori come ultima linea
   di sottotitolo, preceduta da `# REVISORI: ...`. Ad esempio
@@ -28,14 +27,14 @@ Il file su cui dobbiamo operare:
                    Testo tradotto 2
   # REVISORI: qui nel dubbio si è optato per XYZ perché ...
   ```
-  e ovviamente, una volta risolto il punto, il commento per i revisori 
-  va cancellato. Incidentalmente la presenza di commenti tende ad 
+  Ovviamente, una volta risolto il punto, il commento per i revisori 
+  andrà cancellato. Incidentalmente la presenza di commenti tenderà ad 
   essere segnalata da metriche di caratteri, per ovvi motivi;
 
-* in corrispondenza dei sub di inizio file di traduzione è stato
+* in corrispondenza dei sub di inizio file per un traduttore è stato
   posto il commento `# REVISORI: primo sub di spezzone`, per segnalare
   l'esigenza di continuità tra quello che precede e quello che segue
-  (prodotto da revisori differenti e indipendentemente).
+  (prodotto da revisori differenti/indipendentemente).
 
 
 ## Setup
