@@ -10,13 +10,19 @@ Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](h
 ## Il file su cui lavoriamo per la revisione
 
 Il file su cui dobbiamo operare:
+
 * è stato creato durante il processo di traduzione ed è il collage di
   più file sequenziali prodotti da traduttori diversi (tipicamente);
-* include solamente la traduzione in italiano dato che per l'inglese è
-  disponibile (attraverso il caricamento del video) l'audio originale;
+
+* include solamente la traduzione in italiano, dato che per l'inglese
+  è disponibile l'audio originale (attraverso il caricamento del
+  video), che è la fonte cui ci dobbiamo riferire (piuttosto che
+  l'esito dello speech-to-text);
+  
 * presenta eventuali commenti lasciati ai revisori come ultima linea
-  di sottotitolo, preceduta da `# REVISORI: ...`. Ad esempio a video
-  in presenza di un commento verrà visualizzato:
+  di sottotitolo, preceduta da `# REVISORI: ...`. Ad esempio
+  in presenza di un commento a video verrà visualizzato:
+  
   ```
                     Testo tradotto
                    Testo tradotto 2
