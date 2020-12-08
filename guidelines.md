@@ -34,7 +34,7 @@ Dialoghi | Quando due parlano nello stesso sub, ad ognuno dovrebbe avere una lin
 
 ## Fonti
 
-[Amara](www.amara.org)
+[Amara](https://www.amara.org)
 
 [How to Tackle a Transcript (TED)](https://translations.ted.com/How_to_Tackle_a_Transcript)
 
