@@ -22,8 +22,9 @@ Il file su cui dobbiamo operare:
                 Testo tradotto 2
 # REVISORI: qui nel dubbio si è optato per XYZ perché ...
   ```
-  e ovviamente, una volta risolto il punto, il commento per i revisori va cancellato;
-  
+  e ovviamente, una volta risolto il punto, il commento per i revisori 
+  va cancellato;
+
 * in corrispondenza dei sub di inizio file di traduzione è stato
   posto il commento `# REVISORI: primo sub di spezzone`, per segnalare
   l'esigenza di continuità tra quello che precede e quello che segue
