@@ -2,7 +2,7 @@
 
 Issue | Regola e/o esempio
 ------|---------------
-Numero linee per sub | max 2 
+\# linee per sub | max 2 
 Lunghezza linea      | max 42 caratteri
 CPS                  | max 20 chars/sec
 Suoni/Musica         | descrivere suoni/musica rilevante tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
