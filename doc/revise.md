@@ -59,10 +59,10 @@ occorre:
    (da scaricare);
 
 2. scaricare il video senza sottotitoli su cui stiamo lavorando: il
-   link si trova nella [pagina principale](README.md), ad esempio (per
+   link si trova nella [pagina principale](../README.md), ad esempio (per
    hnva2) qui:
 
-	![video-original-download](img/video_original_download.png)
+	![video-original-download](../img/video_original_download.png)
 
 3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
@@ -94,11 +94,11 @@ occorre:
 
 5. cliccare quindi sulla cartella `subs`
 
-   ![subs dir](img/subs_dir.png)
+   ![subs dir](../img/subs_dir.png)
 
 6. cliccare sulla cartella del video (`hnva2` nell'esempio)
 
-	![hnva2 dir](img/hnva2_dir.png)
+	![hnva2 dir](../img/hnva2_dir.png)
 
 7. arrivati a questo punto conviene **salvare questa pagina nei
    preferiti** (per accedervi facilmente alle prossime sessioni)
@@ -108,11 +108,11 @@ occorre:
    Cliccare dunque sul nome del file che ci è stato assegnato
    (`revs_000000_002500_lbraglia.srt` nell'esempio);
 
-   ![subs file_select](img/revs_file_select.png)
+   ![subs file_select](../img/revs_file_select.png)
 
 8.  Cliccare su `Raw` per ottenere il file;
 
-   ![subs file_select](img/revs_raw.png)
+   ![subs file_select](../img/revs_raw.png)
 
 9.  Ora per fare il download del file:
 
@@ -122,16 +122,16 @@ occorre:
 	Dopodiché **cancellare** eventuali estensioni `.txt` se proposte dal proprio browser (mentre il "Salva come" è irrilevante)
 
 
-   ![subs file_select](img/firefox_chrome_rightclick.png)
+   ![subs file_select](../img/firefox_chrome_rightclick.png)
 
 	
-   ![subs file_select](img/firefox_chrome_filesave.png)
+   ![subs file_select](../img/firefox_chrome_filesave.png)
 
 
 10. arrivati a questo punto dovremmo avere sia il video che i subs da editare
    in una opportuna cartella (oppure sul Desktop):
 
-   ![hnva2_folder](img/hnva2_folder.png)
+   ![hnva2_folder](../img/hnva2_folder.png)
 
 11. fare doppio click sul file `.srt` per fare in modo che Aegisub lo
     inizi ad editare.
@@ -141,19 +141,19 @@ occorre:
 	
 	Arriviamo ad una schermata analoga:
 	
-   ![doppio_click](img/doppio_click_sub.png)
+   ![doppio_click](../img/doppio_click_sub.png)
 
 12. per caricare il video cliccare `Video -> Apri video`, dopodiché 
 	selezionarlo:
 
-   ![apri_video](img/apri_video.png)
+   ![apri_video](../img/apri_video.png)
 
 13. una volta importato il file ci troviamo in una situazione del
 	genere, dove si consiglia massimizzare la finestra a tutto
 	schermo, porre A al 100% e si possono editare i sottotitoli
 	nel riquadro B
 
-   ![post_importazione](img/post_importazione.png)
+   ![post_importazione](../img/post_importazione.png)
 
 14. per posizionare il video al primo sub (es soprattutto per i file
     che iniziano più avanti di `00:00:00`), fare due clic sulla linea

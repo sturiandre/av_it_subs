@@ -32,7 +32,7 @@ Dialoghi | Quando due persone parlano nello stesso sub, ognuno dovrebbe avere un
 A per numero linee, B lunghezza linea (massima) e C il CPS per il sub
 considerato (il secondo).
 
-![stat_leggibilita_aegisub](img/stat_leggibilita_aegisub.png)
+![stat_leggibilita_aegisub](../img/stat_leggibilita_aegisub.png)
 
 
 ## Fonti

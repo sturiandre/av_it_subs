@@ -18,7 +18,7 @@ occorre:
    sino a verificare la mail);
    
 2. comunicarmi lo username GitHub con cui intendete collaborare, per
-   [abilitazione](data/users.csv). 
+   [abilitazione](../data/users.csv). 
 
 	Verrà risposto un nome file di prova: tradurlo e sottomettere la
 	revisione, *come illustrato nel seguito* (occorre leggere fino a
@@ -170,11 +170,11 @@ Per lavorare alle traduzioni:
 
 3. cliccare quindi sulla cartella `subs`
    
-   ![subs dir](img/subs_dir.png)
+   ![subs dir](../img/subs_dir.png)
 
 4. cliccare sulla cartella del video (`hnva2` nell'esempio)
 
-	![hnva2 dir](img/hnva2_dir.png)
+	![hnva2 dir](../img/hnva2_dir.png)
 
 5. arrivati a questo punto conviene **salvare questa pagina nei
    preferiti** (per accedervi facilmente alle prossime sessioni)
@@ -184,7 +184,7 @@ Per lavorare alle traduzioni:
    Cliccare dunque sul nome del file che ci è stato assegnato
    (`subs_012000_lbraglia.srt` nell'esempio);
 
-   ![subs file_select](img/subs_file_select.png)
+   ![subs file_select](../img/subs_file_select.png)
 
 6. ora **visionare il lavoro da fare nel suo complesso**, seguendo [le
    istruzioni riportate qui sotto](translate.md#il-workflow-da-adottare);
@@ -193,12 +193,12 @@ Per lavorare alle traduzioni:
    puoi cliccare sul pulsante matita per procedere alla modifica del
    file (quello a destra dei bottoni `Raw` e `Blame`);
 
-   ![pencil](img/pencil.png)
+   ![pencil](../img/pencil.png)
 
 8. fare le modifiche/tradurre (non preoccuparsi del messaggio "You are
    making changes ...")
    
-   ![editing](img/editing.png)
+   ![editing](../img/editing.png)
 
    Se si vuole avere un sommario delle modifiche effettuate spostarsi
    nel tab `Preview changes`;
@@ -207,15 +207,15 @@ Per lavorare alle traduzioni:
    nella pagina, verso la sezione `Propose changes`: cliccare sul
    tasto verde `Propose changes`
 
-	![propose_changes](img/propose_changes.png)
+	![propose_changes](../img/propose_changes.png)
 
 10. cliccare sul pulsante verde `Create Pull Request`
    
-   ![pull_request1](img/pull_request1.png)
+   ![pull_request1](../img/pull_request1.png)
 
 11. cliccare su `Create Pull Request`;
 
-	![pull_request2](img/pull_request2.png)
+	![pull_request2](../img/pull_request2.png)
 
 12. fine!! 
 
@@ -234,7 +234,7 @@ Ora, se si è **terminato** il proprio file:
   trovarla *cercare il proprio username GitHub* nella chat) con un
   messaggio del tipo "completato"/"terminato". Es
 
-	![trn_completa](img/translate_completa.jpg)
+	![trn_completa](../img/translate_completa.jpg)
  
   
 * si può procedere a richiesta di un nuovo file da modificare, re-iniziando
@@ -258,7 +258,7 @@ video.
 * puntare il proprio browser all'url riportato a inizio file; questo è
   il link all'inizio dello spezzone di propria competenza:
 
-  ![url inizio file](img/url_inizio_file.png)
+  ![url inizio file](../img/url_inizio_file.png)
 
 * può essere davvero molto utile **stampare** (su carta riciclata) i
   sottotitoli, per poter avere un supporto utile per
