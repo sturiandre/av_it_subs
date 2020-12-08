@@ -160,7 +160,9 @@ Un workflow minimale:
      caratteri e durata del sub in secondi) sotto 20 e spezzare i
      sottotitoli (visualizzati a video) in maniera all'incirca equa.
      Per spezzare una linea come si desidera spostare il carattere
-     `\N` che indica l'andare a capo nel sub Evitare di modificare:
+     `\N` che indica l'andare a capo nel sub.
+
+   Evitare di modificare:
    * formattazione (per compatibilità);
    * timing dei sottotitoli (a meno che si sappia esattamente cosa si
 	 stia facendo).
