@@ -11,7 +11,7 @@ Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](h
 
 Il file su cui dobbiamo operare:
 * è stato creato durante il processo di traduzione ed è il collage di
-  più file prodotti da diversi traduttori (tipicamente);
+  più file sequenziali prodotti da traduttori diversi (tipicamente);
 * include solamente la traduzione in italiano dato che per l'inglese è
   disponibile (attraverso il caricamento del video) l'audio originale;
 * presenta eventuali commenti lasciati ai revisori come ultima linea
