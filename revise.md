@@ -79,11 +79,12 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 
 	* in Firefox: cliccare col pulsante destro, selezionare "Salva pagina con nome" o qualcosa di linguisticamente analogo
 	* in Chrome: cliccare col destro, selezionare "Salva con nome..." o qualcosa di linguisticamente analogo
+	
+	Dopodiché **cancellare** eventuali estensioni `.txt` se proposte dal proprio browser (mentre il "Salva come" è irrilevante)
+
 
    ![subs file_select](img/firefox_chrome_rightclick.png)
 
-Dopodiché **cancellare** eventuali estensioni `.txt` se proposte dal
-proprio browser (mentre il "Salva come" è irrilevante)
 	
    ![subs file_select](img/firefox_chrome_filesave.png)
 
