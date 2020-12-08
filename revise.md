@@ -157,7 +157,9 @@ Un workflow minimale:
 1. posizionare il video alla prima riga (col doppio click);
 2. schiacciare `r` per riprodurre l'audio del sub;
 3. controllare la traduzione e se necessario metterla a posto editando 
-   nell'apposito riquadro. In particolar modo controllare:
+   nell'apposito riquadro. 
+      
+   In particolar modo controllare:
    * **corretta resa in italiano** di quello che viene detto in
 	 inglese, seguendo le linee guida;
    * **leggibilità** del sub, facendo riferimento 
@@ -165,11 +167,15 @@ Un workflow minimale:
 
    Evitare di modificare:
    * formattazione (per compatibilità);
-   * timing dei sottotitoli (a meno che si sappia esattamente cosa si
+   * *timing* dei sottotitoli (a meno che si sappia esattamente cosa si
 	 stia facendo).
 
+   Se necessario spezzare linee inserire (o spostare) '\N', ottenibile
+   una volta nel riquadro di editing B mediante `Shift+Invio`;
+
 4. se si sono apportate modifiche, salvare con `Ctrl+S`;
-5. muoversi al prossimo sottotitolo mediante `Invio`;
+5. muoversi al prossimo sottotitolo cliccando la rispettiva linea col
+   tasto sinistro del mouse;
 6. repeat da 2;
 7. una volta editati tutti i sottotitoli si può dare un check
    complessivo facendo doppio click sul primo sub e comandando
@@ -182,4 +188,3 @@ In caso di dubbi/difficoltà:
 * per **aspetti linguistici** non esitare a chiedere un parere/aiuto al gruppo
   "AV: Traduttori e Revisori" seguendo [queste istruzioni](help.md);
 * per **aspetti informatici** contattami direttamente.
-
