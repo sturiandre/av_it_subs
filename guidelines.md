@@ -20,8 +20,8 @@ Dialoghi | Quando due parlano nello stesso sub, ad ognuno dovrebbe avere una lin
 <!-- Maximum duration | Split subtitles longer than 7 seconds. -->
 
 <!-- Make sure you are using the correct punctuation for the whole unit of text. -->
-		<!-- Maximum timing offset Subtitles shouldn't start more than 0.5 seconds before or after the audio begins. -->
-		<!-- 	On-screen texts Translate the texts on the video that are relevant to the plot. -->
+<!-- Maximum timing offset Subtitles shouldn't start more than 0.5 seconds before or after the audio begins. -->
+<!-- 	On-screen texts Translate the texts on the video that are relevant to the plot. -->
 
 <!-- Lyrics Wrap relevant lyrics in musical notes. -->
 <!-- ex ♪ Tell me dear Billy, ♪ -->
