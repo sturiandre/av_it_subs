@@ -82,8 +82,8 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 
    ![subs file_select](img/firefox_chrome_rightclick.png)
 
-	Dopodiché *cancellare* eventuali estensioni `.txt` se proposte dal
-    proprio browser (mentre il "Salva come" è irrilevante
+Dopodiché **cancellare** eventuali estensioni `.txt` se proposte dal
+proprio browser (mentre il "Salva come" è irrilevante)
 	
    ![subs file_select](img/firefox_chrome_filesave.png)
 
