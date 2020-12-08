@@ -157,18 +157,24 @@ Un workflow minimale:
    nell'apposito riquadro. In particolar modo controllare:
    * **corretta resa in italiano** di quello che viene detto in
 	 inglese, seguendo le linee guida;
-   * **leggibilità** del sub: cercare di tenere il CPS (rapporto tra
-     caratteri e durata del sub in secondi) sotto 20 e spezzare i
-     sottotitoli (visualizzati a video) in maniera all'incirca equa.
-     Per spezzare una linea come si desidera spostare il carattere
-     `\N` che indica l'andare a capo nel sub.
+   * **leggibilità** del sub: per adottare standard abbastanza comuni 
+	 in merito è buona norma tenere 
+   
+       * al massimo due linee di sottotitoli;
+	   * il CPS (rapporto tra caratteri e durata del sub in secondi) sotto 20;
+	   * la linea più lunga sotto i 40 caratteri
+	   
+     Per andare a capo spostare il carattere `\N` (oppure cancellare
+     il vecchio e inserirne uno nuovo con `Shift+Invio`) che indica
+     newline.
 
    Evitare di modificare:
    * formattazione (per compatibilità);
    * timing dei sottotitoli (a meno che si sappia esattamente cosa si
 	 stia facendo).
+
 4. salvare con `Ctrl+S`
-5. muoversi al prossimo sottotitolo/linea mediante la freccia verso il basso;
+5. muoversi al prossimo sottotitolo mediante `Invio`;
 6. repeat da 2;
 7. una volta editati tutti i sottotitoli si può dare un check
    complessivo facendo doppio click sul primo sub e comandando
