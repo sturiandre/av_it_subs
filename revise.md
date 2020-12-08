@@ -170,7 +170,7 @@ Un workflow minimale:
    * *timing* dei sottotitoli (a meno che si sappia esattamente cosa si
 	 stia facendo).
 
-   Se necessario spezzare linee inserire (o spostare) '\N', ottenibile
+   Se necessario spezzare linee inserire (o spostare) `'\N'`, ottenibile
    una volta nel riquadro di editing B mediante `Shift+Invio`;
 
 4. se si sono apportate modifiche, salvare con `Ctrl+S`;
