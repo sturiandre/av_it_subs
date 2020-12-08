@@ -9,13 +9,25 @@ Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](h
 
 ## Il file su cui lavoriamo per la revisione
 
-Il file su cui dobbiamo operare è stato creato durante il processo di
-traduzione.
+Il file su cui dobbiamo operare:
+* è stato creato durante il processo di traduzione ed è il collage di
+  più file prodotti da diversi traduttori (tipicamente);
+* include solamente la traduzione in italiano dato che per l'inglese è
+  disponibile (attraverso il caricamento del video) l'audio originale;
+* presenta eventuali commenti lasciati ai revisori come ultima linea
+  di sottotitolo, preceduta da `# REVISORI: ...`;
+* in corrispondenza dei sub di inizio file di traduzione è stato
+  posto il commento `# REVISORI: primo sub di spezzone`, per segnalare
+  l'esigenza di continuità tra quello che precede e quello che segue
+  (prodotto da revisori differenti e indipendentemente).
+
 
 ## Setup
 
-Per poter effettuare revisioni per un dato video, dopo aver letto le [linee
-guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing) occorre:
+Per poter effettuare revisioni per un dato video, dopo aver letto le
+[linee
+guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+occorre:
 
 1. installare [Aegisub](http://www.aegisub.org/), il programma con cui
    verrà controllato il proprio spezzone. Per quanto riguarda Windows
