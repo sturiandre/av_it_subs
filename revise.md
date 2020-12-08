@@ -18,8 +18,8 @@ Il file su cui dobbiamo operare:
   di sottotitolo, preceduta da `# REVISORI: ...`. Ad esempio a video
   in presenza di un commento verrà visualizzato:
   ```
-                Testo tradotto
-                Testo tradotto 2
+                    Testo tradotto
+                   Testo tradotto 2
   # REVISORI: qui nel dubbio si è optato per XYZ perché ...
   ```
   e ovviamente, una volta risolto il punto, il commento per i revisori 
