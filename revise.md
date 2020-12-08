@@ -153,8 +153,8 @@ occorre:
 
 # Editing con Aegisub
 
-Un workflow minimale:
-1. posizionare il video alla prima riga (col doppio click);
+Un *workflow* minimale:
+1. cliccare sulla prima riga (sub);
 2. schiacciare `r` per riprodurre l'audio del sub;
 3. controllare la traduzione e se necessario metterla a posto editando 
    nell'apposito riquadro. 
