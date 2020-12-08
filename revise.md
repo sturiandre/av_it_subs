@@ -77,11 +77,19 @@ guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?us
 
 8.  Ora per fare il download del file:
 
-	* in Firefox: cliccare col destro, selezionare "Salva pagina con nome"
-	* in Chrome: cliccare col destro, selezionare "Salva con nome..."
+	* in Firefox: cliccare col pulsante destro, selezionare "Salva pagina con nome" o qualcosa di linguisticamente analogo
+	* in Chrome: cliccare col destro, selezionare "Salva con nome..." o qualcosa di linguisticamente analogo
+
+   ![subs file_select](img/firefox_chrome_rightclick.png)
+
+	Dopodiché *cancellare* eventuali estensioni `.txt` se proposte dal
+    proprio browser (mentre il "Salva come" è irrilevante
+	
+   ![subs file_select](img/firefox_chrome_filesave.png)
+
 
 9. arrivati a questo punto dovremmo avere sia il video che i subs da editare
-   in una opportuna cartella:
+   in una opportuna cartella (oppure sul Desktop):
 
    ![hnva2_folder](img/hnva2_folder.png)
 
