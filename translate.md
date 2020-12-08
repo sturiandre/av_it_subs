@@ -143,10 +143,7 @@ Per lavorare alle traduzioni:
 
 0. da **computer**, effettuare il login su [GitHub](https://www.github.com);
 
-1. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
-   conservate le traduzioni;
-
-2. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" postare:
+1. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" postare:
 
 	```
 	@lucailgarb #translate
@@ -167,6 +164,9 @@ Per lavorare alle traduzioni:
 	per "Holding Non-Vegans Accountable 2.0") 
 	* posta nella cartella `subs` (che racchiude tutti i
 	sottotitoli di tutti i video).
+
+2. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
+   conservate le traduzioni;
 
 3. cliccare quindi sulla cartella `subs`
    

@@ -85,15 +85,19 @@ occorre:
 	* posta nella cartella `subs` (che racchiude tutti i
 	sottotitoli di tutti i video).
 
-4. cliccare quindi sulla cartella `subs`
+
+4. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
+   conservate le traduzioni;
+
+5. cliccare quindi sulla cartella `subs`
 
    ![subs dir](img/subs_dir.png)
 
-5. cliccare sulla cartella del video (`hnva2` nell'esempio)
+6. cliccare sulla cartella del video (`hnva2` nell'esempio)
 
 	![hnva2 dir](img/hnva2_dir.png)
 
-6. arrivati a questo punto conviene **salvare questa pagina nei
+7. arrivati a questo punto conviene **salvare questa pagina nei
    preferiti** (per accedervi facilmente alle prossime sessioni)
    perché tutte i file di un dato video si trovano qui e si
    velocizzerà l'accesso al file assegnato.
@@ -103,11 +107,11 @@ occorre:
 
    ![subs file_select](img/revs_file_select.png)
 
-7.  Cliccare su `Raw` per ottenere il file;
+8.  Cliccare su `Raw` per ottenere il file;
 
    ![subs file_select](img/revs_raw.png)
 
-8.  Ora per fare il download del file:
+9.  Ora per fare il download del file:
 
 	* in Firefox: cliccare col pulsante destro, selezionare "Salva pagina con nome" o qualcosa di linguisticamente analogo
 	* in Chrome: cliccare col destro, selezionare "Salva con nome..." o qualcosa di linguisticamente analogo
@@ -121,41 +125,41 @@ occorre:
    ![subs file_select](img/firefox_chrome_filesave.png)
 
 
-9. arrivati a questo punto dovremmo avere sia il video che i subs da editare
+10. arrivati a questo punto dovremmo avere sia il video che i subs da editare
    in una opportuna cartella (oppure sul Desktop):
 
    ![hnva2_folder](img/hnva2_folder.png)
 
-10. fare doppio click sul file `.srt` per fare in modo che Aegisub lo
+11. fare doppio click sul file `.srt` per fare in modo che Aegisub lo
     inizi ad editare:
 	
    ![doppio_click](img/doppio_click_sub.png)
 
-11. per caricare il video cliccare `Video -> Apri video`
+12. per caricare il video cliccare `Video -> Apri video`
 
    ![apri_video](img/apri_video.png)
 
-12. una volta importato il file ci troviamo in una situazione del
+13. una volta importato il file ci troviamo in una situazione del
 	genere, dove si consiglia massimizzare la finestra a tutto
 	schermo, porre A al 100% e si possono editare i sottotitoli
 	nel riquadro B
 
    ![post_importazione](img/post_importazione.png)
 
-13. per posizionare il video al primo sub (es soprattutto per i file
+14. per posizionare il video al primo sub (es soprattutto per i file
     che iniziano più avanti di `00:00:00`), fare due clic sulla linea
     del primo sub nella lista, dopodiché iniziare il controllo/editing
 	seguendo quanto consigliato [più sotto](revise.md#editing-con-aegisub);
 
-14. Importante: **salvare** il lavoro e fare i **backup** del file
+15. Importante: **salvare** il lavoro e fare i **backup** del file
     `.srt` editato;
 
-15. una volta concluso l'editing del proprio spezzone inviarmi la
+16. una volta concluso l'editing del proprio spezzone inviarmi la
     versione finale (come si preferisce, Telegram o
     lbraglia@gmail.com) per archiviazione e per produzione dell'`.srt`
     complessivo.
 	
-16. *repeat* da 3.
+17. *repeat* da 3.
 
 
 # Editing con Aegisub
