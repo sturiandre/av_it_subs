@@ -7,7 +7,7 @@ Issue | Regola e/o esempio
 ------|---------------
 \# linee per sub     | max 2  (`A` nella figura sottostante)
 Lunghezza linea      | max 42 caratteri (`B` nella figura sottostante)
-CPS                  | max 20 chars/sec (`C` nella figura sottostante)
+CPS                  | max 21 chars/sec (`C` nella figura sottostante)
 Suoni/Musica         | descrivere suoni/musica rilevante tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
 Significatività | omettere cose come "um" "ah" e altre disfluenze
 Non udibile | Se non si sente/capisce, markare "[non udibile]"
