@@ -20,7 +20,7 @@ Il file su cui dobbiamo operare:
   ```
                 Testo tradotto
                 Testo tradotto 2
-# REVISORI: qui nel dubbio si è optato per XYZ perché ...
+  # REVISORI: qui nel dubbio si è optato per XYZ perché ...
   ```
   e ovviamente, una volta risolto il punto, il commento per i revisori 
   va cancellato;
