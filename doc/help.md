@@ -43,7 +43,7 @@ A seconda che tu sia traduttore o revisore ti può tornare comodo un
 video differente (ossia rispettivamente montato con i sub in inglese o
 in italiano)
 
-![video-translate-revise](img/video_translate_revise.png)
+![video-translate-revise](../img/video_translate_revise.png)
 
 Una volta scelto il video per ottenere un link posizionati nel punto
 del dubbio, dopodiché clicca su "Condividi":
