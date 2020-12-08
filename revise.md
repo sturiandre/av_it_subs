@@ -158,7 +158,7 @@ Un workflow minimale:
    * **corretta resa in italiano** di quello che viene detto in
 	 inglese, seguendo le linee guida;
    * **leggibilità** del sub: per adottare standard abbastanza comuni 
-	 in merito è buona norma tenere 
+	 in merito è buona norma tenere
    
        * al massimo due linee di sottotitoli;
 	   * il CPS (rapporto tra caratteri e durata del sub in secondi) sotto 20;

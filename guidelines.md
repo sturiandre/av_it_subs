@@ -1,0 +1,39 @@
+# Guidelines sottotitoli
+
+Issue | Rule/example
+------|---------------
+Numero linee per sub | max 2 
+Lunghezza linea      | max 42 caratteri
+CPS                  | max 20 chars/sec
+Suoni/Musica         | descrivere suoni/musica rilevante tra tonde
+    | (Porta che scricchiola) (Musica inquietante)
+Meaningful speach | non tenere come come "um" "ah" e altre disfluenze
+Non udibile | Se non si sente/capisce, markare [non udibile]
+Dialoghi | Quando due parlano nello stesso sub, ad ognuno dovrebbe
+	avere una linea per frase, iniziata da un trattino. Porre comunque su
+	più linee, poi se molte si splitterà il sub in maniera tale che ne 
+	rimangano 2
+	| - Hai mai visto immagini del genere?
+    | - No onestamente, mai così.
+    | - Ok, sappi che questa è pratica standard.
+    | - Ah.
+
+<!-- Minimum duration | Subtitles should be at least 0.7 seconds. -->
+<!-- Maximum duration | Split subtitles longer than 7 seconds. -->
+
+<!-- Make sure you are using the correct punctuation for the whole unit of text. -->
+		<!-- Maximum timing offset Subtitles shouldn't start more than 0.5 seconds before or after the audio begins. -->
+		<!-- 	On-screen texts Translate the texts on the video that are relevant to the plot. -->
+
+<!-- Lyrics Wrap relevant lyrics in musical notes. -->
+<!-- ex ♪ Tell me dear Billy, ♪ -->
+<!-- 	Speaker identification Identify off-screen and unclear speakers in parentheses. -->
+<!-- 	ex: (Michael) Wait for me! -->
+<!-- 		Foreign language Identify relevant speech in foreign language. -->
+<!-- 		ex: (Russian): Thank you. -->
+
+
+## Fonti
+Editor [Amara](www.amara.org)
+https://translations.ted.com/How_to_Tackle_a_Transcript
+https://translations.ted.com/How_to_break_lines
