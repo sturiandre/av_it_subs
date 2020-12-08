@@ -9,7 +9,7 @@ Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](h
 
 ## Il file su cui lavoriamo per la revisione
 
-Il file su cui dobbiamo operare:
+Il file su cui dobbiamo operare attraverso Aegisub:
 
 * è stato creato durante il processo di traduzione ed è il collage di
   più file sequenziali prodotti da traduttori diversi (tipicamente);
@@ -136,17 +136,38 @@ occorre:
 
 13. per posizionare il video al primo sub (es soprattutto per i file
     che iniziano più avanti di `00:00:00`), fare due clic sulla linea
-    del primo sub nella lista, dopodiché schiacciare il tasto play e
-    iniziare il controllo/editing;
+    del primo sub nella lista, dopodiché iniziare il controllo/editing;
 
 14. Importante: **salvare** il lavoro e fare i **backup** del file
     `.srt` editato;
 
-15. una volta concluso l'editing inviarmi la versione finale per
-    archiviazione e per produzione dell'`.srt` complessivo.
+15. una volta concluso l'editing del proprio spezzone inviarmi la
+    versione finale (come si preferisce, Telegram o
+    mailto:lbraglia@gmail.com) per archiviazione e per produzione dell'`.srt`
+    complessivo.
 
 
-## Il workflow da adottare
+# Aegisub
+
+Un workflow minimale:
+1. posizionarsi sulla prima riga (col doppio click)
+2. schiacciare `r` per riprodurre l'audio del sub
+3. controllare la traduzione e se necessario metterla a posto editando 
+   nell'apposito riquadro. In particolar modo controllare:
+   * **corretta resa in italiano** di quello che viene detto in
+	 inglese, seguendo le linee guida;
+   * **leggibilità** del sub: cercare di tenere il CPS (rapporto tra
+     caratteri e durata del sub in secondi) sotto 20 e spezzare i
+     sottotitoli (visualizzati a video) in maniera all'incirca equa.
+     Per spezzare una linea come si desidera spostare il carattere
+     `\N` che indica l'andare a capo nel sub Evitare di modificare:
+   * formattazione (per compatibilità);
+   * timing dei sottotitoli (a meno che si sappia esattamente cosa si
+	 stia facendo).
+4. salvare con `Ctrl+S`
+5. muoversi al prossimo sottotitolo mediante la freccia verso il basso
+6. repeat da 2.
+7. una volta editati tutti i sottotitoli si può
 
 
 ## Ottenere aiuto
