@@ -131,11 +131,17 @@ occorre:
    ![hnva2_folder](img/hnva2_folder.png)
 
 11. fare doppio click sul file `.srt` per fare in modo che Aegisub lo
-    inizi ad editare:
+    inizi ad editare.
+	
+	Se compare un messaggio del tipo "Aegisub non può restringere il
+	set di caratteri` scegliere `UTF-8`.
+	
+	Arriviamo ad una schermata analoga:
 	
    ![doppio_click](img/doppio_click_sub.png)
 
-12. per caricare il video cliccare `Video -> Apri video`
+12. per caricare il video cliccare `Video -> Apri video`, dopodiché 
+	selezionarlo:
 
    ![apri_video](img/apri_video.png)
 
