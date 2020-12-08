@@ -136,7 +136,8 @@ occorre:
 
 13. per posizionare il video al primo sub (es soprattutto per i file
     che iniziano più avanti di `00:00:00`), fare due clic sulla linea
-    del primo sub nella lista, dopodiché iniziare il controllo/editing;
+    del primo sub nella lista, dopodiché iniziare il controllo/editing
+	seguendo quanto consigliato [più sotto](revise.md#editing-con-aegisub);
 
 14. Importante: **salvare** il lavoro e fare i **backup** del file
     `.srt` editato;
@@ -147,7 +148,7 @@ occorre:
     complessivo.
 
 
-# Aegisub
+# Editing con Aegisub
 
 Un workflow minimale:
 1. posizionarsi sulla prima riga (col doppio click)
@@ -167,9 +168,11 @@ Un workflow minimale:
    * timing dei sottotitoli (a meno che si sappia esattamente cosa si
 	 stia facendo).
 4. salvare con `Ctrl+S`
-5. muoversi al prossimo sottotitolo mediante la freccia verso il basso
-6. repeat da 2.
-7. una volta editati tutti i sottotitoli si può
+5. muoversi al prossimo sottotitolo/linea mediante la freccia verso il basso;
+6. repeat da 2;
+7. una volta editati tutti i sottotitoli si può dare un check
+   complessivo facendo doppio click sul primo sub e comandando
+   `Ctrl+P` per riprodurre il video con i sottotitoli rivisti.
 
 
 ## Ottenere aiuto
