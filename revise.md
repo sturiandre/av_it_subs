@@ -158,9 +158,6 @@ Un workflow minimale:
    * **corretta resa in italiano** di quello che viene detto in
 	 inglese, seguendo le linee guida;
    * **leggibilità** del sub. 
-     <!-- Per andare a capo spostare il carattere `\N` (oppure cancellare -->
-     <!-- il vecchio e inserirne uno nuovo con `Shift+Invio`) che indica -->
-     <!-- newline. -->
 
    Evitare di modificare:
    * formattazione (per compatibilità);
