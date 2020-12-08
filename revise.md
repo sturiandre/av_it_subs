@@ -130,7 +130,10 @@ occorre:
 
    ![apri_video](img/apri_video.png)
 
-12. una volta importato il file ci troviamo in una situazione del genere:
+12. una volta importato il file ci troviamo in una situazione del
+	genere, dove si consiglia massimizzare la finestra a tutto
+	schermo, porre A al 100% e si possono editare i sottotitoli
+	nel riquadro B
 
    ![post_importazione](img/post_importazione.png)
 
@@ -144,27 +147,28 @@ occorre:
 
 15. una volta concluso l'editing del proprio spezzone inviarmi la
     versione finale (come si preferisce, Telegram o
-    mailto:lbraglia@gmail.com) per archiviazione e per produzione dell'`.srt`
+    lbraglia@gmail.com) per archiviazione e per produzione dell'`.srt`
     complessivo.
 
 
 # Editing con Aegisub
 
 Un workflow minimale:
-1. posizionarsi sulla prima riga (col doppio click)
-2. schiacciare `r` per riprodurre l'audio del sub
+1. posizionare il video alla prima riga (col doppio click);
+2. schiacciare `r` per riprodurre l'audio del sub;
 3. controllare la traduzione e se necessario metterla a posto editando 
    nell'apposito riquadro. In particolar modo controllare:
    * **corretta resa in italiano** di quello che viene detto in
 	 inglese, seguendo le linee guida;
-   * **leggibilità** del sub. 
+   * **leggibilità** del sub, facendo riferimento 
+	 a [guidelines comuni](guidelines.md).
 
    Evitare di modificare:
    * formattazione (per compatibilità);
    * timing dei sottotitoli (a meno che si sappia esattamente cosa si
 	 stia facendo).
 
-4. salvare con `Ctrl+S`
+4. se si sono apportate modifiche, salvare con `Ctrl+S`;
 5. muoversi al prossimo sottotitolo mediante `Invio`;
 6. repeat da 2;
 7. una volta editati tutti i sottotitoli si può dare un check
