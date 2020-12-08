@@ -11,7 +11,7 @@ CPS                  | max 20 chars/sec (`C` nella figura sottostante)
 Suoni/Musica         | descrivere suoni/musica rilevante tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
 Significatività | omettere cose come "um" "ah" e altre disfluenze
 Non udibile | Se non si sente/capisce, markare "[non udibile]"
-Dialoghi | Quando due persone parlano nello stesso sub, ognuno dovrebbe avere una linea per frase, iniziata da un trattino. Porre comunque su più linee, poi se molte si splitterà il sub in maniera tale che ne rimangano 2.
+Dialoghi | Quando due persone parlano nello stesso sub, ognuno dovrebbe avere una linea per frase, iniziata da un trattino. Porre comunque su più linee, poi se troppe si splitterà il sub in maniera tale che rimanga leggibile.
 ```
 - Hai mai visto immagini del genere?
 - No onestamente, mai così.
@@ -39,6 +39,6 @@ considerato (il secondo).
 
 [Amara](https://www.amara.org)
 
-[How to Tackle a Transcript (TED)](https://translations.ted.com/How_to_Tackle_a_Transcript)
+<!-- [How to Tackle a Transcript (TED)](https://translations.ted.com/How_to_Tackle_a_Transcript) -->
 
-[How to break lines (TED)](https://translations.ted.com/How_to_break_lines)
+<!-- [How to break lines (TED)](https://translations.ted.com/How_to_break_lines) -->
