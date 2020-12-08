@@ -53,7 +53,7 @@ occorre:
 
 1. per abilitazione alle richieste di revisione correggere e
    sottomettermi il file di prova `subs/sandbox/revs_sandbox.srt` (come
-   spiegato in seguito) che è basato sul [questo video](https://drive.google.com/file/d/1bgxoD6IrdfN507xylHW3ylcZk73GBaIc/view?usp=sharing) (da scaricare);
+   spiegato in seguito) che è basato sul [questo video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing) (da scaricare);
 
 2. scaricare il video senza sottotitoli su cui stiamo lavorando: il
    link si trova nella [pagina principale](README.md), ad esempio (per
