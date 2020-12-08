@@ -170,13 +170,13 @@ Un workflow minimale:
    * *timing* dei sottotitoli (a meno che si sappia esattamente cosa si
 	 stia facendo).
 
-   Se necessario spezzare linee inserire (o spostare) `'\N'`, ottenibile
-   una volta nel riquadro di editing B mediante `Shift+Invio`;
+   Se necessario spezzare linee inserire/spostare `\N` (ottenibile
+   anche, nel riquadro di editing B, mediante `Shift+Invio`);
 
 4. se si sono apportate modifiche, salvare con `Ctrl+S`;
 5. muoversi al prossimo sottotitolo cliccando la rispettiva linea col
    tasto sinistro del mouse;
-6. repeat da 2;
+6. *repeat* da 2;
 7. una volta editati tutti i sottotitoli si può dare un check
    complessivo facendo doppio click sul primo sub e comandando
    `Ctrl+P` per riprodurre il video con i sottotitoli rivisti.
