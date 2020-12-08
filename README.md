@@ -16,7 +16,7 @@ segnalazione di disponibilità, nella chat Telegram "AV: Traduzioni e
 Sub YouTube".
 
 Per lo svolgimento dei compiti sono disponibili istruzioni specifiche per
-[traduttori](translate.md) e [revisori](revise.md).
+[traduttori](doc/translate.md) e [revisori](doc/revise.md).
 
 Soprattutto, grazie di essere con noi! :)
 
