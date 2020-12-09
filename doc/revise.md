@@ -6,6 +6,41 @@ Risorse | Link
 Obbligatorie | [[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing), [[Aegisub]](http://www.aegisub.org/)
 Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
+## Setup
+Per poter effettuare revisioni per un dato video, dopo aver letto le
+[linee
+guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+occorre:
+
+0. installare [Aegisub](http://www.aegisub.org/), il programma con cui
+   verrà controllato il proprio spezzone. 
+   
+   Per quanto riguarda Windows è possibile eventualmente optare per la
+   versione portabile (che non richiede installazione e quindi i
+   permessi di amministratore sulla macchina);
+
+1. per abilitazione alle richieste di revisione, correggere e inviarmi
+   (Telegram o a lbraglia@gmail.com) il file di prova
+   [`subs/sandbox/revs_sandbox.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/revs_sandbox.srt)
+   (come spiegato in seguito) che è basato sul [questo
+   video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing)
+   (da scaricare);
+
+2. una volta ottenuta abilitazione, scaricare il video senza
+   sottotitoli su cui stiamo lavorando: il link si trova nella [pagina
+   principale](../README.md), ad esempio (per hnva2) qui:
+
+	![video-original-download](../img/video_original_download.png)
+
+3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
+   Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
+   per la revisione. Si può richiedere una assegnazione mediante:
+   
+	```
+	@lucailgarb #revise
+	```
+
+
 
 ## Il file su cui lavoriamo per la revisione
 
@@ -37,34 +72,11 @@ Il file su cui dobbiamo operare attraverso Aegisub:
   (prodotto da revisori differenti/indipendentemente).
 
 
-## Setup
+## Il processo step-by-step
 
-Per poter effettuare revisioni per un dato video, dopo aver letto le
-[linee
-guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
-occorre:
+Per lavorare alle revisioni:
 
-0. installare [Aegisub](http://www.aegisub.org/), il programma con cui
-   verrà controllato il proprio spezzone. 
-   
-   Per quanto riguarda Windows è possibile eventualmente optare per la
-   versione portabile (che non richiede installazione e quindi i
-   permessi di amministratore sulla macchina);
-
-1. per abilitazione alle richieste di revisione, correggere e inviarmi
-   (Telegram o a lbraglia@gmail.com) il file di prova
-   [`subs/sandbox/revs_sandbox.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/revs_sandbox.srt)
-   (come spiegato in seguito) che è basato sul [questo
-   video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing)
-   (da scaricare);
-
-2. scaricare il video senza sottotitoli su cui stiamo lavorando: il
-   link si trova nella [pagina principale](../README.md), ad esempio (per
-   hnva2) qui:
-
-	![video-original-download](../img/video_original_download.png)
-
-3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
+1. periodicamente (quando disponibili) nel gruppo Telegram "AV:
    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
    per la revisione. Si può richiedere una assegnazione mediante:
    
@@ -89,18 +101,18 @@ occorre:
 	sottotitoli di tutti i video).
 
 
-4. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
+2. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
    conservate le traduzioni;
 
-5. cliccare quindi sulla cartella `subs`
+3. cliccare quindi sulla cartella `subs`
 
    ![subs dir](../img/subs_dir.png)
 
-6. cliccare sulla cartella del video (`hnva2` nell'esempio)
+4. cliccare sulla cartella del video (`hnva2` nell'esempio)
 
 	![hnva2 dir](../img/hnva2_dir.png)
 
-7. arrivati a questo punto conviene **salvare questa pagina nei
+5. arrivati a questo punto conviene **salvare questa pagina nei
    preferiti** (per accedervi facilmente alle prossime sessioni)
    perché tutte i file di un dato video si trovano qui e si
    velocizzerà l'accesso al file assegnato.
@@ -110,11 +122,11 @@ occorre:
 
    ![subs file_select](../img/revs_file_select.png)
 
-8.  Cliccare su `Raw` per ottenere il file;
+6.  Cliccare su `Raw` per ottenere il file;
 
    ![subs file_select](../img/revs_raw.png)
 
-9.  Ora per fare il download del file:
+7.  Ora per fare il download del file:
 
 	* in Firefox: cliccare col pulsante destro, selezionare "Salva pagina con nome" o qualcosa di linguisticamente analogo
 	* in Chrome: cliccare col destro, selezionare "Salva con nome..." o qualcosa di linguisticamente analogo
@@ -128,12 +140,12 @@ occorre:
    ![subs file_select](../img/firefox_chrome_filesave.png)
 
 
-10. arrivati a questo punto dovremmo avere sia il video che i subs da editare
+8. arrivati a questo punto dovremmo avere sia il video che i subs da editare
    in una opportuna cartella (oppure sul Desktop):
 
    ![hnva2_folder](../img/hnva2_folder.png)
 
-11. fare doppio click sul file `.srt` per fare in modo che Aegisub lo
+9. fare doppio click sul file `.srt` per fare in modo che Aegisub lo
     inizi ad editare.
 	
 	Se compare un messaggio del tipo "Aegisub non può restringere il
@@ -143,32 +155,32 @@ occorre:
 	
    ![doppio_click](../img/doppio_click_sub.png)
 
-12. per caricare il video cliccare `Video -> Apri video`, dopodiché 
+10. per caricare il video cliccare `Video -> Apri video`, dopodiché 
 	selezionarlo:
 
    ![apri_video](../img/apri_video.png)
 
-13. una volta importato il file ci troviamo in una situazione del
+11. una volta importato il file ci troviamo in una situazione del
 	genere, dove si consiglia massimizzare la finestra a tutto
 	schermo, porre A al 100% e si possono editare i sottotitoli
 	nel riquadro B
 
    ![post_importazione](../img/post_importazione.png)
 
-14. per posizionare il video al primo sub (es soprattutto per i file
+12. per posizionare il video al primo sub (es soprattutto per i file
     che iniziano più avanti di `00:00:00`), fare due clic sulla linea
     del primo sub nella lista, dopodiché iniziare il controllo/editing
 	seguendo quanto consigliato [più sotto](revise.md#editing-con-aegisub);
 
-15. Importante: **salvare** il lavoro e fare i **backup** del file
+13. Importante: **salvare** il lavoro e fare i **backup** del file
     `.srt` editato;
 
-16. una volta concluso l'editing del proprio spezzone inviarmi la
+14. una volta concluso l'editing del proprio spezzone inviarmi la
     versione finale (come si preferisce, Telegram o
     lbraglia@gmail.com) per archiviazione e per produzione dell'`.srt`
     complessivo.
 	
-17. *repeat* da 3.
+15. *repeat* da 1.
 
 
 # Editing con Aegisub

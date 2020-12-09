@@ -7,7 +7,7 @@ Obbligatorie | [[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81El
 Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
-## Setup/Overview
+## Setup
 
 Per poter contribuire alla traduzione, dopo aver letto le [linee
 guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
