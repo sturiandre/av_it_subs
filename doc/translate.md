@@ -141,9 +141,7 @@ Questa è pratica standard
 
 Per lavorare alle traduzioni:
 
-0. da **computer**, effettuare il login su [GitHub](https://www.github.com);
-
-1. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" postare:
+0. nel gruppo Telegram "AV: Traduzioni e Sub YouTube" postare:
 
 	```
 	@lucailgarb #translate
@@ -164,6 +162,8 @@ Per lavorare alle traduzioni:
 	per "Holding Non-Vegans Accountable 2.0") 
 	* posta nella cartella `subs` (che racchiude tutti i
 	sottotitoli di tutti i video).
+
+1. da **computer**, effettuare il login su [GitHub](https://www.github.com);
 
 2. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
    conservate le traduzioni;
@@ -237,8 +237,7 @@ Ora, se si è **terminato** il proprio file:
 	![trn_completa](../img/translate_completa.jpg)
  
   
-* si può procedere a richiesta di un nuovo file da modificare, re-iniziando
-  dal punto 2.
+* si può procedere a richiesta di un nuovo file da modificare (punto 0).
 
 Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
 punto 7 (tener conto che le modifiche in precedenza apportate non
