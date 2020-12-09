@@ -148,7 +148,7 @@ Per lavorare alle revisioni:
     inizi ad editare.
 	
 	Se compare un messaggio del tipo "Aegisub non può restringere il
-	set di caratteri` scegliere `UTF-8`.
+	set di caratteri scegliere `UTF-8`.
 	
 	Arriviamo ad una schermata analoga:
 	
@@ -166,18 +166,17 @@ Per lavorare alle revisioni:
 
    ![post_importazione](../img/post_importazione.png)
 
-12. per posizionare il video al primo sub (es soprattutto per i file
-    che iniziano più avanti di `00:00:00`), fare due clic sulla linea
-    del primo sub nella lista, dopodiché iniziare il controllo/editing
-	seguendo quanto consigliato [più sotto](revise.md#editing-con-aegisub);
+12. iniziare il controllo/editing seguendo quanto consigliato [più
+	sotto](revise.md#editing-con-aegisub);
 
 13. Importante: **salvare** il lavoro e fare i **backup** del file
     `.srt` editato;
 
-14. una volta concluso l'editing del proprio spezzone inviarmi la
-    versione finale (come si preferisce, Telegram o
-    lbraglia@gmail.com) per archiviazione e per produzione dell'`.srt`
-    complessivo.
+14. una volta concluso l'editing del proprio spezzone, rinominare il
+    file aggiungendo un `_c` (per "completo", nell'esempio
+    `revs_000000_002500_lbraglia_c.srt`) ed inviarmelo (come si
+    preferisce, Telegram o lbraglia@gmail.com) per archiviazione e per
+    produzione dell'`.srt` complessivo.
 	
 15. *repeat* da 1.
 
