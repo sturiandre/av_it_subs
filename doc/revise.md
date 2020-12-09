@@ -3,13 +3,12 @@
 
 Risorse | Link 
 --------|:----:
-Obbligatorie | [[Linee guida]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing), [[Aegisub]](http://www.aegisub.org/)
+Obbligatorie | [[Guidelines linguistiche]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing),  [[Guidelines leggibilità]](guidelines.md), [[Aegisub]](http://www.aegisub.org/)
 Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 ## Setup
 Per poter effettuare revisioni per un dato video, dopo aver letto le
-[linee
-guida](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+[guidelines linguistiche](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
 occorre:
 
 0. installare [Aegisub](http://www.aegisub.org/), il programma con cui
@@ -193,7 +192,7 @@ Un *workflow* minimale:
       
    In particolar modo controllare:
    * **corretta resa in italiano** di quello che viene detto in
-	 inglese, seguendo le [linee guida AV](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing);
+	 inglese, seguendo le [guidelines linguistiche](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing);
    * **leggibilità** del sub, facendo riferimento 
 	 a [convenzioni comuni](guidelines.md).
 
