@@ -39,6 +39,6 @@ considerato (il secondo).
 
 [Amara](https://www.amara.org)
 
-<!-- [How to Tackle a Transcript (TED)](https://translations.ted.com/How_to_Tackle_a_Transcript) -->
+[How to Tackle a Transcript (TED)](https://translations.ted.com/How_to_Tackle_a_Transcript)
 
-<!-- [How to break lines (TED)](https://translations.ted.com/How_to_break_lines) -->
+[How to break lines (TED)](https://translations.ted.com/How_to_break_lines)
