@@ -7,7 +7,7 @@ Issue | Regola e/o esempio
 ------|---------------
 \# linee per sub     | max 2  (`A` nella figura sottostante)
 Lunghezza linea      | max 42 caratteri (`B` nella figura sottostante); [qui](https://translations.ted.com/How_to_break_lines) consigli su come "spezzare"
-CPS                  | max 21 chars/sec (`C` nella figura sottostante)
+CPS                  | max 30 chars/sec (`C` nella figura sottostante)
 Significatività | omettere cose come "um" "ah", omettere ripetizioni "Grazie, grazie, grazie mille", rettificare eventuali errori grammaticali palesi di chi parla
 Suoni/Musica         | descrivere suoni/musica *rilevanti* tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
 Non udibile | se non si sente/capisce e *sembrerebbe rilevante* porre "[Non udibile]"
