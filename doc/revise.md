@@ -193,7 +193,7 @@ Un *workflow* minimale:
    * **corretta resa in italiano** di quello che viene detto in
 	 inglese, seguendo le [guidelines linguistiche](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing);
    * **leggibilità** del sub, facendo riferimento 
-	 a [convenzioni comuni](guidelines.md).
+	 alle relative [guidelines](guidelines.md).
 
    Evitare di modificare:
    * formattazione (per compatibilità);
