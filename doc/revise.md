@@ -181,7 +181,7 @@ Per lavorare alle revisioni:
 15. *repeat* da 1.
 
 
-# Editing con Aegisub
+## Editing con Aegisub
 
 Un *workflow* minimale:
 1. cliccare sulla prima riga (sub);
