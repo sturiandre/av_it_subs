@@ -148,7 +148,7 @@ Per lavorare alle revisioni:
     inizi ad editare.
 	
 	Se compare un messaggio del tipo "Aegisub non può restringere il
-	set di caratteri scegliere `UTF-8`.
+	set di caratteri" scegliere `UTF-8`.
 	
 	Arriviamo ad una schermata analoga:
 	
