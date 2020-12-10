@@ -1,4 +1,4 @@
-# Guidelines sottotitoli
+# Guidelines leggibilità
 
 
 ## Regole
@@ -11,7 +11,7 @@ CPS                  | max 30 chars/sec (`C` nella figura sottostante)
 Significatività | omettere cose come "um" "ah", omettere ripetizioni "Grazie, grazie, grazie mille", rettificare eventuali errori grammaticali palesi di chi parla
 Suoni/Musica         | descrivere suoni/musica *rilevanti* tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
 Non udibile | se non si sente/capisce e *sembrerebbe rilevante* porre "[Non udibile]"
-Dialoghi | Quando due persone parlano nello stesso sub, ognuno dovrebbe avere una linea per frase, iniziata da un trattino. Porre comunque su più linee, poi se troppe si splitterà il sub in maniera tale che rimanga leggibile.
+Dialoghi | Quando due persone parlano nello stesso sub, ognuno dovrebbe avere una linea per frase, iniziata da un trattino. Porre comunque su più linee, poi se troppe si splitterà il sub in maniera tale che rimanga leggibile. Ad esempio ...
 ```
 - Hai mai visto immagini del genere?
 - No onestamente, mai così.
