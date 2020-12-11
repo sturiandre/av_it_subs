@@ -195,7 +195,7 @@ Un *workflow* minimale:
    * **leggibilità** del sub, facendo riferimento 
 	 alle relative [guidelines](guidelines.md).
 
-   Evitare categoricamente di modificare:
+   Evitare di modificare:
    * formattazione (es non aggiungere grassetti etc, per compatibilità);
    * *timing* dei sottotitoli.
 
