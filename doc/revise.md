@@ -195,10 +195,9 @@ Un *workflow* minimale:
    * **leggibilità** del sub, facendo riferimento 
 	 alle relative [guidelines](guidelines.md).
 
-   Evitare di modificare:
-   * formattazione (per compatibilità);
-   * *timing* dei sottotitoli (a meno che si sappia esattamente cosa si
-	 stia facendo).
+   Evitare categoricamente di modificare:
+   * formattazione (es non aggiungere grassetti etc, per compatibilità);
+   * *timing* dei sottotitoli.
 
    Se necessario spezzare linee inserire/spostare `\N` (ottenibile
    anche, nel riquadro di editing B, mediante `Shift+Invio`);

@@ -45,6 +45,9 @@ edit-sandbox:
 edit-translate:
 	rm -rf /tmp/translate && emacs -nw /tmp/translate
 
+edit-revise:
+	rm -rf /tmp/revise && emacs -nw /tmp/revise
+
 edit-completed:
 	rm -rf /tmp/completed_files && 	emacs -nw /tmp/completed_files
 
@@ -55,6 +58,7 @@ assign:
 	av_yt_assign --prj $(PRJ) \
 	--sandbox_file /tmp/sandbox \
 	--translate_file /tmp/translate \
+	--revise_file /tmp/revise \
 	2>&1 | less
 
 mark-as-completed:
