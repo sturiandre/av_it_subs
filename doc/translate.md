@@ -310,10 +310,10 @@ Revisori".
 
 Issue | Regola e/o esempio
 ------|---------------
-Ortografia/Grammatica | Aggiungere la punteggiatura, maiuscole ecc, rettificare eventuali errori grammaticali palesi di chi parla
-Significatività | omettere cose come "um" "ah", omettere ripetizioni "Grazie, grazie, grazie mille"
-Suoni/Musica         | descrivere suoni/musica *rilevanti* tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
-Non udibile | se non si sente/capisce e *sembrerebbe rilevante* porre "[Non udibile]"
+Ortografia/Grammatica | Aggiungere punteggiatura, maiuscole ecc, rettificare eventuali errori grammaticali palesi di chi parla
+Significatività | Omettere cose come "um" "ah", omettere ripetizioni "Grazie, grazie, grazie mille"
+Suoni/Musica         | Descrivere suoni/musica *rilevanti* tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
+Non udibile | Se non si sente/capisce e *sembrerebbe rilevante* porre "[Non udibile]"
 Dialoghi | Quando due persone parlano nello stesso sub, ognuno dovrebbe avere una linea per frase, iniziata da un trattino. Porre comunque su più linee, poi se troppe si splitterà il sub (in seguito, non da parte vostra) in maniera tale che rimanga leggibile. Ad esempio ...
 ```
 - Hai mai visto immagini del genere?
