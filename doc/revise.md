@@ -3,7 +3,7 @@
 
 Risorse | Link 
 --------|:----:
-Obbligatorie | [[Guidelines linguistiche]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing),  [[Guidelines leggibilità]](guidelines.md), [[Aegisub]](http://www.aegisub.org/)
+Obbligatorie | [[Guidelines linguistiche]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing), [[Aegisub]](http://www.aegisub.org/)
 Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 ## Setup
@@ -192,8 +192,9 @@ Un *workflow* minimale:
    In particolar modo controllare:
    * **corretta resa in italiano** di quello che viene detto in
 	 inglese, seguendo le [guidelines linguistiche](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing);
-   * **leggibilità** del sub, facendo riferimento 
-	 alle relative [guidelines](guidelines.md).
+   * **leggibilità** del sub, facendo riferimento alle relative
+	 [guidelines](revise.md#guidelines-leggibilità-per-revisori) di
+	 cui sotto.
 
    Evitare di modificare:
    * formattazione (es non aggiungere grassetti etc, per compatibilità);
@@ -222,7 +223,7 @@ In caso di dubbi/difficoltà:
 ## Guidelines leggibilità per revisori
 
 Nell'attività di revisione rimangono valide chiaramente tutte le
-regole per i traduttori; in più, quelle specifiche per la revisione
+[regole](asd) per i traduttori; in più, quelle specifiche per la revisione
 sono:
 
 Issue | Regola e/o esempio
