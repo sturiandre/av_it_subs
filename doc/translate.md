@@ -297,7 +297,7 @@ Translate e non ascoltando il video.
 
 ## Guidelines leggibilità per traduttori
 
-Il file ricevuto è prodotto da un computer/software e ancora "grezzo";
+Il file ricevuto è prodotto da un computer/software ed è ancora "grezzo";
 per ottenere dei subs fruibili/professionali/pubblicabili è necessario
 adottare vari accorgimenti, che con la pratica diventeranno
 automatici.
@@ -310,8 +310,8 @@ Revisori".
 
 Issue | Regola e/o esempio
 ------|---------------
-Ortografia/Grammatica | Aggiungere la punteggiatura, maiuscole  ecc
-Significatività | omettere cose come "um" "ah", omettere ripetizioni "Grazie, grazie, grazie mille", rettificare eventuali errori grammaticali palesi di chi parla
+Ortografia/Grammatica | Aggiungere la punteggiatura, maiuscole ecc, rettificare eventuali errori grammaticali palesi di chi parla
+Significatività | omettere cose come "um" "ah", omettere ripetizioni "Grazie, grazie, grazie mille"
 Suoni/Musica         | descrivere suoni/musica *rilevanti* tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
 Non udibile | se non si sente/capisce e *sembrerebbe rilevante* porre "[Non udibile]"
 Dialoghi | Quando due persone parlano nello stesso sub, ognuno dovrebbe avere una linea per frase, iniziata da un trattino. Porre comunque su più linee, poi se troppe si splitterà il sub (in seguito, non da parte vostra) in maniera tale che rimanga leggibile. Ad esempio ...
