@@ -223,7 +223,7 @@ In caso di dubbi/difficoltà:
 ## Guidelines leggibilità per revisori
 
 Nell'attività di revisione rimangono valide chiaramente tutte le
-[regole](asd) per i traduttori; in più, quelle specifiche per la revisione
+[regole](translate.md#guidelines-leggibilità-per-traduttori) per i traduttori; in più, quelle specifiche per la revisione
 sono:
 
 Issue | Regola e/o esempio

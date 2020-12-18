@@ -262,7 +262,7 @@ Translate e non ascoltando il video.
 * può essere utile **stampare** (su carta riciclata) i sottotitoli,
   per poter avere un supporto utile per appunti/annotazioni ecc;
   
-* **ascoltare** l'audio , anche più volte per i punti dubbi,
+* **ascoltare** l'audio, anche più volte per i punti dubbi,
   **scorrendo visivamente i sottotitoli** in contemporanea. Si
   consiglia di ascoltare anche un pezzo di video precedente e uno
   susseguente, per contesto;
@@ -272,7 +272,7 @@ Translate e non ascoltando il video.
 
 * non esitare a **domandare/condividere eventuali dubbi** nella chat "AV:
   Traduttori e Revisori".  Alcuni suggerimenti su come farlo sono forniti
-  nel seguito;
+  [qui](help.md);
 
 * una volta che abbiamo una idea compiuta della traduzione da
   effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
