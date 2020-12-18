@@ -217,3 +217,38 @@ In caso di dubbi/difficoltà:
 * per **aspetti linguistici** non esitare a chiedere un parere/aiuto al gruppo
   "AV: Traduttori e Revisori" seguendo [queste istruzioni](help.md);
 * per **aspetti informatici** contattami direttamente.
+
+
+## Guidelines leggibilità per revisori
+
+Nell'attività di revisione rimangono valide chiaramente tutte le
+regole per i traduttori; in più, quelle specifiche per la revisione
+sono:
+
+Issue | Regola e/o esempio
+------|---------------
+\# linee per sub     | max 2  (`A` nella figura sottostante)
+Lunghezza linea      | max 42 caratteri (`B` nella figura sottostante); [qui](https://translations.ted.com/How_to_break_lines) consigli su come "spezzare"
+CPS                  | max 30 chars/sec (`C` nella figura sottostante)
+
+<!-- Minimum duration | Subtitles should be at least 0.7 seconds. -->
+<!-- Maximum duration | Split subtitles longer than 7 seconds. -->
+
+<!-- Speaker identification Identify off-screen and unclear speakers in parentheses. -->
+<!-- 	ex: (Michael) Wait for me! -->
+<!-- 		Foreign language Identify relevant speech in foreign language. -->
+<!-- 		ex: (Russian): Thank you. -->
+
+### Statistiche di leggibilità in Aegisub
+
+A per numero linee, B lunghezza linea (massima) e C il CPS per il sub
+considerato (il secondo).
+
+![stat_leggibilita_aegisub](../img/stat_leggibilita_aegisub.png)
+
+
+### Fonti/Approfondimenti
+
+[How to Tackle a Transcript (TED)](https://translations.ted.com/How_to_Tackle_a_Transcript)
+
+[How to break lines (TED)](https://translations.ted.com/How_to_break_lines)

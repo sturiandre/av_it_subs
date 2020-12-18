@@ -248,24 +248,24 @@ approvate. Tuttavia sono state sottomesse/non perse).
 ## Il workflow da adottare
 
 Nell'attività di traduzione **il modo peggiore di procedere**, **da
-non adottare**, consiste nel partire a testa bassa con la modifica
-dei subs su GitHub, procedendo un sub alla volta, e non ascoltando il
-video.
+non adottare**, consiste nel partire a testa bassa con la modifica dei
+subs su GitHub, procedendo un sub alla volta, utilizzando Google
+Translate e non ascoltando il video.
 
-**Quello che viceversa si consiglia caldamente di fare è:**
+**Quello che viceversa occorre fare:**
 
 * puntare il proprio browser all'url riportato a inizio file; questo è
   il link all'inizio dello spezzone di propria competenza:
 
   ![url inizio file](../img/url_inizio_file.png)
 
-* può essere davvero molto utile **stampare** (su carta riciclata) i
-  sottotitoli, per poter avere un supporto utile per
-  appunti/annotazioni ecc;
+* può essere utile **stampare** (su carta riciclata) i sottotitoli,
+  per poter avere un supporto utile per appunti/annotazioni ecc;
   
-* **riascoltare più volte** l'audio, **scorrendo visivamente i sottotitoli**
-  in contemporanea. Si consiglia di ascoltare anche un pezzo di video
-  precedente e uno susseguente, per contesto;
+* **ascoltare** l'audio , anche più volte per i punti dubbi,
+  **scorrendo visivamente i sottotitoli** in contemporanea. Si
+  consiglia di ascoltare anche un pezzo di video precedente e uno
+  susseguente, per contesto;
 
 * iniziare ad **abbozzare** punteggiatura, traduzione, e ad evidenziare
   *dubbi*;
@@ -294,3 +294,32 @@ video.
 	4
 	...
 	```
+
+## Guidelines leggibilità per traduttori
+
+Il file ricevuto è prodotto da un computer/software e ancora "grezzo";
+per ottenere dei subs fruibili/professionali/pubblicabili è necessario
+adottare vari accorgimenti, che con la pratica diventeranno
+automatici.
+
+Tutto questo per suddividerci il lavoro il più possibile e
+velocizzarci.
+
+Per qualsiasi dubbio, come sempre, c'è la chat "AV: Traduttori e
+Revisori".
+
+Issue | Regola e/o esempio
+------|---------------
+Ortografia/Grammatica | Aggiungere la punteggiatura, maiuscole  ecc
+Significatività | omettere cose come "um" "ah", omettere ripetizioni "Grazie, grazie, grazie mille", rettificare eventuali errori grammaticali palesi di chi parla
+Suoni/Musica         | descrivere suoni/musica *rilevanti* tra tonde, es "(Porta che scricchiola)" o  "(Musica inquietante)"
+Non udibile | se non si sente/capisce e *sembrerebbe rilevante* porre "[Non udibile]"
+Dialoghi | Quando due persone parlano nello stesso sub, ognuno dovrebbe avere una linea per frase, iniziata da un trattino. Porre comunque su più linee, poi se troppe si splitterà il sub (in seguito, non da parte vostra) in maniera tale che rimanga leggibile. Ad esempio ...
+```
+- Hai mai visto immagini del genere?
+- No onestamente, mai così.
+- Ok, sappi che questa è pratica standard.
+- Ah.
+```
+
+
