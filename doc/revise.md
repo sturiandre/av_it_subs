@@ -172,11 +172,9 @@ Per lavorare alle revisioni:
 13. Importante: **salvare** il lavoro e fare i **backup** del file
     `.srt` editato;
 
-14. una volta concluso l'editing del proprio spezzone, rinominare il
-    file aggiungendo un `_c` (per "completo", nell'esempio
-    `revs_000000_002500_lbraglia_c.srt`) ed inviarmelo (come si
-    preferisce, Telegram o lbraglia@gmail.com) per archiviazione e per
-    produzione dell'`.srt` complessivo.
+14. una volta concluso l'editing del proprio spezzone, inviarmi il
+    file (come si preferisce, Telegram o lbraglia@gmail.com) per
+    archiviazione e per produzione dell'`.srt` complessivo.
 	
 15. *repeat* da 1.
 
