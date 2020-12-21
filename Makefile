@@ -27,6 +27,10 @@ summon-revisors:
 	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\nRevisors: ", sprintf("@%s", revisors), "\n\n")'\
 	| less
 
+# lista i traduttori per un determinato progetto (file subs_*_c.srt)
+list-translators:
+	av_yt_list_translators --prj ${PRJ}
+
 # ------------------------------------------------
 # Target per sottotitoli originali pre-translation
 # ------------------------------------------------
