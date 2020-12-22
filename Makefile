@@ -97,6 +97,19 @@ burn-revise-with-subs:
 	ffmpeg -i video/$(PRJ).mp4 -vf ass=/tmp/$(PRJ)_revs.ass \
 	/tmp/$(PRJ)_it_for_revs.mp4
 
+
+# ------------
+# Final srt
+# ------------
+
+final-srt:
+	av_yt_make_final_srt --prj $(PRJ) 2>&1 | less
+
+final-srt-stats:
+	${RSCRIPT} -e "srt <- lbav::read_srt(f = 'subs/$(PRJ)/$(PRJ)_final.srt'); openxlsx::write.xlsx(lbav::srt_stats(srt, yt_id = '$(YT_ID)'), file = '/tmp/$(PRJ)_stats.xlsx', asTable = TRUE)" &&\
+	libreoffice /tmp/$(PRJ)_stats.xlsx
+
+
 # ------------
 # Help
 # ------------
