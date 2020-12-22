@@ -81,7 +81,7 @@ git-log-analysis:
 	av_yt_git_log_analysis --prj $(PRJ) 
 
 # mplayer the video with subs
-view-with-subs:
+view-with-source-subs:
 	mplayer --sub-file=source/$(PRJ)_en.srt video/$(PRJ).mp4 
 
 # make a version of the video with subs (english, for translation)
@@ -108,6 +108,9 @@ final-srt:
 final-srt-stats:
 	${RSCRIPT} -e "srt <- lbav::read_srt(f = 'subs/$(PRJ)/$(PRJ)_final.srt'); openxlsx::write.xlsx(lbav::srt_stats(srt, yt_id = '$(YT_ID)'), file = '/tmp/$(PRJ)_stats.xlsx', asTable = TRUE)" &&\
 	libreoffice /tmp/$(PRJ)_stats.xlsx
+
+view-with-final-subs:
+	mplayer --sub-file=subs/$(PRJ)/$(PRJ)_final.srt video/$(PRJ).mp4 
 
 
 # ------------
