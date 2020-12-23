@@ -107,7 +107,7 @@ final-srt:
 	av_yt_make_final_srt --prj $(PRJ) 2>&1 | less
 
 final-srt-stats:
-	${RSCRIPT} -e "srt <- lbav::read_srt(f = 'subs/$(PRJ)/$(PRJ)_final.srt'); openxlsx::write.xlsx(lbav::srt_stats(srt, yt_id = '$(YT_ID)'), file = '/tmp/$(PRJ)_stats.xlsx', asTable = TRUE)" &&\
+	${RSCRIPT} -e "srt <- lbav::read_srt(f = 'subs/$(PRJ)/$(PRJ)_final.srt'); stats <- lbav::srt_stats(srt, yt_id = '$(YT_ID)'); write.csv(stats, file = 'subs/$(PRJ)/$(PRJ)_final_stats.csv'); openxlsx::write.xlsx(stats, file = '/tmp/$(PRJ)_stats.xlsx', asTable = TRUE)" &&\
 	libreoffice /tmp/$(PRJ)_stats.xlsx
 
 view-with-final-subs:
