@@ -4,6 +4,7 @@
 R_HOME  = "$(shell R RHOME)"
 RSCRIPT = "$(R_HOME)/bin/Rscript"
 BROWSER = firefox
+SUBEDITOR = aegisub-3.2
 
 # Default project infos
 PRJ     = hnva2
@@ -112,6 +113,8 @@ final-srt-stats:
 view-with-final-subs:
 	mplayer --sub-file=subs/$(PRJ)/$(PRJ)_final.srt video/$(PRJ).mp4 
 
+edit-final-subs:
+	$(SUBEDITOR) subs/$(PRJ)/$(PRJ)_final.srt video/$(PRJ).mp4
 
 # ------------
 # Help
