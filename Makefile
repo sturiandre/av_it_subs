@@ -108,7 +108,7 @@ final-srt:
 
 final-srt-stats:
 	${RSCRIPT} -e "srt <- lbav::read_srt(f = 'subs/$(PRJ)/$(PRJ)_final.srt'); stats <- lbav::srt_stats(srt, yt_id = '$(YT_ID)'); openxlsx::write.xlsx(stats, file = '/tmp/$(PRJ)_stats.xlsx', asTable = TRUE)" &&\
-	libreoffice /tmp/$(PRJ)_stats.xlsx
+	libreoffice /tmp/$(PRJ)_stats.xlsx &
 
 view-with-final-subs:
 	mplayer --sub-file=subs/$(PRJ)/$(PRJ)_final.srt video/$(PRJ).mp4 
