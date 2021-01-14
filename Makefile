@@ -8,7 +8,7 @@ SUBEDITOR = aegisub-3.2
 
 # Default project infos
 PRJ     = hnva2
-YT_ID   = Jaok_8MNntQ
+YT_ID   = 6k8UeAskYKQ
 # USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, KISS
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
 TRN_TO_REV_RATIO = 6  #quanti translate completi per creare una revisione?
@@ -115,6 +115,9 @@ view-with-final-subs:
 
 edit-final-subs:
 	$(SUBEDITOR) subs/$(PRJ)/$(PRJ)_final.srt video/$(PRJ).mp4
+
+view-final-subs:
+	less subs/$(PRJ)/$(PRJ)_final.srt
 
 # ------------
 # Help
