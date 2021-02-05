@@ -8,7 +8,7 @@ SUBEDITOR = aegisub-3.2
 
 # Default project infos
 PRJ     = hnva2
-YT_ID   = 6k8UeAskYKQ
+YT_ID   = ZeRKLcXpE4Q
 # USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, KISS
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
 TRN_TO_REV_RATIO = 6  #quanti translate completi per creare una revisione?
