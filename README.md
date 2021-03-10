@@ -1,5 +1,14 @@
 # AV YouTube subs (IT)
 
+## Progetti attivi
+
+Attualmente stiamo lavorando a...
+
+id   | Originale | Per traduzione | Per revisione | Finale
+:---:|:---------:|:--------------:|:-------------:|:-----:
+arav| [[YT]]( https://youtu.be/vQe-AGDKyzU) [[Download]]()| [[Video]](https://youtu.be/Lox6tAor5Xo) | [[Video]]() | [Video]
+
+<!-- hnva2| [[YT]](https://youtu.be/cJ9kGZMbyVw) [[Download]](https://drive.google.com/file/d/1bgxoD6IrdfN507xylHW3ylcZk73GBaIc/view?usp=sharing)| [[Video]](https://youtu.be/Jaok_8MNntQ) | [[Video]](https://youtu.be/GqygCQlP6Ro) | [Video] -->
 
 ## Overview
 
@@ -21,11 +30,3 @@ Per lo svolgimento dei compiti sono disponibili istruzioni specifiche per
 Soprattutto, grazie di essere con noi! :)
 
 
-## Progetti attivi
-
-Attualmente stiamo lavorando a...
-
-id   | Originale | Per traduzione | Per revisione | Finale
-:---:|:---------:|:--------------:|:-------------:|:-----:
-<!-- hnva2| [[YT]](https://youtu.be/cJ9kGZMbyVw) [[Download]](https://drive.google.com/file/d/1bgxoD6IrdfN507xylHW3ylcZk73GBaIc/view?usp=sharing)| [[Video]](https://youtu.be/Jaok_8MNntQ) | [[Video]](https://youtu.be/GqygCQlP6Ro) | [Video] -->
-arav| [[YT]]( https://youtu.be/vQe-AGDKyzU) [[Download]]()| [[Video]](https://youtu.be/Lox6tAor5Xo) | [[Video]]() | [Video]
