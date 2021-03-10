@@ -7,9 +7,8 @@ BROWSER = firefox
 SUBEDITOR = aegisub-3.2
 
 # Default project infos
-PRJ     = hnva2
+PRJ     = arav
 YT_ID   = ZeRKLcXpE4Q
-# USE_GTRANSLATE = FALSE # se disponibile test_it.srt lo usa, se no amen, KISS
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
 TRN_TO_REV_RATIO = 6  #quanti translate completi per creare una revisione?
 # es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 4 una revisione è
@@ -35,8 +34,6 @@ list-translators:
 # ------------------------------------------------
 # Target per sottotitoli originali pre-translation
 # ------------------------------------------------
-# edit-source-subs:
-# 	gnome-subtitles source/hnva2_en.srt
 
 split-source-subs:
 	av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
@@ -83,12 +80,12 @@ git-log-analysis:
 
 # mplayer the video with subs
 view-with-source-subs:
-	mplayer --sub-file=source/$(PRJ)_en.srt video/$(PRJ).mp4 
+	mplayer --sub-file=source/$(PRJ).srt video/$(PRJ).mp4 
 
 # make a version of the video with subs (english, for translation)
 burn-translate-with-subs:
-	ffmpeg -i source/$(PRJ)_en.srt /tmp/$(PRJ)_en.ass && \
-	ffmpeg -i video/$(PRJ).mp4 -vf ass=/tmp/$(PRJ)_en.ass \
+	ffmpeg -i source/$(PRJ).srt /tmp/$(PRJ).ass && \
+	ffmpeg -i video/$(PRJ).mp4 -vf ass=/tmp/$(PRJ).ass \
 	/tmp/$(PRJ)_en_subtitled.mp4
 
 # make a version of the video with subs (english, for translation)
