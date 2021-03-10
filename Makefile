@@ -8,7 +8,7 @@ SUBEDITOR = aegisub-3.2
 
 # Default project infos
 PRJ     = arav
-YT_ID   = ZeRKLcXpE4Q
+YT_ID   = Lox6tAor5Xo
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
 TRN_TO_REV_RATIO = 6  #quanti translate completi per creare una revisione?
 # es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 4 una revisione è
