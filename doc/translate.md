@@ -261,7 +261,7 @@ Ora, se si è **terminato** il proprio file:
   
   Una volta che il file sarà completato si potrà, compatibilmente con
   le proprie disponibilità, **richiedere una nuova assegnazione**
-  mediante `#translate`.
+  mediante `@lucailgarb #translate`.
 
 
 
