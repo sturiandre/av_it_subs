@@ -258,6 +258,11 @@ Ora, se si è **terminato** il proprio file:
   termine si comunicherà la cosa al revisore. Il processo andrà avanti
   fino a che la traduzione/revisione linguistica sarà terminata e il
   revisore comunicherà **completato** in risposta al nome del file.
+  
+  Una volta che il file sarà completato si potrà effettuare una nuova richiesta
+  di assegnazione mediante `#translate`.
+
+
 
 Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
 punto 7 (tener conto che le modifiche in precedenza apportate non
