@@ -95,6 +95,11 @@ burn-revise-with-subs:
 	ffmpeg -i video/$(PRJ).mp4 -vf ass=/tmp/$(PRJ)_revs.ass \
 	/tmp/$(PRJ)_it_for_revs.mp4
 
+# prima linea solo video, seconda vari sub anche tradotti
+youtube-dl:
+	cd /tmp && \
+	youtube-dl -f 18 "https://www.youtube.com/watch?v=$(YT_ID)"
+	# youtube-dl -f 18 --all-subs --write-auto-sub  "https://www.youtube.com/watch?v=$(YT_ID)"
 
 # ------------
 # Final srt
