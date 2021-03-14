@@ -259,8 +259,9 @@ Ora, se si è **terminato** il proprio file:
   fino a che la traduzione/revisione linguistica sarà terminata e il
   revisore comunicherà **completato** in risposta al nome del file.
   
-  Una volta che il file sarà completato si potrà effettuare una nuova richiesta
-  di assegnazione mediante `#translate`.
+  Una volta che il file sarà completato si potrà, compatibilmente con
+  le proprie disponibilità, **richiedere una nuova assegnazione**
+  mediante `#translate`.
 
 
 
