@@ -41,6 +41,27 @@ occorre:
 
 
 
+* durante la revisione linguistica è possibile **lasciare una nota per
+  i traduttori** ponendola dopo *2 cancelletti*, come *ultima linea* e
+  assicurandosi che dopo vi sia sempre una *linea vuota* di
+  separazione. Ad esempio:
+
+	```
+	3
+	00:00:33,000 --> 00:00:49,000
+	## Linea 1 in inglese
+	## Linea 2 in inglese
+	Testo tradotto
+	testo tradotto
+	## Commento per i traduttori
+	## commento per i traduttori
+
+	4
+	...
+	```
+
+
+
 ## Il file su cui lavoriamo per la revisione
 
 Il file su cui dobbiamo operare attraverso Aegisub:

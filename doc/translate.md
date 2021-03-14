@@ -252,7 +252,7 @@ Ora, se si è **terminato** il proprio file:
 	## Commento/richiesta del revisore
 	```
   
-  In questo secondo caso, una volta fatti i commenti il revisore vi
+  In questo secondo caso, una volta aggiunti i commenti il revisore vi
   comunicherà via Telegram la necessità di effettuare le modifiche;
   per farle si seguirà la medesima procedura descritta sopra e al
   termine si comunicherà la cosa al revisore. Il processo andrà avanti
@@ -302,24 +302,8 @@ Translate e non ascoltando il video.
 
 * una volta che abbiamo una idea compiuta della traduzione da
   effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
-  possiamo **procedere alla modifica** dei file;
+  possiamo **procedere alla modifica** dei file.
 
-* durante la modifica è possibile **lasciare una nota per i revisori**
-  ponendola dopo *1 cancelletto*, come *ultima linea* e assicurandosi che dopo
-  vi sia sempre una *linea vuota* di separazione. Ad esempio:
-
-	```
-	3
-	00:00:33,000 --> 00:00:49,000
-	## Linea 1 in inglese
-	## Linea 2 in inglese
-	Testo tradotto
-	testo tradotto
-	# REVISORI: qui nel dubbio si è optato per XYZ perché ...
-
-	4
-	...
-	```
 
 ## Guidelines leggibilità per traduttori
 
