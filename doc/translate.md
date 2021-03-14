@@ -227,12 +227,9 @@ saranno verosimilmente rifiutate.
 	
 Ora, se si è **terminato** il proprio file:
 * attendere accettazione/merge (comunicata automaticamente via mail);
-* *dare comunicazione* in chat che la modifica del file assegnato è
-  completa (per motivi logistici, aka "sbloccare" la revisione). 
-  
-  Il modo migliore per farlo è rispondere all'assegnazione (per
-  trovarla *cercare il proprio username GitHub* nella chat) con
-  **tradotto**
+* *dare comunicazione* in chat che la traduzione è completa
+  rispondendo all'assegnazione (per trovarla *cercare il proprio
+  username GitHub* nella chat) con **tradotto**
 
 	![trn_completa](../img/translate_completa.jpg)
  
@@ -240,7 +237,7 @@ Ora, se si è **terminato** il proprio file:
 * a questo punto il file verrà preso in carico da uno dei revisori
   (che comunicherà **in revisione**). Il revisore potrà confermare la
   traduzione, anche apportandovi modifiche minori, comunicando
-  **completo** in risposta al nome del file; oppure potrà richiedere
+  **completato** in risposta al nome del file; oppure potrà richiedere
   modifiche ai traduttori nello spezzone (mediante commenti) come
   nel seguente template:
 
@@ -260,7 +257,7 @@ Ora, se si è **terminato** il proprio file:
   per farle si seguirà la medesima procedura descritta sopra e al
   termine si comunicherà la cosa al revisore. Il processo andrà avanti
   fino a che la traduzione/revisione linguistica sarà terminata e il
-  revisore comunicherà **completo** in risposta al nome del file.
+  revisore comunicherà **completato** in risposta al nome del file.
 
 Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
 punto 7 (tener conto che le modifiche in precedenza apportate non
