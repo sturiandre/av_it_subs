@@ -42,8 +42,8 @@ occorre:
 
 ## Il file su cui lavoriamo per la traduzione
 
-Il file su cui dobbiamo operare è stato generato (verosimilmente) dal
-software speech-to-text di Google/YT, a partire dal video originale.
+Il file su cui dobbiamo operare è stato generato da un software
+speech-to-text a partire dal video originale.
 
 Per quanto riguarda il riconoscimento delle parole (soprattutto in
 inglese e quando l'audio è chiaro) oramai questi software fanno
@@ -51,7 +51,7 @@ abbastanza "paura"; quello che ancora fanno fatica a capire sono i
 toni (es quindi fanno fatica a capire le domande, la punteggiatura
 ecc). 
 
-Ma qui entrate in gioco voi e l'imprescindibilità, quando si andrà a
+Ma qui entrate in gioco voi e l'*imprescindibilità*, quando si andrà a
 tradurre e preparare i subs, di *ascoltare/guardare* il video.
 
 
@@ -231,13 +231,36 @@ Ora, se si è **terminato** il proprio file:
   completa (per motivi logistici, aka "sbloccare" la revisione). 
   
   Il modo migliore per farlo è rispondere all'assegnazione (per
-  trovarla *cercare il proprio username GitHub* nella chat) con un
-  messaggio del tipo "completato"/"terminato". Es
+  trovarla *cercare il proprio username GitHub* nella chat) con
+  **tradotto**
 
 	![trn_completa](../img/translate_completa.jpg)
  
   
-* si può procedere a richiesta di un nuovo file da modificare (punto 0).
+* a questo punto il file verrà preso in carico da uno dei revisori
+  (che comunicherà **in revisione**). Il revisore potrà confermare la
+  traduzione, anche apportandovi modifiche minori, comunicando
+  **completo** in risposta al nome del file; oppure potrà richiedere
+  modifiche ai traduttori nello spezzone (mediante commenti) come
+  nel seguente template:
+
+	```
+	4
+	00:00:51,000 --> 00:01:04,000
+	## Inglese da tradurre
+	## Inglese da tradurre
+	Italiano tradotto
+	Italiano tradotto
+	## Commento/richiesta del revisore
+	## Commento/richiesta del revisore
+	```
+  
+  In questo secondo caso, una volta fatti i commenti il revisore vi
+  comunicherà via Telegram la necessità di effettuare le modifiche;
+  per farle si seguirà la medesima procedura descritta sopra e al
+  termine si comunicherà la cosa al revisore. Il processo andrà avanti
+  fino a che la traduzione/revisione linguistica sarà terminata e il
+  revisore comunicherà **completo** in risposta al nome del file.
 
 Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
 punto 7 (tener conto che le modifiche in precedenza apportate non
