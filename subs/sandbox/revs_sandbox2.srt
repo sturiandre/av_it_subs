@@ -12,7 +12,6 @@ credo, che non affrontiamo, non guardiamo
 00:10:00,640 --> 00:10:06,480
 quello che è proprio davanti a noi
 parte da noi e qui su questo pianeta
-# REVISORI: primo sub di spezzone
 
 75
 00:10:06,480 --> 00:10:10,160
@@ -21,7 +20,6 @@ non siamo in grado di fare le cose giuste qui
 
 76
 00:10:12,480 --> 00:10:22,560
-non ha senso ecco la mia risposta
+non ha senso, ecco la mia risposta.
 ok allora prossima domanda
-# REVISORI ho omesso to that perchè in italiano mi suonava male, forse ci sta "alla tua domanda" ma mi sembrava ridondante
 
