@@ -58,26 +58,26 @@ Per quanto riguarda Windows è possibile eventualmente optare per la
 versione portabile (che non richiede installazione e quindi i
 permessi di amministratore sulla macchina).
 
-<!-- 1. per abilitazione alle richieste di revisione, correggere e inviarmi -->
-<!--    (Telegram o a lbraglia@gmail.com) il file di prova -->
-<!--    [`subs/sandbox/revs_sandbox2.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/revs_sandbox2.srt) -->
-<!--    (come spiegato in seguito) che è basato sul [questo -->
-<!--    video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing) -->
-<!--    (da scaricare); -->
+1. per abilitazione alle richieste di revisione, correggere e inviarmi
+   (Telegram o a lbraglia@gmail.com) il file di prova
+   [`subs/sandbox/template_revisori2.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/template_revisori2.srt)
+   (come spiegato in seguito) che è basato sul [questo
+   video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing)
+   (da scaricare);
 
-<!-- 2. una volta ottenuta abilitazione, scaricare il video senza -->
-<!--    sottotitoli su cui stiamo lavorando: il link si trova nella [pagina -->
-<!--    principale](../README.md), ad esempio (per hnva2) qui: -->
+2. una volta ottenuta abilitazione, scaricare il video senza
+   sottotitoli su cui stiamo lavorando: il link si trova nella [pagina
+   principale](../README.md), ad esempio (per hnva2) qui:
 
-<!-- 	![video-original-download](../img/video_original_download.png) -->
+	![video-original-download](../img/video_original_download.png)
 
-<!-- 3. periodicamente (quando disponibili) nel gruppo Telegram "AV: -->
-<!--    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file -->
-<!--    per la revisione. Si può richiedere una assegnazione mediante: -->
+3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
+   Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
+   per la revisione. Si può richiedere una assegnazione mediante:
    
-<!-- 	``` -->
-<!-- 	@lucailgarb #revise -->
-<!-- 	``` -->
+	```
+ 	@lucailgarb #revise
+ 	```
 
 
 ### Il file su cui lavoriamo
