@@ -22,27 +22,59 @@ Per poter effettuare revisioni per un dato video, dopo aver letto le
 occorre:
 
 
-* durante la revisione linguistica è possibile **lasciare una nota per
-  i traduttori** ponendola dopo *2 cancelletti*, come *ultima linea* e
-  assicurandosi che dopo vi sia sempre una *linea vuota* di
-  separazione. Ad esempio:
+TODOHERE come traduttori
 
-	```
-	3
-	00:00:33,000 --> 00:00:49,000
-	## Linea 1 in inglese
-	## Linea 2 in inglese
-	Testo tradotto
-	testo tradotto
-	## Commento per i traduttori
-	## commento per i traduttori
 
-	4
-	...
-	```
+
+
+### Processo step by step
 
 Nell'attività di revisione rimangono valide chiaramente tutte le
-[regole](translate.md#guidelines-leggibilità-per-traduttori) per i traduttori;
+[regole](translate.md#guidelines-leggibilità-per-traduttori) per i
+traduttori. Per effettuare materialmente la revisione linguistica.
+
+* appena un traduttore comunica "tradotto" al proprio spezzone ne
+  viene data comunicazione mediante tag ai revisori
+
+* uno dei revisori risponde con **in revisione** per autoassegnarsi lo
+  spezzone in base alle disponibilità
+
+* dopodiché il revisore rivede il file disponibile su GitHub (con
+  modalità analoghe a quelle adottate dai traduttori). Se:
+
+	- non sono necessarie modifiche risponde al suo "in revisione" con
+      **completo** 
+	  
+	- sono sufficienti modifiche minori le apporta (con le
+      stesse modalità adottate dai traduttori, modificando il file su
+	  GitHub), dopodiché risponde al suo "in revisione" con
+	  **completo**
+	  
+	- sono necessarie modifiche da parte del traduttore le segnala via 
+	  commento come segue, 
+	  
+	  ```
+	  3
+	  00:00:33,000 --> 00:00:49,000
+	  ## Linea 1 in inglese
+	  ## Linea 2 in inglese
+	  Testo tradotto
+	  testo tradotto
+	  ## Commento per i traduttori
+	  ## commento per i traduttori
+  
+	  4
+	  ...
+	  ```
+	  
+	  Da notare che il commento va dopo *2 cancelletti*, come *ultima linea*
+	  e assicurandosi che dopo vi sia sempre una *linea vuota* di
+	  separazione.
+	  
+	  Dopodichè comunica al traduttore (via Telegram) la necessità di
+	  rivedere la traduzione; l'interazione continuerà fino a quando
+	  la traduzione sarà ok, dopodiché il revisore risponderà al suo
+	  "in revisione" con **completo**
 
 
 
@@ -50,13 +82,13 @@ Nell'attività di revisione rimangono valide chiaramente tutte le
 ## Seconda fase
 
 ### Setup
-Per poter rivedere la leggibilità di sub occorre installare
-[Aegisub](http://www.aegisub.org/), il programma con cui verrà
-controllato il proprio spezzone.
+Per poter rivedere la leggibilità di sub occorre:
+0. installare [Aegisub](http://www.aegisub.org/), il programma con cui verrà
+   controllato il proprio spezzone.
    
-Per quanto riguarda Windows è possibile eventualmente optare per la
-versione portabile (che non richiede installazione e quindi i
-permessi di amministratore sulla macchina).
+   Per quanto riguarda Windows è possibile eventualmente optare per la
+   versione portabile (che non richiede installazione e quindi i
+   permessi di amministratore sulla macchina).
 
 1. per abilitazione alle richieste di revisione, correggere e inviarmi
    (Telegram o a lbraglia@gmail.com) il file di prova
