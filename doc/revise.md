@@ -6,39 +6,20 @@ Risorse | Link
 Obbligatorie | [[Guidelines linguistiche]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing), [[Aegisub]](http://www.aegisub.org/)
 Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
-## Setup
+## Introduzione
+La revisione avviene in due fasi:
+
+1. la prima è linguistica e avviene, in itinere, durante la traduzione;
+
+2. la seconda riguarda aspetti di leggibilità e avviene una volta
+   terminata la traduzione/revisione linguistica.
+
+## Prima fase
+
+### Setup
 Per poter effettuare revisioni per un dato video, dopo aver letto le
 [guidelines linguistiche](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
 occorre:
-
-0. installare [Aegisub](http://www.aegisub.org/), il programma con cui
-   verrà controllato il proprio spezzone. 
-   
-   Per quanto riguarda Windows è possibile eventualmente optare per la
-   versione portabile (che non richiede installazione e quindi i
-   permessi di amministratore sulla macchina);
-
-1. per abilitazione alle richieste di revisione, correggere e inviarmi
-   (Telegram o a lbraglia@gmail.com) il file di prova
-   [`subs/sandbox/revs_sandbox.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/revs_sandbox.srt)
-   (come spiegato in seguito) che è basato sul [questo
-   video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing)
-   (da scaricare);
-
-2. una volta ottenuta abilitazione, scaricare il video senza
-   sottotitoli su cui stiamo lavorando: il link si trova nella [pagina
-   principale](../README.md), ad esempio (per hnva2) qui:
-
-	![video-original-download](../img/video_original_download.png)
-
-3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
-   Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
-   per la revisione. Si può richiedere una assegnazione mediante:
-   
-	```
-	@lucailgarb #revise
-	```
-
 
 
 * durante la revisione linguistica è possibile **lasciare una nota per
@@ -60,39 +41,77 @@ occorre:
 	...
 	```
 
+Nell'attività di revisione rimangono valide chiaramente tutte le
+[regole](translate.md#guidelines-leggibilità-per-traduttori) per i traduttori;
 
 
-## Il file su cui lavoriamo per la revisione
+
+
+## Seconda fase
+
+### Setup
+Per poter rivedere la leggibilità di sub occorre installare
+[Aegisub](http://www.aegisub.org/), il programma con cui verrà
+controllato il proprio spezzone.
+   
+Per quanto riguarda Windows è possibile eventualmente optare per la
+versione portabile (che non richiede installazione e quindi i
+permessi di amministratore sulla macchina).
+
+<!-- 1. per abilitazione alle richieste di revisione, correggere e inviarmi -->
+<!--    (Telegram o a lbraglia@gmail.com) il file di prova -->
+<!--    [`subs/sandbox/revs_sandbox2.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/revs_sandbox2.srt) -->
+<!--    (come spiegato in seguito) che è basato sul [questo -->
+<!--    video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing) -->
+<!--    (da scaricare); -->
+
+<!-- 2. una volta ottenuta abilitazione, scaricare il video senza -->
+<!--    sottotitoli su cui stiamo lavorando: il link si trova nella [pagina -->
+<!--    principale](../README.md), ad esempio (per hnva2) qui: -->
+
+<!-- 	![video-original-download](../img/video_original_download.png) -->
+
+<!-- 3. periodicamente (quando disponibili) nel gruppo Telegram "AV: -->
+<!--    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file -->
+<!--    per la revisione. Si può richiedere una assegnazione mediante: -->
+   
+<!-- 	``` -->
+<!-- 	@lucailgarb #revise -->
+<!-- 	``` -->
+
+
+### Il file su cui lavoriamo
 
 Il file su cui dobbiamo operare attraverso Aegisub:
 
-* è stato creato durante il processo di traduzione ed è il collage di
-  più file sequenziali prodotti da traduttori diversi (tipicamente);
+* è stato creato durante il processo di traduzione/revisione
+  linguistica ed è il collage di più file sequenziali prodotti da
+  traduttori/revisori diversi;
 
-* include solamente la traduzione in italiano, dato che per l'inglese
-  è disponibile l'audio originale (attraverso il caricamento del
-  video);
+* include solamente la traduzione rivista in italiano, dato che per
+  l'inglese è disponibile l'audio originale (attraverso il caricamento
+  del video);
   
-* presenta eventuali commenti lasciati ai revisori come ultima linea
-  di sottotitolo, preceduta da `# REVISORI: ...`. Ad esempio
-  in presenza di un commento a video verrà visualizzato:
+<!-- * presenta eventuali commenti lasciati ai revisori come ultima linea -->
+<!--   di sottotitolo, preceduta da `# REVISORI: ...`. Ad esempio -->
+<!--   in presenza di un commento a video verrà visualizzato: -->
   
-  ```
-                    Testo tradotto
-                   Testo tradotto 2
-  # REVISORI: qui nel dubbio si è optato per XYZ perché ...
-  ```
-  Ovviamente, una volta risolto il punto, il commento per i revisori 
-  andrà cancellato. Incidentalmente la presenza di commenti tenderà ad 
-  essere segnalata da metriche di caratteri, per ovvi motivi;
+<!--   ``` -->
+<!--                     Testo tradotto -->
+<!--                    Testo tradotto 2 -->
+<!--   # REVISORI: qui nel dubbio si è optato per XYZ perché ... -->
+<!--   ``` -->
+<!--   Ovviamente, una volta risolto il punto, il commento per i revisori  -->
+<!--   andrà cancellato. Incidentalmente la presenza di commenti tenderà ad  -->
+<!--   essere segnalata da metriche di caratteri, per ovvi motivi; -->
 
-* in corrispondenza dei sub di inizio file per un traduttore è stato
-  posto il commento `# REVISORI: primo sub di spezzone`, per segnalare
+* in corrispondenza dei sub di inizio spezzone è stato posto il
+  commento `# REVISORI: primo sub di spezzone`, per segnalare
   l'esigenza di continuità tra quello che precede e quello che segue
-  (prodotto da revisori differenti/indipendentemente).
+  (prodotto da traduttori/revisori differenti/indipendentemente).
 
 
-## Il processo step-by-step
+### Il processo step-by-step
 
 Per lavorare alle revisioni:
 
@@ -200,7 +219,7 @@ Per lavorare alle revisioni:
 15. *repeat* da 1.
 
 
-## Editing con Aegisub
+### Editing con Aegisub
 
 Un *workflow* minimale:
 1. cliccare sulla prima riga (sub);
@@ -231,19 +250,9 @@ Un *workflow* minimale:
    `Ctrl+P` per riprodurre il video con i sottotitoli rivisti.
 
 
-## Ottenere aiuto
-In caso di dubbi/difficoltà:
+### Guidelines leggibilità
 
-* per **aspetti linguistici** non esitare a chiedere un parere/aiuto al gruppo
-  "AV: Traduttori e Revisori" seguendo [queste istruzioni](help.md);
-* per **aspetti informatici** contattami direttamente.
-
-
-## Guidelines leggibilità per revisori
-
-Nell'attività di revisione rimangono valide chiaramente tutte le
-[regole](translate.md#guidelines-leggibilità-per-traduttori) per i traduttori; in più, quelle specifiche per la revisione
-sono:
+In questa fase le guidelines per la revisione sono:
 
 Issue | Regola e/o esempio
 ------|---------------
@@ -265,10 +274,3 @@ A per numero linee, B lunghezza linea (massima) e C il CPS per il sub
 considerato (il secondo).
 
 ![stat_leggibilita_aegisub](../img/stat_leggibilita_aegisub.png)
-
-
-### Fonti/Approfondimenti
-
-[How to Tackle a Transcript (TED)](https://translations.ted.com/How_to_Tackle_a_Transcript)
-
-[How to break lines (TED)](https://translations.ted.com/How_to_break_lines)
