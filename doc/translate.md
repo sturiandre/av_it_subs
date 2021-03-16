@@ -231,7 +231,7 @@ Ora, se si è **terminato** il proprio file:
   rispondendo all'assegnazione (per trovarla *cercare il proprio
   username GitHub* nella chat) con **tradotto**
 
-	![tradotto](../img/tradotto.jpg =250x)
+	<img src="../img/tradotto.jpg" alt="tradotto" width="300"/>
  
   Una volta fatto ciò si potrà, compatibilmente con le proprie
   disponibilità **richiedere una nuova assegnazione** mediante
@@ -261,9 +261,8 @@ Ora, se si è **terminato** il proprio file:
   fino a che la traduzione/revisione linguistica sarà terminata e il
   revisore comunicherà **completato**.
 
-	<img src="../img/completato.jpg" alt="completato" width="150"/>
+	<img src="../img/completato.jpg" alt="completato" width="300"/>
 
-	![completato](../img/completato.jpg  =150x)
 
 Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
 punto 7 (tener conto che le modifiche in precedenza apportate non
