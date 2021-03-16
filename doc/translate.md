@@ -233,13 +233,15 @@ Ora, se si è **terminato** il proprio file:
 
 	![trn_completa](../img/translate_completa.jpg)
  
-  
+  Una volta fatto ciò si potrà, compatibilmente con le proprie
+  disponibilità **richiedere una nuova assegnazione** mediante
+  `@lucailgarb #translate`;
+
 * a questo punto il file verrà preso in carico da uno dei revisori
   (che comunicherà **in revisione**). Il revisore potrà confermare la
   traduzione, anche apportandovi modifiche minori, comunicando
-  **completato** in risposta al nome del file; oppure potrà richiedere
-  modifiche ai traduttori nello spezzone (mediante commenti) come
-  nel seguente template:
+  **completato**; oppure potrà richiedere modifiche ai traduttori
+  nello spezzone (mediante commenti) come nel seguente template:
 
 	```
 	4
@@ -252,17 +254,12 @@ Ora, se si è **terminato** il proprio file:
 	## Commento/richiesta del revisore
 	```
   
-  In questo secondo caso, una volta aggiunti i commenti il revisore vi
+  In questo secondo caso, una volta aggiunti i commenti, il revisore vi
   comunicherà via Telegram la necessità di effettuare le modifiche;
   per farle si seguirà la medesima procedura descritta sopra e al
   termine si comunicherà la cosa al revisore. Il processo andrà avanti
   fino a che la traduzione/revisione linguistica sarà terminata e il
-  revisore comunicherà **completato** in risposta al nome del file.
-  
-  Una volta che il file sarà completato si potrà, compatibilmente con
-  le proprie disponibilità, **richiedere una nuova assegnazione**
-  mediante `@lucailgarb #translate`.
-
+  revisore comunicherà **completato**.
 
 
 Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
