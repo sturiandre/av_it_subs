@@ -261,7 +261,9 @@ Ora, se si è **terminato** il proprio file:
   fino a che la traduzione/revisione linguistica sarà terminata e il
   revisore comunicherà **completato**.
 
-	![tradotto](../img/completato.jpg  =150x)
+	<img src="../img/completato.jpg" alt="completato" width="150"/>
+
+	![completato](../img/completato.jpg  =150x)
 
 Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
 punto 7 (tener conto che le modifiche in precedenza apportate non
