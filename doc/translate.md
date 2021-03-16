@@ -225,7 +225,12 @@ accettate ed integrate: modifiche che impattino su qualsiasi cosa
 diversa dalla traduzione (es progressivo sottotitolo, secondi)
 saranno verosimilmente rifiutate.
 	
-Ora, se si è **terminato** il proprio file:
+Ora, se **occorre finire** il file assegnato, ri-cominciare dal
+punto 7 (tener conto che le modifiche in precedenza apportate non
+saranno visualizzate, se non sono state nel frattempo
+approvate. Tuttavia sono state sottomesse/non perse).
+
+Se viceversa si è **terminato** il proprio file:
 * attendere accettazione/merge (comunicata automaticamente via mail);
 * *dare comunicazione* in chat che la traduzione è completa
   rispondendo all'assegnazione (per trovarla *cercare il proprio
@@ -263,11 +268,6 @@ Ora, se si è **terminato** il proprio file:
 
 	<img src="../img/completato.jpg" alt="completato" width="400"/>
 
-
-Se viceversa **occorre finire** il file assegnato, ri-cominciare dal
-punto 7 (tener conto che le modifiche in precedenza apportate non
-saranno visualizzate, se non sono state nel frattempo
-approvate. Tuttavia sono state sottomesse/non perse).
 
 
 ## Il workflow da adottare
