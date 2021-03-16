@@ -54,15 +54,14 @@ traduttori. Per effettuare materialmente la revisione linguistica:
 * uno dei revisori risponde con **in revisione** per autoassegnarsi lo
   spezzone in base alle proprie disponibilità;
 
-* dopodiché il revisore rivede il file disponibile su GitHub. Se:
+* dopodiché il revisore rivede il file disponibile su GitHub (con le
+      stesse modalità adottate dai traduttori). Se:
 
 	- non sono necessarie modifiche risponde al suo "in revisione" con
       **completo**;
 	  
-	- sono sufficienti modifiche minori le apporta (con le
-      stesse modalità adottate dai traduttori, modificando il file su
-	  GitHub), dopodiché risponde al suo "in revisione" con
-	  **completo**;
+	- sono sufficienti modifiche minori le apporta, dopodiché risponde
+	  al suo "in revisione" con **completo**;
 	  
 	- sono necessarie modifiche da parte del traduttore le segnala via
 	  commento (sempre modificando il file su GitHub) come segue:
@@ -82,8 +81,8 @@ traduttori. Per effettuare materialmente la revisione linguistica:
 	  ```
 	  
 	  Da notare che il commento va dopo *2 cancelletti*, come *ultima linea*
-	  e assicurandosi che dopo vi sia sempre una *linea vuota* di
-	  separazione.
+	  e assicurandosi che dopo vi sia sempre una **linea vuota di
+	  separazione**.
 	  
 	  Dopodichè comunica al traduttore (via Telegram) la necessità di
 	  rivedere la traduzione; l'interazione continuerà fino a quando
