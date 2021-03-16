@@ -11,8 +11,8 @@ La revisione avviene in due fasi:
 
 1. la prima è linguistica e avviene, in itinere, durante la traduzione;
 
-2. la seconda riguarda aspetti di leggibilità e avviene una volta
-   terminata la traduzione/revisione linguistica.
+2. la seconda riguarda aspetti di leggibilità e avviene al termine di
+   traduzione/revisione linguistica.
 
 ## Prima fase
 
@@ -21,37 +21,51 @@ Per poter effettuare revisioni per un dato video, dopo aver letto le
 [guidelines linguistiche](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
 occorre:
 
+1. creare (gratuitamente) un account su
+   [GitHub](https://www.github.com) ("Sign Up" e seguire la procedura
+   sino a verificare la mail);
+   
+2. comunicarmi lo username GitHub con cui intendete collaborare, per
+   [abilitazione](../data/users.csv). 
 
-TODOHERE come traduttori
+	Verrà risposto un nome file di prova: revisionarlo e sottomettere
+	la revisione, *come illustrato* nella procedura esposta per
+	[traduttori](translate.md).
 
-
+	Una volta fatto, se ci si sente ragionevolmente a proprio agio con
+    la procedura di modifica/sottomissione si può passare allo step
+    successivo, alternativamente si può chiedere
+	
+	```
+	@lucailgarb #rev-sandbox
+	```
+	per la predisposizione di un altro file di prova.
 
 
 ### Processo step by step
 
 Nell'attività di revisione rimangono valide chiaramente tutte le
 [regole](translate.md#guidelines-leggibilità-per-traduttori) per i
-traduttori. Per effettuare materialmente la revisione linguistica.
+traduttori. Per effettuare materialmente la revisione linguistica:
 
 * appena un traduttore comunica "tradotto" al proprio spezzone ne
-  viene data comunicazione mediante tag ai revisori
+  viene data comunicazione mediante tag ai revisori;
 
 * uno dei revisori risponde con **in revisione** per autoassegnarsi lo
-  spezzone in base alle disponibilità
+  spezzone in base alle proprie disponibilità;
 
-* dopodiché il revisore rivede il file disponibile su GitHub (con
-  modalità analoghe a quelle adottate dai traduttori). Se:
+* dopodiché il revisore rivede il file disponibile su GitHub. Se:
 
 	- non sono necessarie modifiche risponde al suo "in revisione" con
-      **completo** 
+      **completo**;
 	  
 	- sono sufficienti modifiche minori le apporta (con le
       stesse modalità adottate dai traduttori, modificando il file su
 	  GitHub), dopodiché risponde al suo "in revisione" con
-	  **completo**
+	  **completo**;
 	  
-	- sono necessarie modifiche da parte del traduttore le segnala via 
-	  commento come segue, 
+	- sono necessarie modifiche da parte del traduttore le segnala via
+	  commento (sempre modificando il file su GitHub) come segue:
 	  
 	  ```
 	  3
@@ -74,7 +88,7 @@ traduttori. Per effettuare materialmente la revisione linguistica.
 	  Dopodichè comunica al traduttore (via Telegram) la necessità di
 	  rivedere la traduzione; l'interazione continuerà fino a quando
 	  la traduzione sarà ok, dopodiché il revisore risponderà al suo
-	  "in revisione" con **completo**
+	  "in revisione" con **completo**.
 
 
 
@@ -82,47 +96,48 @@ traduttori. Per effettuare materialmente la revisione linguistica.
 ## Seconda fase
 
 ### Setup
-Per poter rivedere la leggibilità di sub occorre:
-0. installare [Aegisub](http://www.aegisub.org/), il programma con cui verrà
+Per poter revisionare la leggibilità di sub occorre:
+1. installare [Aegisub](http://www.aegisub.org/), il programma con cui verrà
    controllato il proprio spezzone.
    
    Per quanto riguarda Windows è possibile eventualmente optare per la
    versione portabile (che non richiede installazione e quindi i
    permessi di amministratore sulla macchina).
 
-1. per abilitazione alle richieste di revisione, correggere e inviarmi
+2. per abilitazione alle richieste di revisione, correggere e inviarmi
    (Telegram o a lbraglia@gmail.com) il file di prova
    [`subs/sandbox/template_revisori2.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/template_revisori2.srt)
    (come spiegato in seguito) che è basato sul [questo
    video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing)
    (da scaricare);
 
-2. una volta ottenuta abilitazione, scaricare il video senza
+3. una volta ottenuta abilitazione, scaricare il video senza
    sottotitoli su cui stiamo lavorando: il link si trova nella [pagina
    principale](../README.md), ad esempio (per hnva2) qui:
 
 	![video-original-download](../img/video_original_download.png)
 
-3. periodicamente (quando disponibili) nel gruppo Telegram "AV:
+4. periodicamente (quando disponibili) nel gruppo Telegram "AV:
    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
-   per la revisione. Si può richiedere una assegnazione mediante:
+   per la revisione di leggibilità. Si può richiedere una assegnazione
+   mediante:
    
 	```
  	@lucailgarb #revise
  	```
 
 
-### Il file su cui lavoriamo
+<!-- ### Il file su cui lavoriamo -->
 
-Il file su cui dobbiamo operare attraverso Aegisub:
+<!-- Il file su cui dobbiamo operare attraverso Aegisub: -->
 
-* è stato creato durante il processo di traduzione/revisione
-  linguistica ed è il collage di più file sequenziali prodotti da
-  traduttori/revisori diversi;
+<!-- * è stato creato durante il processo di traduzione/revisione -->
+<!--   linguistica ed è il collage di più file sequenziali prodotti da -->
+<!--   traduttori/revisori diversi; -->
 
-* include solamente la traduzione rivista in italiano, dato che per
-  l'inglese è disponibile l'audio originale (attraverso il caricamento
-  del video);
+<!-- * include solamente la traduzione rivista in italiano, dato che per -->
+<!--   l'inglese è disponibile l'audio originale (attraverso il caricamento -->
+<!--   del video); -->
   
 <!-- * presenta eventuali commenti lasciati ai revisori come ultima linea -->
 <!--   di sottotitolo, preceduta da `# REVISORI: ...`. Ad esempio -->
@@ -137,10 +152,10 @@ Il file su cui dobbiamo operare attraverso Aegisub:
 <!--   andrà cancellato. Incidentalmente la presenza di commenti tenderà ad  -->
 <!--   essere segnalata da metriche di caratteri, per ovvi motivi; -->
 
-* in corrispondenza dei sub di inizio spezzone è stato posto il
-  commento `# REVISORI: primo sub di spezzone`, per segnalare
-  l'esigenza di continuità tra quello che precede e quello che segue
-  (prodotto da traduttori/revisori differenti/indipendentemente).
+<!-- * in corrispondenza dei sub di inizio spezzone è stato posto il -->
+<!--   commento `# REVISORI: primo sub di spezzone`, per segnalare -->
+<!--   l'esigenza di continuità tra quello che precede e quello che segue -->
+<!--   (prodotto da traduttori/revisori differenti/indipendentemente). -->
 
 
 ### Il processo step-by-step
@@ -149,7 +164,8 @@ Per lavorare alle revisioni:
 
 1. periodicamente (quando disponibili) nel gruppo Telegram "AV:
    Traduzioni e Sub YouTube" verrà comunicata la disponibilità di file
-   per la revisione. Si può richiedere una assegnazione mediante:
+   per la revisione di leggibilità. Si può richiedere una assegnazione
+   mediante:
    
 	```
 	@lucailgarb #revise
