@@ -57,11 +57,11 @@ traduttori. Per effettuare materialmente la revisione linguistica:
 * dopodiché il revisore rivede il file disponibile su GitHub (con le
       stesse modalità adottate dai traduttori). Se:
 
-	- non sono necessarie modifiche risponde al suo "in revisione" con
+	- non sono necessarie modifiche risponde al nome del file con
       **completato**;
 	  
 	- sono sufficienti modifiche minori le apporta, dopodiché risponde
-	  al suo "in revisione" con **completato**;
+	  **completato**;
 	  
 	- sono necessarie modifiche da parte del traduttore le segnala via
 	  commento (sempre modificando il file su GitHub) come segue:
@@ -86,10 +86,13 @@ traduttori. Per effettuare materialmente la revisione linguistica:
 	  
 	  Dopodichè comunica al traduttore (via Telegram) la necessità di
 	  rivedere la traduzione; l'interazione continuerà fino a quando
-	  la traduzione sarà ok, dopodiché il revisore risponderà al suo
-	  "in revisione" con **completato**.
+	  la traduzione sarà ok, dopodiché il revisore risponderà 
+	  **completato** al nome file.
 
-	<img src="../img/completato.jpg" alt="completato" width="400"/>
+
+Uno screenshot sintetico a seguire:
+
+<img src="../img/completato.jpg" alt="completato" width="400"/>
 
 
 
