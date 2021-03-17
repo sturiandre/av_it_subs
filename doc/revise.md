@@ -3,7 +3,7 @@
 
 Risorse | Link 
 --------|:----:
-Obbligatorie | [[Guidelines linguistiche]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing), [[Aegisub]](http://www.aegisub.org/)
+Obbligatorie | [[Guidelines linguistiche]](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing), [[Aegisub]](http://www.aegisub.org/)
 Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 ## Introduzione
@@ -18,7 +18,7 @@ La revisione avviene in due fasi:
 
 ### Setup
 Per poter effettuare revisioni per un dato video, dopo aver letto le
-[guidelines linguistiche](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+[guidelines linguistiche](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
 occorre:
 
 1. creare (gratuitamente) un account su

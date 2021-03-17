@@ -3,14 +3,14 @@
 
 Risorse | Link
 --------|:----:
-Obbligatorie | [[Guidelines linguistiche]](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+Obbligatorie | [[Guidelines linguistiche]](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
 Consigliate | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
 ## Setup
 
 Per poter contribuire alla traduzione, dopo aver letto le [guidelines
- linguistiche](https://drive.google.com/file/d/1IACZxWdk84rs81ElQ9OWws-aroQZDtxZ/view?usp=sharing)
+ linguistiche](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
 occorre:
 
 1. creare (gratuitamente) un account su
