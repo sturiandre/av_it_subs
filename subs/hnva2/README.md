@@ -1,4 +1,4 @@
-# Holding non vegan accountable 2
+# Holding Non-Vegans Accountable 2.0 | Live Workshop + Q&A
 
 id   | Originale | Per traduzione | Per revisione 
 :---:|:---------:|:--------------:|:-------------:
