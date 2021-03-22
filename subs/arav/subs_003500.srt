@@ -10,9 +10,11 @@
 
 
 
+
 1055
 00:35:02,000 --> 00:35:04,960
 ## won't always be accepted by the current
+
 
 
 
@@ -22,9 +24,11 @@
 
 
 
+
 1057
 00:35:06,000 --> 00:35:08,240
 ## leader organizer of that group and if
+
 
 
 
@@ -34,9 +38,11 @@
 
 
 
+
 1059
 00:35:09,839 --> 00:35:11,599
 ## fine you either continue volunteering or
+
 
 
 
@@ -46,9 +52,11 @@
 
 
 
+
 1061
 00:35:12,160 --> 00:35:14,160
 ## create your own thing and do it your way
+
 
 
 
@@ -58,9 +66,11 @@
 
 
 
+
 1063
 00:35:16,240 --> 00:35:17,119
 ## you're saying basically
+
 
 
 
@@ -70,9 +80,11 @@
 
 
 
+
 1065
 00:35:19,359 --> 00:35:21,599
 ## always welcome feedback but welcoming
+
 
 
 
@@ -82,9 +94,11 @@
 
 
 
+
 1067
 00:35:22,880 --> 00:35:24,400
 ## take it on board
+
 
 
 
@@ -94,9 +108,11 @@
 
 
 
+
 1069
 00:35:27,119 --> 00:35:28,079
 ## and then
+
 
 
 
@@ -106,9 +122,11 @@
 
 
 
+
 1071
 00:35:30,640 --> 00:35:32,880
 ## take it on board or we may not
+
 
 
 
@@ -118,9 +136,11 @@
 
 
 
+
 1073
 00:35:35,599 --> 00:35:37,520
 ## is just going to be accepted and we're
+
 
 
 
@@ -130,9 +150,11 @@
 
 
 
+
 1075
 00:35:38,400 --> 00:35:41,040
 ## that idea whatever it might be i think
+
 
 
 
@@ -142,9 +164,11 @@
 
 
 
+
 1077
 00:35:41,520 --> 00:35:45,280
 ## very unrealistic yeah it will be very
+
 
 
 
@@ -154,9 +178,11 @@
 
 
 
+
 1079
 00:35:47,520 --> 00:35:48,880
 ## the fact that
+
 
 
 
@@ -166,9 +192,11 @@
 
 
 
+
 1081
 00:35:52,079 --> 00:35:55,520
 ## then i think if they feel like
+
 
 
 
@@ -178,9 +206,11 @@
 
 
 
+
 1083
 00:35:57,200 --> 00:35:58,880
 ## organization then they should just do
+
 
 
 
@@ -190,9 +220,11 @@
 
 
 
+
 1085
 00:36:00,480 --> 00:36:02,240
 ## sense to me it's just very common
+
 
 
 
@@ -202,9 +234,11 @@
 
 
 
+
 1087
 00:36:05,440 --> 00:36:07,359
 ## but just to make sure
+
 
 
 
@@ -214,9 +248,11 @@
 
 
 
+
 1089
 00:36:09,520 --> 00:36:11,680
 ## confused by what we're saying here
+
 
 
 
@@ -226,9 +262,11 @@
 
 
 
+
 1091
 00:36:14,960 --> 00:36:16,480
 ## have any input
+
 
 
 
@@ -238,9 +276,11 @@
 
 
 
+
 1093
 00:36:17,920 --> 00:36:20,000
 ## any criticism
+
 
 
 
@@ -250,9 +290,11 @@
 
 
 
+
 1095
 00:36:23,680 --> 00:36:27,040
 ## whether you're an organizer volunteer
+
 
 
 
@@ -262,9 +304,11 @@
 
 
 
+
 1097
 00:36:29,040 --> 00:36:31,599
 ## to say [ __ ] you and go do your own thing
+
 
 
 
@@ -274,9 +318,11 @@
 
 
 
+
 1099
 00:36:34,480 --> 00:36:36,560
 ## think that we've only ever
+
 
 
 
@@ -286,9 +332,11 @@
 
 
 
+
 1101
 00:36:39,599 --> 00:36:42,240
 ## from either my brain or a cell's brain
+
 
 
 
@@ -298,9 +346,11 @@
 
 
 
+
 1103
 00:36:43,599 --> 00:36:46,720
 ## we've always taken on feedback from
+
 
 
 
@@ -310,9 +360,11 @@
 
 
 
+
 1105
 00:36:47,839 --> 00:36:50,320
 ## and taken it into account and i think
+
 
 
 
@@ -322,9 +374,11 @@
 
 
 
+
 1107
 00:36:52,160 --> 00:36:53,599
 ## here is
+
 
 
 
@@ -334,9 +388,11 @@
 
 
 
+
 1109
 00:36:56,640 --> 00:36:58,880
 ## like really think about where a baby
+
 
 
 
@@ -346,9 +402,11 @@
 
 
 
+
 1111
 00:37:00,240 --> 00:37:03,359
 ## weren't operating the way that we are if
+
 
 
 
@@ -358,9 +416,11 @@
 
 
 
+
 1113
 00:37:07,359 --> 00:37:10,560
 ## a board of um
+
 
 
 
@@ -370,9 +430,11 @@
 
 
 
+
 1115
 00:37:14,079 --> 00:37:16,240
 ## only had a vote
+
 
 
 
@@ -382,9 +444,11 @@
 
 
 
+
 1117
 00:37:19,040 --> 00:37:20,720
 ## of many
+
 
 
 
@@ -394,9 +458,11 @@
 
 
 
+
 1119
 00:37:24,079 --> 00:37:28,240
 ## i mean i think it's i i think it's clear
+
 
 
 
@@ -406,9 +472,11 @@
 
 
 
+
 1121
 00:37:31,839 --> 00:37:34,000
 ## about the message and i don't think that
+
 
 
 
@@ -418,9 +486,11 @@
 
 
 
+
 1123
 00:37:36,480 --> 00:37:39,680
 ## where we are today that leads on to
+
 
 
 
@@ -430,9 +500,11 @@
 
 
 
+
 1125
 00:37:41,119 --> 00:37:42,640
 ## because i think what i feel like you're
+
 
 
 
@@ -442,9 +514,11 @@
 
 
 
+
 1127
 00:37:44,480 --> 00:37:47,040
 ## if you didn't maintain control you feel
+
 
 
 
@@ -454,9 +528,11 @@
 
 
 
+
 1129
 00:37:49,280 --> 00:37:51,119
 ## pretty much every other ar organization
+
 
 
 
@@ -466,9 +542,11 @@
 
 
 
+
 1131
 00:37:53,280 --> 00:37:56,000
 ## uh human issues um on human rights
+
 
 
 
@@ -478,9 +556,11 @@
 
 
 
+
 1133
 00:37:56,480 --> 00:38:00,320
 ## and basically kind of i guess
+
 
 
 
@@ -490,9 +570,11 @@
 
 
 
+
 1135
 00:38:01,920 --> 00:38:03,760
 ## that they're moving with the times
+
 
 
 
@@ -502,9 +584,11 @@
 
 
 
+
 1137
 00:38:05,760 --> 00:38:08,000
 ## started for if that makes sense um and
+
 
 
 
@@ -514,9 +598,11 @@
 
 
 
+
 1139
 00:38:09,520 --> 00:38:10,480
 ## positive thing
+
 
 
 
@@ -526,9 +612,11 @@
 
 
 
+
 1141
 00:38:11,839 --> 00:38:13,599
 ## let's be honest the you know the the
+
 
 
 
@@ -538,9 +626,11 @@
 
 
 
+
 1143
 00:38:14,480 --> 00:38:17,040
 ## are very much changing and you know a
+
 
 
 
@@ -550,9 +640,11 @@
 
 
 
+
 1145
 00:38:18,480 --> 00:38:20,400
 ## very much been thrown to the front and
+
 
 
 
@@ -562,9 +654,11 @@
 
 
 
+
 1147
 00:38:22,240 --> 00:38:24,880
 ## um but you could argue that ar
+
 
 
 
@@ -574,9 +668,11 @@
 
 
 
+
 1149
 00:38:26,000 --> 00:38:28,800
 ## also taking those fights on board is
+
 
 
 
@@ -586,9 +682,11 @@
 
 
 
+
 1151
 00:38:29,119 --> 00:38:30,720
 ## some and i guess you would argue that is
+
 
 
 
@@ -598,9 +696,11 @@
 
 
 
+
 1153
 00:38:33,040 --> 00:38:36,079
 ## another question that has been asked or
+
 
 
 
@@ -610,9 +710,11 @@
 
 
 
+
 1155
 00:38:37,520 --> 00:38:37,920
 ## up
+
 
 
 
@@ -622,9 +724,11 @@
 
 
 
+
 1157
 00:38:40,960 --> 00:38:43,359
 ## and uh and you know what this means with
+
 
 
 
@@ -634,9 +738,11 @@
 
 
 
+
 1159
 00:38:44,720 --> 00:38:46,000
 ## intersectionality i don't think that's
+
 
 
 
@@ -646,9 +752,11 @@
 
 
 
+
 1161
 00:38:47,680 --> 00:38:49,200
 ## to to say because i don't
+
 
 
 
@@ -658,9 +766,11 @@
 
 
 
+
 1163
 00:38:51,760 --> 00:38:54,079
 ## if there's anybody in this in this chat
+
 
 
 
@@ -670,9 +780,11 @@
 
 
 
+
 1165
 00:38:55,119 --> 00:38:57,440
 ## that say disagrees with the concept of
+
 
 
 
@@ -682,9 +794,11 @@
 
 
 
+
 1167
 00:38:59,119 --> 00:39:00,240
 ## with facts right
+
 
 
 
@@ -694,9 +808,11 @@
 
 
 
+
 1169
 00:39:02,560 --> 00:39:04,000
 ## was originally coined
+
 
 
 
@@ -706,9 +822,11 @@
 
 
 
+
 1171
 00:39:06,480 --> 00:39:08,160
 ## someone who's female and black will
+
 
 
 
@@ -718,9 +836,11 @@
 
 
 
+
 1173
 00:39:09,359 --> 00:39:11,119
 ## someone who's male and white or someone
+
 
 
 
@@ -730,9 +850,11 @@
 
 
 
+
 1175
 00:39:13,280 --> 00:39:15,680
 ## you know transgender and black or
+
 
 
 
@@ -742,9 +864,11 @@
 
 
 
+
 1177
 00:39:16,480 --> 00:39:17,520
 ## everyone experiences the world
+
 
 
 
@@ -754,9 +878,11 @@
 
 
 
+
 1179
 00:39:18,880 --> 00:39:20,240
 ## right that's what it means
+
 
 
 
@@ -766,9 +892,11 @@
 
 
 
+
 1181
 00:39:21,760 --> 00:39:23,440
 ## vegans have made it that's
+
 
 
 
@@ -778,9 +906,11 @@
 
 
 
+
 1183
 00:39:25,839 --> 00:39:27,200
 ## that's what it means i'm sure
+
 
 
 
@@ -790,9 +920,11 @@
 
 
 
+
 1185
 00:39:29,359 --> 00:39:30,800
 ## would would say it would argue against
+
 
 
 
@@ -802,9 +934,11 @@
 
 
 
+
 1187
 00:39:32,880 --> 00:39:35,440
 ## but let's say uh the they call
+
 
 
 
@@ -814,9 +948,11 @@
 
 
 
+
 1189
 00:39:37,040 --> 00:39:38,079
 ## crowd let's say
+
 
 
 
@@ -826,9 +962,11 @@
 
 
 
+
 1191
 00:39:40,960 --> 00:39:41,760
 ## get
+
 
 
 
@@ -838,9 +976,11 @@
 
 
 
+
 1193
 00:39:43,119 --> 00:39:44,880
 ## stood up against and you've said said
+
 
 
 
@@ -850,9 +990,11 @@
 
 
 
+
 1195
 00:39:45,839 --> 00:39:48,240
 ## you know the animals first um approach
+
 
 
 
@@ -862,9 +1004,11 @@
 
 
 
+
 1197
 00:39:50,079 --> 00:39:52,960
 ## um and this has been widely criticized
+
 
 
 
@@ -874,9 +1018,11 @@
 
 
 
+
 1199
 00:39:54,640 --> 00:39:57,680
 ## you know people make videos about this
+
 
 
 
@@ -886,9 +1032,11 @@
 
 
 
+
 1201
 00:39:59,040 --> 00:40:01,760
 ## you guys for this they are people um
+
 
 
 

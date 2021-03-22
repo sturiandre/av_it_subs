@@ -10,9 +10,11 @@
 
 
 
+
 911
 00:30:03,679 --> 00:30:04,480
 ## something
+
 
 
 
@@ -22,9 +24,11 @@
 
 
 
+
 913
 00:30:07,279 --> 00:30:07,679
 ## you
+
 
 
 
@@ -34,9 +38,11 @@
 
 
 
+
 915
 00:30:10,320 --> 00:30:11,039
 ## chapter
+
 
 
 
@@ -46,9 +52,11 @@
 
 
 
+
 917
 00:30:13,039 --> 00:30:14,320
 ## doing a minimum number of
+
 
 
 
@@ -58,9 +66,11 @@
 
 
 
+
 919
 00:30:17,200 --> 00:30:19,360
 ## operating for a certain amount of time
+
 
 
 
@@ -70,9 +80,11 @@
 
 
 
+
 921
 00:30:22,240 --> 00:30:23,440
 ## money was limited
+
 
 
 
@@ -82,9 +94,11 @@
 
 
 
+
 923
 00:30:26,480 --> 00:30:28,240
 ## sometimes it was just you know picking
+
 
 
 
@@ -94,9 +108,11 @@
 
 
 
+
 925
 00:30:29,840 --> 00:30:30,240
 ## then
+
 
 
 
@@ -106,9 +122,11 @@
 
 
 
+
 927
 00:30:31,919 --> 00:30:33,520
 ## chance of getting it but
+
 
 
 
@@ -118,9 +136,11 @@
 
 
 
+
 929
 00:30:36,000 --> 00:30:37,440
 ## that would actually
+
 
 
 
@@ -130,9 +150,11 @@
 
 
 
+
 931
 00:30:39,120 --> 00:30:40,480
 ## received that and this is what we spent
+
 
 
 
@@ -142,9 +164,11 @@
 
 
 
+
 933
 00:30:42,080 --> 00:30:45,600
 ## our conditions for our criteria for
+
 
 
 
@@ -154,9 +178,11 @@
 
 
 
+
 935
 00:30:46,000 --> 00:30:49,039
 ## accepted in in getting the funding
+
 
 
 
@@ -166,9 +192,11 @@
 
 
 
+
 937
 00:30:51,679 --> 00:30:53,279
 ## board for six months
+
 
 
 
@@ -178,9 +206,11 @@
 
 
 
+
 939
 00:30:56,399 --> 00:30:58,320
 ## a month i think that's what yeah one
+
 
 
 
@@ -190,9 +220,11 @@
 
 
 
+
 941
 00:31:00,399 --> 00:31:03,600
 ## total amount of six cubes before we
+
 
 
 
@@ -202,9 +234,11 @@
 
 
 
+
 943
 00:31:04,000 --> 00:31:07,760
 ## we would look at giving you money yeah
+
 
 
 
@@ -214,9 +248,11 @@
 
 
 
+
 945
 00:31:10,559 --> 00:31:11,519
 ## nothing too
+
 
 
 
@@ -226,9 +262,11 @@
 
 
 
+
 947
 00:31:14,559 --> 00:31:17,440
 ## a lot of organizers don't really pay
+
 
 
 
@@ -238,9 +276,11 @@
 
 
 
+
 949
 00:31:18,000 --> 00:31:21,120
 ## to what we do they they come on and
+
 
 
 
@@ -250,9 +290,11 @@
 
 
 
+
 951
 00:31:22,320 --> 00:31:24,159
 ## own cities and they
+
 
 
 
@@ -262,9 +304,11 @@
 
 
 
+
 953
 00:31:25,919 --> 00:31:28,159
 ## own on their own mountains
+
 
 
 
@@ -274,9 +318,11 @@
 
 
 
+
 955
 00:31:31,519 --> 00:31:32,000
 ## people come
+
 
 
 
@@ -286,9 +332,11 @@
 
 
 
+
 957
 00:31:34,480 --> 00:31:35,440
 ## navy
+
 
 
 
@@ -298,9 +346,11 @@
 
 
 
+
 959
 00:31:37,039 --> 00:31:39,039
 ## own city and
+
 
 
 
@@ -310,9 +360,11 @@
 
 
 
+
 961
 00:31:42,080 --> 00:31:46,720
 ## as a global movement and uh
+
 
 
 
@@ -322,9 +374,11 @@
 
 
 
+
 963
 00:31:48,399 --> 00:31:50,000
 ## attention to the things that we have
+
 
 
 
@@ -334,9 +388,11 @@
 
 
 
+
 965
 00:31:50,559 --> 00:31:53,039
 ## yeah and they don't really know about
+
 
 
 
@@ -346,9 +402,11 @@
 
 
 
+
 967
 00:31:53,679 --> 00:31:56,960
 ## uh things 20
+
 
 
 
@@ -358,9 +416,11 @@
 
 
 
+
 969
 00:32:01,039 --> 00:32:02,320
 ## they complain that they never got the
+
 
 
 
@@ -370,9 +430,11 @@
 
 
 
+
 971
 00:32:04,159 --> 00:32:07,440
 ## right um
+
 
 
 
@@ -382,9 +444,11 @@
 
 
 
+
 973
 00:32:08,480 --> 00:32:10,720
 ## handle that i mean this is uh not even
+
 
 
 
@@ -394,9 +458,11 @@
 
 
 
+
 975
 00:32:11,200 --> 00:32:13,200
 ## specific thing but we can we can talk
+
 
 
 
@@ -406,9 +472,11 @@
 
 
 
+
 977
 00:32:14,480 --> 00:32:16,240
 ## it's something i've also experienced not
+
 
 
 
@@ -418,9 +486,11 @@
 
 
 
+
 979
 00:32:17,600 --> 00:32:21,279
 ## save and also in in even you know
+
 
 
 
@@ -430,9 +500,11 @@
 
 
 
+
 981
 00:32:23,440 --> 00:32:24,799
 ## grassroots organizations local
+
 
 
 
@@ -442,9 +514,11 @@
 
 
 
+
 983
 00:32:26,640 --> 00:32:28,000
 ## always be some kind of power
+
 
 
 
@@ -454,9 +528,11 @@
 
 
 
+
 985
 00:32:30,000 --> 00:32:31,279
 ## don't know if it's only within
+
 
 
 
@@ -466,9 +542,11 @@
 
 
 
+
 987
 00:32:33,039 --> 00:32:34,399
 ## don't know women's rights if it's in
+
 
 
 
@@ -478,9 +556,11 @@
 
 
 
+
 989
 00:32:36,000 --> 00:32:37,039
 ## in all these groups i
+
 
 
 
@@ -490,9 +570,11 @@
 
 
 
+
 991
 00:32:38,960 --> 00:32:40,720
 ## time to know but in animal rights it
+
 
 
 
@@ -502,9 +584,11 @@
 
 
 
+
 993
 00:32:42,880 --> 00:32:44,640
 ## there is a power struggle of somebody
+
 
 
 
@@ -514,9 +598,11 @@
 
 
 
+
 995
 00:32:46,080 --> 00:32:47,600
 ## who's trying to take over that person
+
 
 
 
@@ -526,9 +612,11 @@
 
 
 
+
 997
 00:32:48,159 --> 00:32:49,840
 ## you know somebody who's trying to reject
+
 
 
 
@@ -538,9 +626,11 @@
 
 
 
+
 999
 00:32:51,440 --> 00:32:53,600
 ## want to call them leader whatever it is
+
 
 
 
@@ -550,9 +640,11 @@
 
 
 
+
 1001
 00:32:55,679 --> 00:32:56,880
 ## like what do you think
+
 
 
 
@@ -562,9 +654,11 @@
 
 
 
+
 1003
 00:32:59,200 --> 00:33:01,360
 ## have a suggestion on on how to
+
 
 
 
@@ -574,9 +668,11 @@
 
 
 
+
 1005
 00:33:04,559 --> 00:33:05,760
 ## well you know one of the things i'm
+
 
 
 
@@ -586,9 +682,11 @@
 
 
 
+
 1007
 00:33:07,840 --> 00:33:11,039
 ## is that we really took into account like
+
 
 
 
@@ -598,9 +696,11 @@
 
 
 
+
 1009
 00:33:12,799 --> 00:33:14,080
 ## the fact that we want to be taken
+
 
 
 
@@ -610,9 +710,11 @@
 
 
 
+
 1011
 00:33:16,000 --> 00:33:16,399
 ## that
+
 
 
 
@@ -622,9 +724,11 @@
 
 
 
+
 1013
 00:33:22,399 --> 00:33:24,720
 ## we don't necessarily expect people to
+
 
 
 
@@ -634,9 +738,11 @@
 
 
 
+
 1015
 00:33:25,440 --> 00:33:28,720
 ## our leadership to like trust our
+
 
 
 
@@ -646,9 +752,11 @@
 
 
 
+
 1017
 00:33:30,960 --> 00:33:33,679
 ## but i think it's safe to say we've
+
 
 
 
@@ -658,9 +766,11 @@
 
 
 
+
 1019
 00:33:34,960 --> 00:33:37,919
 ## a certain level of trust because you
+
 
 
 
@@ -670,9 +780,11 @@
 
 
 
+
 1021
 00:33:40,320 --> 00:33:44,799
 ## and we do what we do pretty well and
+
 
 
 
@@ -682,9 +794,11 @@
 
 
 
+
 1023
 00:33:49,519 --> 00:33:50,480
 ## leadership
+
 
 
 
@@ -694,9 +808,11 @@
 
 
 
+
 1025
 00:33:52,960 --> 00:33:55,279
 ## it on their own accord
+
 
 
 
@@ -706,9 +822,11 @@
 
 
 
+
 1027
 00:33:58,399 --> 00:33:58,799
 ## that
+
 
 
 
@@ -718,9 +836,11 @@
 
 
 
+
 1029
 00:34:01,840 --> 00:34:04,840
 ## to run an organization the way that we
+
 
 
 
@@ -730,9 +850,11 @@
 
 
 
+
 1031
 00:34:07,440 --> 00:34:08,719
 ## then you should start your own
+
 
 
 
@@ -742,9 +864,11 @@
 
 
 
+
 1033
 00:34:11,119 --> 00:34:13,918
 ## sure if you come on to some come on
+
 
 
 
@@ -754,9 +878,11 @@
 
 
 
+
 1035
 00:34:15,199 --> 00:34:17,359
 ## you know you choose to volunteer or you
+
 
 
 
@@ -766,9 +892,11 @@
 
 
 
+
 1037
 00:34:18,879 --> 00:34:22,480
 ## work for an organization and you're on
+
 
 
 
@@ -778,9 +906,11 @@
 
 
 
+
 1039
 00:34:25,119 --> 00:34:27,199
 ## and representing what their movement is
+
 
 
 
@@ -790,9 +920,11 @@
 
 
 
+
 1041
 00:34:28,320 --> 00:34:35,520
 ## you really have no right to say
+
 
 
 
@@ -802,9 +934,11 @@
 
 
 
+
 1043
 00:34:39,280 --> 00:34:42,960
 ## sure sure so the idea is kind of
+
 
 
 
@@ -814,9 +948,11 @@
 
 
 
+
 1045
 00:34:44,320 --> 00:34:46,399
 ## kind of i don't know
+
 
 
 
@@ -826,9 +962,11 @@
 
 
 
+
 1047
 00:34:49,839 --> 00:34:50,560
 ## people who
+
 
 
 
@@ -838,9 +976,11 @@
 
 
 
+
 1049
 00:34:52,639 --> 00:34:54,639
 ## with not just av but with any group
+
 
 
 
@@ -850,9 +990,11 @@
 
 
 
+
 1051
 00:34:55,280 --> 00:34:57,119
 ## that if you are going to volunteer with
+
 
 
 
@@ -862,9 +1004,11 @@
 
 
 
+
 1053
 00:34:58,960 --> 00:35:00,800
 ## i guess you need to learn that maybe
+
 
 
 

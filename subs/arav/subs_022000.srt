@@ -10,9 +10,11 @@
 
 
 
+
 4210
 02:20:02,399 --> 02:20:04,160
 ## range same could be said
+
 
 
 
@@ -22,9 +24,11 @@
 
 
 
+
 4212
 02:20:06,640 --> 02:20:07,200
 ## about
+
 
 
 
@@ -34,9 +38,11 @@
 
 
 
+
 4214
 02:20:09,439 --> 02:20:12,399
 ## vegans consume
+
 
 
 
@@ -46,9 +52,11 @@
 
 
 
+
 4216
 02:20:15,359 --> 02:20:17,120
 ## are not vegan companies
+
 
 
 
@@ -58,9 +66,11 @@
 
 
 
+
 4218
 02:20:20,560 --> 02:20:23,280
 ## from impossible like just because you
+
 
 
 
@@ -70,9 +80,11 @@
 
 
 
+
 4220
 02:20:24,319 --> 02:20:25,840
 ## it doesn't mean you condone them as a
+
 
 
 
@@ -82,9 +94,11 @@
 
 
 
+
 4222
 02:20:27,840 --> 02:20:30,960
 ## condoning every company you ever
+
 
 
 
@@ -94,9 +108,11 @@
 
 
 
+
 4224
 02:20:33,600 --> 02:20:35,280
 ## just condoning that product
+
 
 
 
@@ -106,9 +122,11 @@
 
 
 
+
 4226
 02:20:38,800 --> 02:20:40,080
 ## and then to people that take that
+
 
 
 
@@ -118,9 +136,11 @@
 
 
 
+
 4228
 02:20:41,359 --> 02:20:42,640
 ## position that by buying the product
+
 
 
 
@@ -130,9 +150,11 @@
 
 
 
+
 4230
 02:20:43,200 --> 02:20:46,560
 ## in the company um and um and it's like
+
 
 
 
@@ -142,9 +164,11 @@
 
 
 
+
 4232
 02:20:47,760 --> 02:20:51,120
 ## practically impossible uh to do that but
+
 
 
 
@@ -154,9 +178,11 @@
 
 
 
+
 4234
 02:20:53,120 --> 02:20:55,200
 ## it's not it's practically impossible but
+
 
 
 
@@ -166,9 +192,11 @@
 
 
 
+
 4236
 02:20:56,960 --> 02:20:58,399
 ## as saying it's practically impossible to
+
 
 
 
@@ -178,9 +206,11 @@
 
 
 
+
 4238
 02:20:59,359 --> 02:21:00,800
 ## but we're just doing the best we can and
+
 
 
 
@@ -190,9 +220,11 @@
 
 
 
+
 4240
 02:21:02,479 --> 02:21:03,760
 ## buy from companies that we know
+
 
 
 
@@ -202,9 +234,11 @@
 
 
 
+
 4242
 02:21:05,680 --> 02:21:07,280
 ## think that would be
+
 
 
 
@@ -214,9 +248,11 @@
 
 
 
+
 4244
 02:21:08,800 --> 02:21:10,479
 ## would suggest a different definition of
+
 
 
 
@@ -226,9 +262,11 @@
 
 
 
+
 4246
 02:21:11,439 --> 02:21:15,359
 ## veganism is literally defined by
+
 
 
 
@@ -238,9 +276,11 @@
 
 
 
+
 4248
 02:21:16,880 --> 02:21:20,240
 ## practically possible it's not practical
+
 
 
 
@@ -250,9 +290,11 @@
 
 
 
+
 4250
 02:21:22,240 --> 02:21:24,560
 ## it's being suggested in in all this
+
 
 
 
@@ -262,9 +304,11 @@
 
 
 
+
 4252
 02:21:25,280 --> 02:21:27,439
 ## it's just that's not practical we're not
+
 
 
 
@@ -274,9 +318,11 @@
 
 
 
+
 4254
 02:21:29,120 --> 02:21:29,439
 ## have
+
 
 
 
@@ -286,9 +332,11 @@
 
 
 
+
 4256
 02:21:31,840 --> 02:21:33,120
 ## vegan company and one
+
 
 
 
@@ -298,9 +346,11 @@
 
 
 
+
 4258
 02:21:34,880 --> 02:21:36,399
 ## other food options because you're on a
+
 
 
 
@@ -310,9 +360,11 @@
 
 
 
+
 4260
 02:21:37,359 --> 02:21:39,439
 ## uh you're on a deserted island or
+
 
 
 
@@ -322,9 +374,11 @@
 
 
 
+
 4262
 02:21:40,399 --> 02:21:43,280
 ## the scenario we're in here uh because in
+
 
 
 
@@ -334,9 +388,11 @@
 
 
 
+
 4264
 02:21:44,960 --> 02:21:45,680
 ## to do
+
 
 
 
@@ -346,9 +402,11 @@
 
 
 
+
 4266
 02:21:47,520 --> 02:21:49,120
 ## vegan company
+
 
 
 
@@ -358,9 +416,11 @@
 
 
 
+
 4268
 02:21:52,840 --> 02:21:54,080
 ## this
+
 
 
 
@@ -370,9 +430,11 @@
 
 
 
+
 4270
 02:21:56,240 --> 02:21:57,359
 ## chapter we've got
+
 
 
 
@@ -382,9 +444,11 @@
 
 
 
+
 4272
 02:21:59,760 --> 02:22:01,040
 ## we'll go to a q a
+
 
 
 
@@ -394,9 +458,11 @@
 
 
 
+
 4274
 02:22:02,880 --> 02:22:04,080
 ## left from the beginning but there were a
+
 
 
 
@@ -406,9 +472,11 @@
 
 
 
+
 4276
 02:22:05,600 --> 02:22:06,960
 ## i'm not prepared to go through the chat
+
 
 
 
@@ -418,9 +486,11 @@
 
 
 
+
 4278
 02:22:08,000 --> 02:22:10,000
 ## if you have questions uh you're gonna
+
 
 
 
@@ -430,9 +500,11 @@
 
 
 
+
 4280
 02:22:11,680 --> 02:22:12,479
 ## when we do a quick
+
 
 
 
@@ -442,9 +514,11 @@
 
 
 
+
 4282
 02:22:15,200 --> 02:22:16,479
 ## planning on asking questions keep it
+
 
 
 
@@ -454,9 +528,11 @@
 
 
 
+
 4284
 02:22:18,319 --> 02:22:20,560
 ## it's a waste of your time typing it if
+
 
 
 
@@ -466,9 +542,11 @@
 
 
 
+
 4286
 02:22:22,080 --> 02:22:24,640
 ## just keep that in mind um all right the
+
 
 
 
@@ -478,9 +556,11 @@
 
 
 
+
 4288
 02:22:26,240 --> 02:22:28,319
 ## the first one i want to talk about this
+
 
 
 
@@ -490,9 +570,11 @@
 
 
 
+
 4290
 02:22:29,600 --> 02:22:31,200
 ## earlier actually about the the people
+
 
 
 
@@ -502,9 +584,11 @@
 
 
 
+
 4292
 02:22:32,960 --> 02:22:34,319
 ## getting funded you know like they
+
 
 
 
@@ -514,9 +598,11 @@
 
 
 
+
 4294
 02:22:35,520 --> 02:22:38,000
 ## av fund or whatever and it links into an
+
 
 
 
@@ -526,9 +612,11 @@
 
 
 
+
 4296
 02:22:39,200 --> 02:22:42,960
 ## organizers in av getting somehow feeling
+
 
 
 
@@ -538,9 +626,11 @@
 
 
 
+
 4298
 02:22:43,439 --> 02:22:45,280
 ## haven't been supported or they feel like
+
 
 
 
@@ -550,9 +640,11 @@
 
 
 
+
 4300
 02:22:46,640 --> 02:22:47,840
 ## they feel like they've been actually had
+
 
 
 
@@ -562,9 +654,11 @@
 
 
 
+
 4302
 02:22:48,960 --> 02:22:50,720
 ## some ex-organizers go out there and
+
 
 
 
@@ -574,9 +668,11 @@
 
 
 
+
 4304
 02:22:52,000 --> 02:22:54,720
 ## um i don't know what you would say you
+
 
 
 
@@ -586,9 +682,11 @@
 
 
 
+
 4306
 02:22:56,000 --> 02:22:57,520
 ## treated badly by av
+
 
 
 
@@ -598,9 +696,11 @@
 
 
 
+
 4308
 02:23:00,479 --> 02:23:02,399
 ## were booted out or something
+
 
 
 
@@ -610,9 +710,11 @@
 
 
 
+
 4310
 02:23:04,080 --> 02:23:05,520
 ## general because every time i've pushed
+
 
 
 
@@ -622,9 +724,11 @@
 
 
 
+
 4312
 02:23:06,960 --> 02:23:09,280
 ## claims i've had i've had nothing right
+
 
 
 
@@ -634,9 +738,11 @@
 
 
 
+
 4314
 02:23:11,120 --> 02:23:12,000
 ## and you don't need to
+
 
 
 
@@ -646,9 +752,11 @@
 
 
 
+
 4316
 02:23:13,680 --> 02:23:14,960
 ## individual or something because they
+
 
 
 
@@ -658,9 +766,11 @@
 
 
 
+
 4318
 02:23:16,399 --> 02:23:18,399
 ## anything so i've got nothing to show you
+
 
 
 
@@ -670,9 +780,11 @@
 
 
 
+
 4320
 02:23:21,520 --> 02:23:22,880
 ## do you think this this is coming up from
+
 
 
 
@@ -682,9 +794,11 @@
 
 
 
+
 4322
 02:23:24,640 --> 02:23:26,640
 ## i wasn't supported or i was treated
+
 
 
 
@@ -694,9 +808,11 @@
 
 
 
+
 4324
 02:23:28,560 --> 02:23:30,000
 ## where where is that coming from do you
+
 
 
 
@@ -706,9 +822,11 @@
 
 
 
+
 4326
 02:23:31,520 --> 02:23:34,479
 ## what are your thoughts on it
+
 
 
 
@@ -718,9 +836,11 @@
 
 
 
+
 4328
 02:23:38,160 --> 02:23:41,760
 ## we um
+
 
 
 
@@ -730,9 +850,11 @@
 
 
 
+
 4330
 02:23:44,560 --> 02:23:47,040
 ## every organizer equally
+
 
 
 
@@ -742,9 +864,11 @@
 
 
 
+
 4332
 02:23:49,120 --> 02:23:50,960
 ## things and procedures and
+
 
 
 
@@ -754,9 +878,11 @@
 
 
 
+
 4334
 02:23:54,080 --> 02:23:57,680
 ## from us um to the regional organizers we
+
 
 
 
@@ -766,9 +892,11 @@
 
 
 
+
 4336
 02:23:58,800 --> 02:24:01,439
 ## that manages the regional organizers and
+
 
 
 
@@ -778,9 +906,11 @@
 
 
 
+
 4338
 02:24:02,399 --> 02:24:04,399
 ## so all of the organizers have the
+
 
 
 
@@ -790,9 +920,11 @@
 
 
 
+
 4340
 02:24:05,840 --> 02:24:08,720
 ## us personally in their chat at any
+
 
 
 
@@ -802,9 +934,11 @@
 
 
 
+
 4342
 02:24:10,800 --> 02:24:13,120
 ## advice if they need any kind of help
+
 
 
 
@@ -814,9 +948,11 @@
 
 
 
+
 4344
 02:24:16,160 --> 02:24:18,800
 ## we provide support where we can so to
+
 
 
 
@@ -826,9 +962,11 @@
 
 
 
+
 4346
 02:24:21,680 --> 02:24:24,160
 ## um like they were not supported or they
+
 
 
 
@@ -838,9 +976,11 @@
 
 
 
+
 4348
 02:24:26,080 --> 02:24:28,880
 ## yeah we need to see the evidence because
+
 
 
 
@@ -850,9 +990,11 @@
 
 
 
+
 4350
 02:24:30,720 --> 02:24:32,080
 ## but where is it coming from
+
 
 
 
@@ -862,9 +1004,11 @@
 
 
 
+
 4352
 02:24:33,760 --> 02:24:35,120
 ## okay i'm going to leave av
+
 
 
 
@@ -874,9 +1018,11 @@
 
 
 
+
 4354
 02:24:37,680 --> 02:24:40,000
 ## racist and this and that and so
+
 
 
 
@@ -886,9 +1032,11 @@
 
 
 
+
 4356
 02:24:41,520 --> 02:24:44,800
 ## bandwagon and say abe treated me badly
+
 
 
 
@@ -898,9 +1046,11 @@
 
 
 
+
 4358
 02:24:46,479 --> 02:24:48,319
 ## there's no evidence
+
 
 
 
@@ -910,9 +1060,11 @@
 
 
 
+
 4360
 02:24:52,000 --> 02:24:55,120
 ## i don't think it's much of a help to
+
 
 
 
@@ -922,15 +1074,18 @@
 
 
 
+
 4362
 02:24:57,520 --> 02:24:58,880
 ## this any further than that because
 
 
 
+
 4363
 02:24:58,880 --> 02:25:00,720
 ## there's no specific
+
 
 
 

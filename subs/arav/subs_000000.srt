@@ -10,9 +10,11 @@
 
 
 
+
 2
 00:00:14,920 --> 00:00:17,359
 ## live welcome all
+
 
 
 
@@ -22,9 +24,11 @@
 
 
 
+
 4
 00:00:20,000 --> 00:00:21,680
 ## stream where we're going to be joined by
+
 
 
 
@@ -34,9 +38,11 @@
 
 
 
+
 6
 00:00:23,279 --> 00:00:23,920
 ## voiceless
+
 
 
 
@@ -46,9 +52,11 @@
 
 
 
+
 8
 00:00:26,400 --> 00:00:27,199
 ## accusations
+
 
 
 
@@ -58,9 +66,11 @@
 
 
 
+
 10
 00:00:28,640 --> 00:00:29,920
 ## funny but now some of them are very
+
 
 
 
@@ -70,9 +80,11 @@
 
 
 
+
 12
 00:00:32,000 --> 00:00:33,280
 ## a whole load of questions that you've
+
 
 
 
@@ -82,9 +94,11 @@
 
 
 
+
 14
 00:00:35,040 --> 00:00:37,360
 ## that you want to ask paula nassal the
+
 
 
 
@@ -94,9 +108,11 @@
 
 
 
+
 16
 00:00:38,559 --> 00:00:39,840
 ## voiceless we're going to go through all
+
 
 
 
@@ -106,9 +122,11 @@
 
 
 
+
 18
 00:00:41,360 --> 00:00:42,719
 ## want to do a bit of housekeeping with
+
 
 
 
@@ -118,9 +136,11 @@
 
 
 
+
 20
 00:00:43,360 --> 00:00:45,440
 ## if you are watching this later as in
+
 
 
 
@@ -130,9 +150,11 @@
 
 
 
+
 22
 00:00:46,879 --> 00:00:48,399
 ## if you check across the bottom the
+
 
 
 
@@ -142,9 +164,11 @@
 
 
 
+
 24
 00:00:49,920 --> 00:00:51,520
 ## split up into sections
+
 
 
 
@@ -154,9 +178,11 @@
 
 
 
+
 26
 00:00:53,120 --> 00:00:54,719
 ## question rumor accusation or whatever
+
 
 
 
@@ -166,9 +192,11 @@
 
 
 
+
 28
 00:00:55,680 --> 00:00:58,000
 ## you can find it right there if you have
+
 
 
 
@@ -178,9 +206,11 @@
 
 
 
+
 30
 00:00:59,039 --> 00:01:00,879
 ## right now and you are watching this live
+
 
 
 
@@ -190,9 +220,11 @@
 
 
 
+
 32
 00:01:02,239 --> 00:01:04,959
 ## uh we're gonna do a q a at the end so
+
 
 
 
@@ -202,9 +234,11 @@
 
 
 
+
 34
 00:01:06,080 --> 00:01:08,240
 ## but if you have a topic or a question
+
 
 
 
@@ -214,9 +248,11 @@
 
 
 
+
 36
 00:01:10,080 --> 00:01:12,640
 ## right now or or sooner you can use the
+
 
 
 
@@ -226,9 +262,11 @@
 
 
 
+
 38
 00:01:14,640 --> 00:01:16,560
 ## i will pause and we'll answer your
+
 
 
 
@@ -238,9 +276,11 @@
 
 
 
+
 40
 00:01:18,320 --> 00:01:19,680
 ## but there is a caveat there is a
+
 
 
 
@@ -250,9 +290,11 @@
 
 
 
+
 42
 00:01:22,080 --> 00:01:25,200
 ## trolling or abusing anyone in any way
+
 
 
 
@@ -262,9 +304,11 @@
 
 
 
+
 44
 00:01:27,439 --> 00:01:29,600
 ## you pay for a super chat and it's a spam
+
 
 
 
@@ -274,9 +318,11 @@
 
 
 
+
 46
 00:01:30,640 --> 00:01:32,320
 ## it won't be discussed so you'll be
+
 
 
 
@@ -286,9 +332,11 @@
 
 
 
+
 48
 00:01:33,680 --> 00:01:34,720
 ## that very clear for you
+
 
 
 
@@ -298,9 +346,11 @@
 
 
 
+
 50
 00:01:36,560 --> 00:01:38,159
 ## it goes for the q a at the end
+
 
 
 
@@ -310,9 +360,11 @@
 
 
 
+
 52
 00:01:40,320 --> 00:01:42,079
 ## trolling or any abuse so the moderator
+
 
 
 
@@ -322,9 +374,11 @@
 
 
 
+
 54
 00:01:43,360 --> 00:01:44,880
 ## i hope it doesn't come to that but i
+
 
 
 
@@ -334,9 +388,11 @@
 
 
 
+
 56
 00:01:45,920 --> 00:01:47,040
 ## going to discuss are a little bit
+
 
 
 
@@ -346,9 +402,11 @@
 
 
 
+
 58
 00:01:48,240 --> 00:01:49,759
 ## i expect that there will be at least one
+
 
 
 
@@ -358,9 +416,11 @@
 
 
 
+
 60
 00:01:51,360 --> 00:01:54,720
 ## um so all that being said yeah just keep
+
 
 
 
@@ -370,9 +430,11 @@
 
 
 
+
 62
 00:01:56,399 --> 00:01:59,840
 ## and we'll have a a productive
+
 
 
 
@@ -382,9 +444,11 @@
 
 
 
+
 64
 00:02:02,719 --> 00:02:04,560
 ## with that being said let's bring in
+
 
 
 
@@ -394,9 +458,11 @@
 
 
 
+
 66
 00:02:09,758 --> 00:02:13,280
 ## hey what's up how you doing
+
 
 
 
@@ -406,9 +472,11 @@
 
 
 
+
 68
 00:02:16,480 --> 00:02:18,560
 ## all good i'm excited to get through this
+
 
 
 
@@ -418,9 +486,11 @@
 
 
 
+
 70
 00:02:20,000 --> 00:02:21,760
 ## in the comments have been pretty pumped
+
 
 
 
@@ -430,9 +500,11 @@
 
 
 
+
 72
 00:02:23,280 --> 00:02:25,840
 ## you know get through this um i know for
+
 
 
 
@@ -442,9 +514,11 @@
 
 
 
+
 74
 00:02:27,280 --> 00:02:28,560
 ## repeating yourself
+
 
 
 
@@ -454,9 +528,11 @@
 
 
 
+
 76
 00:02:29,840 --> 00:02:31,680
 ## years i think i think we've been through
+
 
 
 
@@ -466,9 +542,11 @@
 
 
 
+
 78
 00:02:33,120 --> 00:02:35,200
 ## your own channels and in your own um
+
 
 
 
@@ -478,9 +556,11 @@
 
 
 
+
 80
 00:02:36,959 --> 00:02:38,560
 ## at least a few people here that have
+
 
 
 
@@ -490,9 +570,11 @@
 
 
 
+
 82
 00:02:40,560 --> 00:02:41,920
 ## already and a lot of people have been
+
 
 
 
@@ -502,9 +584,11 @@
 
 
 
+
 84
 00:02:44,080 --> 00:02:45,680
 ## we can do this and you know hopefully
+
 
 
 
@@ -514,9 +598,11 @@
 
 
 
+
 86
 00:02:47,519 --> 00:02:48,959
 ## discussed in one place so i really
+
 
 
 
@@ -526,9 +612,11 @@
 
 
 
+
 88
 00:02:50,319 --> 00:02:50,959
 ## i know
+
 
 
 
@@ -538,9 +626,11 @@
 
 
 
+
 90
 00:02:54,720 --> 00:02:56,480
 ## so we can kick off i suppose let's just
+
 
 
 
@@ -550,9 +640,11 @@
 
 
 
+
 92
 00:02:57,920 --> 00:03:00,480
 ## waste any time we're here for a reason
+
 
 
 
@@ -562,9 +654,11 @@
 
 
 
+
 94
 00:03:02,239 --> 00:03:04,159
 ## the most recent stuff that's been going
+
 
 
 
@@ -574,9 +668,11 @@
 
 
 
+
 96
 00:03:04,480 --> 00:03:07,920
 ## right now i think most people watching
+
 
 
 
@@ -586,9 +682,11 @@
 
 
 
+
 98
 00:03:09,599 --> 00:03:10,959
 ## back of that i think i don't think we
+
 
 
 
@@ -598,9 +696,11 @@
 
 
 
+
 100
 00:03:12,400 --> 00:03:14,000
 ## is and who you are i think anybody
+
 
 
 
@@ -610,9 +710,11 @@
 
 
 
+
 102
 00:03:15,200 --> 00:03:15,840
 ## already
+
 
 
 
@@ -622,9 +724,11 @@
 
 
 
+
 104
 00:03:17,840 --> 00:03:18,879
 ## stuff and
+
 
 
 
@@ -634,9 +738,11 @@
 
 
 
+
 106
 00:03:22,000 --> 00:03:23,920
 ## the the whole situation with joey the
+
 
 
 
@@ -646,9 +752,11 @@
 
 
 
+
 108
 00:03:26,080 --> 00:03:29,840
 ## anita the donor um where are we up to
+
 
 
 
@@ -658,9 +766,11 @@
 
 
 
+
 110
 00:03:30,560 --> 00:03:32,000
 ## could you give us an update on that just
+
 
 
 
@@ -670,9 +780,11 @@
 
 
 
+
 112
 00:03:37,200 --> 00:03:40,480
 ## so we reached out to the donor to
+
 
 
 
@@ -682,9 +794,11 @@
 
 
 
+
 114
 00:03:45,440 --> 00:03:48,720
 ## um thing you know to
+
 
 
 
@@ -694,9 +808,11 @@
 
 
 
+
 116
 00:03:54,239 --> 00:03:57,439
 ## and they
+
 
 
 
@@ -706,9 +822,11 @@
 
 
 
+
 118
 00:04:01,040 --> 00:04:02,879
 ## on top of everything that was discussed
+
 
 
 
@@ -718,9 +836,11 @@
 
 
 
+
 120
 00:04:04,720 --> 00:04:05,040
 ## that
+
 
 
 
@@ -730,9 +850,11 @@
 
 
 
+
 122
 00:04:08,799 --> 00:04:11,519
 ## on top of that
+
 
 
 
@@ -742,9 +864,11 @@
 
 
 
+
 124
 00:04:14,239 --> 00:04:15,439
 ## course
+
 
 
 
@@ -754,9 +878,11 @@
 
 
 
+
 126
 00:04:17,358 --> 00:04:19,440
 ## communicate to the donor
+
 
 
 
@@ -766,9 +892,11 @@
 
 
 
+
 128
 00:04:20,880 --> 00:04:23,120
 ## trust at this point and we need to have
+
 
 
 
@@ -778,9 +906,11 @@
 
 
 
+
 130
 00:04:24,639 --> 00:04:26,560
 ## re-establish that trust and things like
+
 
 
 
@@ -790,9 +920,11 @@
 
 
 
+
 132
 00:04:29,120 --> 00:04:33,040
 ## since we've replied so that was over
+
 
 
 
@@ -802,9 +934,11 @@
 
 
 
+
 134
 00:04:36,240 --> 00:04:39,520
 ## and we haven't heard back what were the
+
 
 
 
@@ -814,9 +948,11 @@
 
 
 
+
 136
 00:04:40,320 --> 00:04:41,759
 ## requirements they were they were giving
+
 
 
 
@@ -826,9 +962,11 @@
 
 
 
+
 138
 00:04:45,440 --> 00:04:48,400
 ## one of them was for us to delete these
+
 
 
 
@@ -838,9 +976,11 @@
 
 
 
+
 140
 00:04:50,400 --> 00:04:53,680
 ## about joey and that that
+
 
 
 
@@ -850,15 +990,18 @@
 
 
 
+
 142
 00:04:55,360 --> 00:04:57,840
 ## really about
 
 
 
+
 143
 00:04:58,240 --> 00:05:01,039
 ## right right and what did they give her
+
 
 
 

@@ -11,32 +11,34 @@ PRJ     = arav
 YT_ID   = Lox6tAor5Xo
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
 TRN_TO_REV_RATIO = 6  #quanti translate completi per creare una revisione?
-# es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 4 una revisione è
-# di 20 minuti e ingloba 4 translate di 5 minuti ciascuno
+# es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 6 una revisione è
+# di 30 minuti e ingloba 6 translate di 5 minuti ciascuno
 
 # ------------------------------------------------
 # Target per editing user database
 # ------------------------------------------------
 edit-users-db:
-	emacs -nw data/users.csv
+	emacs -nw data/users.csv ~/src/rpkg/lbprivee/rawdata/av_yt_users.csv
 
 list-users:
 	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); db <- db[order(db[,1]), ]; rownames(db) <- NULL; print(db)' | less
 
 summon-revisors:
-	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\nRevisors: ", sprintf("@%s", revisors), "\n\n")'\
+	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\n", sprintf("@%s: ", revisors), "\n", sep = '')'\
 	| less
 
 # lista i traduttori per un determinato progetto (file subs_*_c.srt)
 list-translators:
-	av_yt_list_translators --prj ${PRJ}
+	${RSCRIPT} -e "lbav::list_translators(prj = '$(PRJ)')"
+	# av_yt_list_translators --prj ${PRJ}
 
 # ------------------------------------------------
 # Target per sottotitoli originali pre-translation
 # ------------------------------------------------
 
 split-source-subs:
-	av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
+	${RSCRIPT} -e "lbav::split_source(prj = '$(PRJ)', yt_id = '$(YT_ID)', chunks_len_mins = $(CHUNKS_LEN_MINS))"
+	# av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
 
 # ----------------------------------------------------------------------
 # Target per editare file di supporto, 
@@ -47,8 +49,14 @@ edit-sandbox:
 edit-translate:
 	rm -rf /tmp/translate && emacs -nw /tmp/translate
 
-edit-revise:
-	rm -rf /tmp/revise && emacs -nw /tmp/revise
+# revise 1 prende in input file tradotti di cui va rivista la traduzione
+edit-revise1:
+	rm -rf /tmp/revise1 && emacs -nw /tmp/revise1
+
+# revise2 prende in input file di traduzione rivista, ma da check
+# aspetti di leggibilità (vecchia revise)
+edit-revise2:
+	rm -rf /tmp/revise2 && emacs -nw /tmp/revise2
 
 edit-completed:
 	rm -rf /tmp/completed_files && 	emacs -nw /tmp/completed_files
@@ -60,7 +68,7 @@ assign:
 	av_yt_assign --prj $(PRJ) \
 	--sandbox_file /tmp/sandbox \
 	--translate_file /tmp/translate \
-	--revise_file /tmp/revise \
+	--revise_file /tmp/revise2 \
 	2>&1 | less
 
 mark-as-completed:
