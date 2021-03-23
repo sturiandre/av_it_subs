@@ -27,26 +27,18 @@ summon-revisors:
 	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\n", sprintf("@%s: ", revisors), "\n", sep = '')'\
 	| less
 
-# lista i traduttori per un determinato progetto (file subs_*_c.srt)
+# lista i traduttori per un determinato progetto
 list-translators:
 	${RSCRIPT} -e "lbav::list_translators(prj = '$(PRJ)')"
-	# av_yt_list_translators --prj ${PRJ}
 
 # ------------------------------------------------
 # Setup del progetto
 # ------------------------------------------------
 
-setup-project: 
-	${RSCRIPT} -e "lbav::setup_project(prj = '$(PRJ)', yt_id = '$(YT_ID)', chunks_len_mins = $(CHUNKS_LEN_MINS))"
-
-# mette assieme split_source e setup_avanzamento
-
-# setup-avanzamento:
-# 	${RSCRIPT} -e "lbav::setup_avanzamento(prj = '$(PRJ)', trn_to_rev_ratio = $(TRN_TO_REV_RATIO))"
-
-# split-source-subs:
-# 	${RSCRIPT} -e "lbav::split_source(prj = '$(PRJ)', yt_id = '$(YT_ID)', chunks_len_mins = $(CHUNKS_LEN_MINS))"
-# 	# av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
+setup: 
+	${RSCRIPT} -e "lbav::setup_project(prj = '$(PRJ)', \
+	yt_id = '$(YT_ID)',\
+	 chunks_len_mins = $(CHUNKS_LEN_MINS))"
 
 # ----------------------------------------------------------------------
 # Target per editare file di supporto, 
