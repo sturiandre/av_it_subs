@@ -7,7 +7,7 @@ BROWSER = firefox
 SUBEDITOR = aegisub-3.2
 
 # Default project infos
-PRJ     = arav
+PRJ     = test
 YT_ID   = Lox6tAor5Xo
 CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
 TRN_TO_REV_RATIO = 6  #quanti translate completi per creare una revisione?
@@ -33,58 +33,111 @@ list-translators:
 	# av_yt_list_translators --prj ${PRJ}
 
 # ------------------------------------------------
-# Target per sottotitoli originali pre-translation
+# Setup del progetto
 # ------------------------------------------------
 
-split-source-subs:
-	${RSCRIPT} -e "lbav::split_source(prj = '$(PRJ)', yt_id = '$(YT_ID)', chunks_len_mins = $(CHUNKS_LEN_MINS))"
-	# av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
+setup-project: 
+	${RSCRIPT} -e "lbav::setup_project(prj = '$(PRJ)', yt_id = '$(YT_ID)', chunks_len_mins = $(CHUNKS_LEN_MINS))"
+
+# mette assieme split_source e setup_avanzamento
+
+# setup-avanzamento:
+# 	${RSCRIPT} -e "lbav::setup_avanzamento(prj = '$(PRJ)', trn_to_rev_ratio = $(TRN_TO_REV_RATIO))"
+
+# split-source-subs:
+# 	${RSCRIPT} -e "lbav::split_source(prj = '$(PRJ)', yt_id = '$(YT_ID)', chunks_len_mins = $(CHUNKS_LEN_MINS))"
+# 	# av_yt_split_source --prj ${PRJ} --yt_id ${YT_ID} --chunks_len_mins ${CHUNKS_LEN_MINS}
 
 # ----------------------------------------------------------------------
 # Target per editare file di supporto, 
 # ----------------------------------------------------------------------
-edit-sandbox:
-	rm -rf /tmp/sandbox && emacs -nw /tmp/sandbox
 
-edit-translate:
-	rm -rf /tmp/translate && emacs -nw /tmp/translate
+# file di supporto per markare gli avanzamenti: IN QUESTI VANNO SCRITTI I FILE
+# NELLA VERSIONE subs_000000.srt o revs_000000_000500.srt (che sono quelli
+# che si hanno dalla chat telegram
+edit-mark_trn_completed:
+	rm -rf    /tmp/mark_trn_completed && \
+	emacs -nw /tmp/mark_trn_completed
 
-# revise 1 prende in input file tradotti di cui va rivista la traduzione
-edit-revise1:
-	rm -rf /tmp/revise1 && emacs -nw /tmp/revise1
+edit-mark_rev1_started:
+	rm -rf    /tmp/mark_rev1_started && \
+	emacs -nw /tmp/mark_rev1_started
 
-# revise2 prende in input file di traduzione rivista, ma da check
-# aspetti di leggibilità (vecchia revise)
-edit-revise2:
-	rm -rf /tmp/revise2 && emacs -nw /tmp/revise2
+edit-mark_rev1_completed:
+	rm -rf    /tmp/mark_rev1_completed && \
+	emacs -nw /tmp/mark_rev1_completed
 
-edit-completed:
-	rm -rf /tmp/completed_files && 	emacs -nw /tmp/completed_files
+edit-mark_rev2_completed:
+	rm -rf    /tmp/mark_rev2_completed && \
+	emacs -nw /tmp/mark_rev2_completed
+
+edit-mark:
+	rm -rf /tmp/mark_* && \
+	emacs -nw \
+	/tmp/mark_trn_completed  \
+	/tmp/mark_rev1_started   \
+	/tmp/mark_rev1_completed \
+	/tmp/mark_rev2_completed 
+
+# file di supporto per le assegnazioni: IN QUESTI VENGONO SCRITTI I NOMI
+# DI UTENTI GITHUB
+# /tmp/assign_sandbox /tmp/assign_translate /tmp/assign_revise2
+
+edit-assign_sandbox:
+	rm -rf /tmp/assign_sandbox && emacs -nw /tmp/assign_sandbox
+
+edit-assign_rev_sandbox:
+	rm -rf /tmp/assign_rev_sandbox && emacs -nw /tmp/assign_rev_sandbox
+
+edit-assign_translate:
+	rm -rf /tmp/assign_translate && emacs -nw /tmp/assign_translate
+
+edit-assign_revise2:
+	rm -rf /tmp/assign_revise2 && emacs -nw /tmp/assign_revise2
+
+edit-assign:
+	rm -rf /tmp/assign_* && \
+	emacs -nw 	\
+	/tmp/assign_sandbox \
+	/tmp/assign_rev_sandbox \
+	/tmp/assign_translate \
+	/tmp/assign_revise2
 
 # --------------------------------------------
 # Target per assegnare e markare completamenti
 # --------------------------------------------
+# edit-completed:
+# 	rm -rf /tmp/completed_files && 	emacs -nw /tmp/completed_files
+# 
+# mark-as-completed:
+# 	av_yt_mark_as_completed --prj $(PRJ) \
+# 	--completed_files /tmp/completed_files \
+# 	--trn_to_rev_ratio ${TRN_TO_REV_RATIO} \
+# 	2>&1 | less
+
+# per markare un file come tradotto o rev completata (in seguito a
+# una comunicazione in chat telegram da parte di traduttori o revisori)
+# evolve il vecchio mark as completed
+mark_progresses:
+	${RSCRIPT} -e "lbav::mark_progresses(prj = '$(PRJ)' , )" 2>&1 | less
+
 assign:
 	av_yt_assign --prj $(PRJ) \
-	--sandbox_file /tmp/sandbox \
-	--translate_file /tmp/translate \
-	--revise_file /tmp/revise2 \
-	2>&1 | less
-
-mark-as-completed:
-	av_yt_mark_as_completed --prj $(PRJ) \
-	--completed_files /tmp/completed_files \
-	--trn_to_rev_ratio ${TRN_TO_REV_RATIO} \
+	--sandbox_file /tmp/assign_sandbox \
+	--translate_file /tmp/assign_translate \
+	--revise_file /tmp/assign_revise2 \
 	2>&1 | less
 
 # ------------
 # Misc & utils
 # ------------
 monitoring:
-	av_yt_monitoring --prj $(PRJ)
+	${RSCRIPT} -e "lbav::monitoring(prj = '$(PRJ)')"	
+	# av_yt_monitoring --prj $(PRJ)
 
 git-log-analysis:
-	av_yt_git_log_analysis --prj $(PRJ) 
+	${RSCRIPT} -e "lbav::git_log_analysis(prj = '$(PRJ)')"
+	# av_yt_git_log_analysis --prj $(PRJ) 
 
 # mplayer the video with subs
 view-with-source-subs:
@@ -119,7 +172,8 @@ download-subs:
 # ------------
 
 final-srt:
-	av_yt_make_final_srt --prj $(PRJ) 2>&1 | less
+	${RSCRIPT} -e "lbav::make_final_srt(prj = '$(PRJ)')" 2>&1 | less
+	# av_yt_make_final_srt --prj $(PRJ) 2>&1 | less
 
 final-srt-stats:
 	${RSCRIPT} -e "srt <- lbav::read_srt(f = 'subs/$(PRJ)/$(PRJ)_final.srt'); stats <- lbav::srt_stats(srt, yt_id = '$(YT_ID)'); openxlsx::write.xlsx(stats, file = '/tmp/$(PRJ)_stats.xlsx', asTable = TRUE)" &&\
