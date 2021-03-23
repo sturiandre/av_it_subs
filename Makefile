@@ -36,8 +36,8 @@ list-translators:
 # ------------------------------------------------
 
 setup: 
-	${RSCRIPT} -e "lbav::setup_project(prj = '$(PRJ)', \
-	yt_id = '$(YT_ID)',\
+	${RSCRIPT} -e \
+	"lbav::setup_project(prj = '$(PRJ)', yt_id = '$(YT_ID)', \
 	 chunks_len_mins = $(CHUNKS_LEN_MINS))"
 
 # ----------------------------------------------------------------------
