@@ -31,9 +31,9 @@ summon-revisors:
 list-translators:
 	${RSCRIPT} -e "lbav::list_translators(prj = '$(PRJ)')"
 
-# ------------------------------------------------
-# Setup del progetto
-# ------------------------------------------------
+# ---------------------------------------------------------------------------
+# Setup del progetto (splitting source e setup file monitoraggio avanzamento)
+# ---------------------------------------------------------------------------
 
 setup: 
 	${RSCRIPT} -e \
@@ -125,11 +125,9 @@ assign:
 # ------------
 monitoring:
 	${RSCRIPT} -e "lbav::monitoring(prj = '$(PRJ)')"	
-	# av_yt_monitoring --prj $(PRJ)
 
 git-log-analysis:
 	${RSCRIPT} -e "lbav::git_log_analysis(prj = '$(PRJ)')"
-	# av_yt_git_log_analysis --prj $(PRJ) 
 
 # mplayer the video with subs
 view-with-source-subs:
@@ -152,7 +150,6 @@ burn-revise-with-subs:
 download-video:
 	cd /tmp && \
 	youtube-dl -f 18 "https://www.youtube.com/watch?v=$(YT_ID)"
-	# youtube-dl -f 18 --all-subs --write-auto-sub  "https://www.youtube.com/watch?v=$(YT_ID)"
 
 download-subs:
 	cd /tmp && \
@@ -165,7 +162,6 @@ download-subs:
 
 final-srt:
 	${RSCRIPT} -e "lbav::make_final_srt(prj = '$(PRJ)')" 2>&1 | less
-	# av_yt_make_final_srt --prj $(PRJ) 2>&1 | less
 
 final-srt-stats:
 	${RSCRIPT} -e "srt <- lbav::read_srt(f = 'subs/$(PRJ)/$(PRJ)_final.srt'); stats <- lbav::srt_stats(srt, yt_id = '$(YT_ID)'); openxlsx::write.xlsx(stats, file = '/tmp/$(PRJ)_stats.xlsx', asTable = TRUE)" &&\
