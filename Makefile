@@ -40,9 +40,45 @@ setup:
 	"lbav::setup_project(prj = '$(PRJ)', yt_id = '$(YT_ID)', \
 	 chunks_len_mins = $(CHUNKS_LEN_MINS))"
 
+
 # ----------------------------------------------------------------------
-# Target per editare file di supporto, 
+# Assegnazioni
 # ----------------------------------------------------------------------
+
+# file di supporto per le assegnazioni: IN QUESTI VENGONO SCRITTI I NOMI
+# DI UTENTI GITHUB
+# /tmp/assign_sandbox /tmp/assign_translate /tmp/assign_revise2
+
+edit-assign_sandbox:
+	rm -rf /tmp/assign_sandbox && emacs -nw /tmp/assign_sandbox
+
+edit-assign_rev_sandbox:
+	rm -rf /tmp/assign_rev_sandbox && emacs -nw /tmp/assign_rev_sandbox
+
+edit-assign_translate:
+	rm -rf /tmp/assign_translate && emacs -nw /tmp/assign_translate
+
+edit-assign_revise2:
+	rm -rf /tmp/assign_revise2 && emacs -nw /tmp/assign_revise2
+
+edit-assign:
+	rm -rf /tmp/assign_* && \
+	emacs -nw 	\
+	/tmp/assign_sandbox \
+	/tmp/assign_rev_sandbox \
+	/tmp/assign_translate \
+	/tmp/assign_revise2
+
+assign:
+	av_yt_assign --prj $(PRJ) \
+	--sandbox_file /tmp/assign_sandbox \
+	--translate_file /tmp/assign_translate \
+	--revise_file /tmp/assign_revise2 \
+	2>&1 | less
+
+# --------------------------------------------
+# Target per assegnare e markare completamenti
+# --------------------------------------------
 
 # file di supporto per markare gli avanzamenti: IN QUESTI VANNO SCRITTI I FILE
 # NELLA VERSIONE subs_000000.srt o revs_000000_000500.srt (che sono quelli
@@ -71,33 +107,6 @@ edit-mark:
 	/tmp/mark_rev1_completed \
 	/tmp/mark_rev2_completed 
 
-# file di supporto per le assegnazioni: IN QUESTI VENGONO SCRITTI I NOMI
-# DI UTENTI GITHUB
-# /tmp/assign_sandbox /tmp/assign_translate /tmp/assign_revise2
-
-edit-assign_sandbox:
-	rm -rf /tmp/assign_sandbox && emacs -nw /tmp/assign_sandbox
-
-edit-assign_rev_sandbox:
-	rm -rf /tmp/assign_rev_sandbox && emacs -nw /tmp/assign_rev_sandbox
-
-edit-assign_translate:
-	rm -rf /tmp/assign_translate && emacs -nw /tmp/assign_translate
-
-edit-assign_revise2:
-	rm -rf /tmp/assign_revise2 && emacs -nw /tmp/assign_revise2
-
-edit-assign:
-	rm -rf /tmp/assign_* && \
-	emacs -nw 	\
-	/tmp/assign_sandbox \
-	/tmp/assign_rev_sandbox \
-	/tmp/assign_translate \
-	/tmp/assign_revise2
-
-# --------------------------------------------
-# Target per assegnare e markare completamenti
-# --------------------------------------------
 # edit-completed:
 # 	rm -rf /tmp/completed_files && 	emacs -nw /tmp/completed_files
 # 
@@ -107,18 +116,12 @@ edit-assign:
 # 	--trn_to_rev_ratio ${TRN_TO_REV_RATIO} \
 # 	2>&1 | less
 
+
 # per markare un file come tradotto o rev completata (in seguito a
 # una comunicazione in chat telegram da parte di traduttori o revisori)
 # evolve il vecchio mark as completed
 mark_progresses:
 	${RSCRIPT} -e "lbav::mark_progresses(prj = '$(PRJ)' , )" 2>&1 | less
-
-assign:
-	av_yt_assign --prj $(PRJ) \
-	--sandbox_file /tmp/assign_sandbox \
-	--translate_file /tmp/assign_translate \
-	--revise_file /tmp/assign_revise2 \
-	2>&1 | less
 
 # ------------
 # Misc & utils
