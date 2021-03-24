@@ -42,18 +42,33 @@ setup:
 
 
 # ----------------------------------------------------------------------
-# Assegnazioni
+# Sandbox
 # ----------------------------------------------------------------------
-
-# file di supporto per le assegnazioni: IN QUESTI VENGONO SCRITTI I NOMI
-# DI UTENTI GITHUB
-# /tmp/assign_sandbox /tmp/assign_translate /tmp/assign_revise2
+# file di supporto per i sandbox: in questi vengono scritti i
+# nomi di utenti github
 
 edit-assign_sandbox:
 	rm -rf /tmp/assign_sandbox && emacs -nw /tmp/assign_sandbox
 
 edit-assign_rev_sandbox:
 	rm -rf /tmp/assign_rev_sandbox && emacs -nw /tmp/assign_rev_sandbox
+
+edit-assign:
+	rm -rf /tmp/assign_sandbox /tmp/assign_rev_sandbox && \
+	emacs -nw 	\
+	/tmp/assign_sandbox \
+	/tmp/assign_rev_sandbox 
+
+sandbox:
+	${RSCRIPT} -e "lbav::sandbox(\
+	sandbox_f = '/tmp/assign_sandbox', \
+	rev_sandbox_f = '/tmp/assign_rev_sandbox')"
+
+# ----------------------------------------------------------------------
+# Assign
+# ----------------------------------------------------------------------
+# file di supporto per i sandbox: in questi vengono scritti i
+# nomi di utenti github
 
 edit-assign_translate:
 	rm -rf /tmp/assign_translate && emacs -nw /tmp/assign_translate
@@ -62,10 +77,8 @@ edit-assign_revise2:
 	rm -rf /tmp/assign_revise2 && emacs -nw /tmp/assign_revise2
 
 edit-assign:
-	rm -rf /tmp/assign_* && \
+	rm -rf /tmp/assign_translate /tmp/assign_revise2 && \
 	emacs -nw 	\
-	/tmp/assign_sandbox \
-	/tmp/assign_rev_sandbox \
 	/tmp/assign_translate \
 	/tmp/assign_revise2
 
@@ -75,6 +88,12 @@ assign:
 	--translate_file /tmp/assign_translate \
 	--revise_file /tmp/assign_revise2 \
 	2>&1 | less
+
+	${RSCRIPT} -e "lbav::assign(\
+	prj = '$(PRJ)', \
+	translate_f = '/tmp/assign_translate', \
+	revise2_f = '/tmp/assign_revise2')
+
 
 # --------------------------------------------
 # Target per assegnare e markare completamenti
