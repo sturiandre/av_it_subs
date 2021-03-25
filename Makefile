@@ -9,13 +9,15 @@ SUBEDITOR = aegisub-3.2
 # Default project infos
 PRJ     = test
 YT_ID   = Lox6tAor5Xo
-CHUNKS_LEN_MINS = 5   #lunghezza chunks di sottotitoli per splitting in minuti
-TRN_TO_REV_RATIO = 6  #quanti translate completi per creare una revisione?
+#lunghezza chunks di sottotitoli per splitting in minuti
+CHUNKS_LEN_MINS = 5
+#quanti translate completi per creare una revisione?
+TRN_TO_REV_RATIO = 6
 # es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 6 una revisione è
 # di 30 minuti e ingloba 6 translate di 5 minuti ciascuno
 
 # ------------------------------------------------
-# Target per editing user database
+# Utilities utentui
 # ------------------------------------------------
 edit-users-db:
 	emacs -nw data/users.csv ~/src/rpkg/lbprivee/rawdata/av_yt_users.csv
@@ -37,8 +39,7 @@ list-translators:
 
 setup: 
 	${RSCRIPT} -e \
-	"lbav::setup_project(prj = '$(PRJ)', yt_id = '$(YT_ID)', \
-	 chunks_len_mins = $(CHUNKS_LEN_MINS))"
+	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); prj$$setup(chunks_len_mins = $(CHUNKS_LEN_MINS))'
 
 
 # ----------------------------------------------------------------------
@@ -53,7 +54,7 @@ edit-assign_sandbox:
 edit-assign_rev_sandbox:
 	rm -rf /tmp/assign_rev_sandbox && emacs -nw /tmp/assign_rev_sandbox
 
-edit-assign:
+edit-sandbox:
 	rm -rf /tmp/assign_sandbox /tmp/assign_rev_sandbox && \
 	emacs -nw 	\
 	/tmp/assign_sandbox \
@@ -83,12 +84,10 @@ edit-assign:
 	/tmp/assign_revise2
 
 assign:
-	av_yt_assign --prj $(PRJ) \
-	--sandbox_file /tmp/assign_sandbox \
-	--translate_file /tmp/assign_translate \
-	--revise_file /tmp/assign_revise2 \
-	2>&1 | less
-
+	# av_yt_assign --prj $(PRJ) \
+	# --translate_file /tmp/assign_translate \
+	# --revise_file /tmp/assign_revise2 \
+	# 2>&1 | less
 	${RSCRIPT} -e "lbav::assign(\
 	prj = '$(PRJ)', \
 	translate_f = '/tmp/assign_translate', \
