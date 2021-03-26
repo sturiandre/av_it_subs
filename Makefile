@@ -39,7 +39,7 @@ list-translators:
 
 setup: 
 	${RSCRIPT} -e \
-	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); prj$$setup(chunks_len_mins = $(CHUNKS_LEN_MINS))'
+	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); prj$$setup(chunks_len_mins = $(CHUNKS_LEN_MINS), trn_to_rev_ratio = $(TRN_TO_REV_RATIO))'
 
 
 # ----------------------------------------------------------------------
