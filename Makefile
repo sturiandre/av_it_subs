@@ -17,21 +17,31 @@ TRN_TO_REV_RATIO = 6
 # di 30 minuti e ingloba 6 translate di 5 minuti ciascuno
 
 # ------------------------------------------------
-# Utilities utentui
+# Utilities database utenti
 # ------------------------------------------------
 edit-users-db:
 	emacs -nw data/users.csv ~/src/rpkg/lbprivee/rawdata/av_yt_users.csv
 
+# stampa il db
 list-users:
-	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); db <- db[order(db[,1]), ]; rownames(db) <- NULL; print(db)' | less
-
-summon-revisors:
-	${RSCRIPT} -e 'db <- read.csv("data/users.csv"); revisors <- db[db[,"revisor"], "gh_user"]; cat("\n\n", sprintf("@%s: ", revisors), "\n", sep = '')'\
+	${RSCRIPT} -e \
+	'usr <- lbav2::users$$new("data/users.csv"); usr$$print()' \
 	| less
 
-# lista i traduttori per un determinato progetto
-list-translators:
-	${RSCRIPT} -e "lbav::list_translators(prj = '$(PRJ)')"
+# lista revisori abilitati
+summon-revisors:
+	${RSCRIPT} -e \
+	'usr <- lbav2::users$$new("data/users.csv"); usr$$mention("revisor2")'\
+	| less
+
+# ------------------------------------------------
+# Utilities utenti di uno specifico progetto
+# ------------------------------------------------
+
+# lista persone assegnatarie di spezzoni per un determinato progetto
+list-assignee:
+	${RSCRIPT} -e \
+	'lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)")$$list_assignee()' | less
 
 # ---------------------------------------------------------------------------
 # Setup del progetto (splitting source e setup file monitoraggio avanzamento)
@@ -51,19 +61,18 @@ setup:
 edit-assign_sandbox:
 	rm -rf /tmp/assign_sandbox && emacs -nw /tmp/assign_sandbox
 
-edit-assign_rev_sandbox:
-	rm -rf /tmp/assign_rev_sandbox && emacs -nw /tmp/assign_rev_sandbox
+edit-assign_rev1_sandbox:
+	rm -rf /tmp/assign_rev1_sandbox && emacs -nw /tmp/assign_rev1_sandbox
 
 edit-sandbox:
-	rm -rf /tmp/assign_sandbox /tmp/assign_rev_sandbox && \
+	rm -rf /tmp/assign_sandbox /tmp/assign_rev1_sandbox && \
 	emacs -nw 	\
 	/tmp/assign_sandbox \
-	/tmp/assign_rev_sandbox 
+	/tmp/assign_rev1_sandbox 
 
 sandbox:
-	${RSCRIPT} -e "lbav::sandbox(\
-	sandbox_f = '/tmp/assign_sandbox', \
-	rev_sandbox_f = '/tmp/assign_rev_sandbox')"
+	${RSCRIPT} -e \
+	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); prj$$create_sandbox(sandbox_f = "/tmp/assign_sandbox", rev1_sandbox_f = "/tmp/assign_rev1_sandbox")'
 
 # ----------------------------------------------------------------------
 # Assign
