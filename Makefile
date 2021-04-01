@@ -72,7 +72,8 @@ edit-sandbox:
 
 sandbox:
 	${RSCRIPT} -e \
-	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); prj$$create_sandbox(sandbox_f = "/tmp/assign_sandbox", rev1_sandbox_f = "/tmp/assign_rev1_sandbox")'
+	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); \
+	prj$$create_sandbox(sandbox_f = "/tmp/assign_sandbox", rev1_sandbox_f = "/tmp/assign_rev1_sandbox")'
 
 # ----------------------------------------------------------------------
 # Assign
@@ -93,14 +94,8 @@ edit-assign:
 	/tmp/assign_revise2
 
 assign:
-	# av_yt_assign --prj $(PRJ) \
-	# --translate_file /tmp/assign_translate \
-	# --revise_file /tmp/assign_revise2 \
-	# 2>&1 | less
-	${RSCRIPT} -e "lbav::assign(\
-	prj = '$(PRJ)', \
-	translate_f = '/tmp/assign_translate', \
-	revise2_f = '/tmp/assign_revise2')
+	${RSCRIPT} -e \
+	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); prj$$assign(translate_f = "/tmp/assign_translate", revise2_f = "/tmp/assign_revise2")'
 
 
 # --------------------------------------------
