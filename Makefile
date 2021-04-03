@@ -149,7 +149,8 @@ mark_progresses:
 # Misc & utils
 # ------------
 monitoring:
-	${RSCRIPT} -e "lbav::monitoring(prj = '$(PRJ)')"	
+	${RSCRIPT} -e \
+	'lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)")$$monitoring()'
 
 git-log-analysis:
 	${RSCRIPT} -e "lbav::git_log_analysis(prj = '$(PRJ)')"
