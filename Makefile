@@ -18,7 +18,7 @@ TRN_TO_REV_RATIO = 6
 # es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 6 una revisione è
 # di 30 minuti e ingloba 6 translate di 5 minuti ciascuno
 
-test:
+tests:
 	$(EDITOR) misc/test.R
 
 # ------------------------------------------------
