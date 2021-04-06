@@ -5,6 +5,8 @@ R_HOME  = "$(shell R RHOME)"
 RSCRIPT = "$(R_HOME)/bin/Rscript"
 BROWSER = firefox
 SUBEDITOR = aegisub-3.2
+EDITOR = emacs -nw
+RM = rm -rf
 
 # Default project infos
 PRJ     = test
@@ -16,11 +18,14 @@ TRN_TO_REV_RATIO = 6
 # es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 6 una revisione è
 # di 30 minuti e ingloba 6 translate di 5 minuti ciascuno
 
+tests:
+	$(EDITOR) misc/test.R
+
 # ------------------------------------------------
 # Utilities database utenti
 # ------------------------------------------------
 edit-users-db:
-	emacs -nw data/users.csv ~/src/rpkg/lbprivee/rawdata/av_yt_users.csv
+	$(EDITOR) data/users.csv ~/src/rpkg/lbprivee/rawdata/av_yt_users.csv
 
 # stampa il db
 list-users:
@@ -59,14 +64,14 @@ setup:
 # nomi di utenti github
 
 edit-assign_sandbox:
-	rm -rf /tmp/assign_sandbox && emacs -nw /tmp/assign_sandbox
+	$(RM) /tmp/assign_sandbox && $(EDITOR) /tmp/assign_sandbox
 
 edit-assign_rev1_sandbox:
-	rm -rf /tmp/assign_rev1_sandbox && emacs -nw /tmp/assign_rev1_sandbox
+	$(RM) /tmp/assign_rev1_sandbox && $(EDITOR) /tmp/assign_rev1_sandbox
 
 edit-sandbox:
-	rm -rf /tmp/assign_sandbox /tmp/assign_rev1_sandbox && \
-	emacs -nw 	\
+	$(RM) /tmp/assign_sandbox /tmp/assign_rev1_sandbox && \
+	$(EDITOR) 	\
 	/tmp/assign_sandbox \
 	/tmp/assign_rev1_sandbox 
 
@@ -82,14 +87,14 @@ sandbox:
 # nomi di utenti github
 
 edit-assign_translate:
-	rm -rf /tmp/assign_translate && emacs -nw /tmp/assign_translate
+	$(RM) /tmp/assign_translate && $(EDITOR) /tmp/assign_translate
 
 edit-assign_revise2:
-	rm -rf /tmp/assign_revise2 && emacs -nw /tmp/assign_revise2
+	$(RM) /tmp/assign_revise2 && $(EDITOR) /tmp/assign_revise2
 
 edit-assign:
-	rm -rf /tmp/assign_translate /tmp/assign_revise2 && \
-	emacs -nw 	\
+	$(RM) /tmp/assign_translate /tmp/assign_revise2 && \
+	$(EDITOR) 	\
 	/tmp/assign_translate \
 	/tmp/assign_revise2
 
@@ -106,31 +111,31 @@ assign:
 # NELLA VERSIONE subs_000000.srt o revs_000000_000500.srt (che sono quelli
 # che si hanno dalla chat telegram
 edit-mark_trn_completed:
-	rm -rf    /tmp/mark_trn_completed && \
-	emacs -nw /tmp/mark_trn_completed
+	$(RM)    /tmp/mark_trn_completed && \
+	$(EDITOR) /tmp/mark_trn_completed
 
 edit-mark_rev1_started:
-	rm -rf    /tmp/mark_rev1_started && \
-	emacs -nw /tmp/mark_rev1_started
+	$(RM)    /tmp/mark_rev1_started && \
+	$(EDITOR) /tmp/mark_rev1_started
 
 edit-mark_rev1_completed:
-	rm -rf    /tmp/mark_rev1_completed && \
-	emacs -nw /tmp/mark_rev1_completed
+	$(RM)    /tmp/mark_rev1_completed && \
+	$(EDITOR) /tmp/mark_rev1_completed
 
 edit-mark_rev2_completed:
-	rm -rf    /tmp/mark_rev2_completed && \
-	emacs -nw /tmp/mark_rev2_completed
+	$(RM)    /tmp/mark_rev2_completed && \
+	$(EDITOR) /tmp/mark_rev2_completed
 
 edit-mark:
-	rm -rf /tmp/mark_* && \
-	emacs -nw \
+	$(RM) /tmp/mark_* && \
+	$(EDITOR) \
 	/tmp/mark_trn_completed  \
 	/tmp/mark_rev1_started   \
 	/tmp/mark_rev1_completed \
 	/tmp/mark_rev2_completed 
 
 # edit-completed:
-# 	rm -rf /tmp/completed_files && 	emacs -nw /tmp/completed_files
+# 	$(RM) /tmp/completed_files && $(EDITOR) /tmp/completed_files
 # 
 # mark-as-completed:
 # 	av_yt_mark_as_completed --prj $(PRJ) \
