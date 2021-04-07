@@ -9,8 +9,8 @@ EDITOR = emacs -nw
 RM = rm -rf
 
 # Default project infos
-PRJ     = test
-YT_ID   = Lox6tAor5Xo
+PRJ     = gymix
+YT_ID   = 3gLOVtbG6QI
 #lunghezza chunks di sottotitoli per splitting in minuti
 CHUNKS_LEN_MINS = 5
 #quanti translate completi per creare una revisione?
