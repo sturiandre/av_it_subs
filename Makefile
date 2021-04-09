@@ -10,7 +10,7 @@ RM = rm -rf
 
 # Default project infos
 PRJ     = gymix
-YT_ID   = 3gLOVtbG6QI
+YT_ID   = Xe1VLFVeyIg
 #lunghezza chunks di sottotitoli per splitting in minuti
 CHUNKS_LEN_MINS = 5
 #quanti translate completi per creare una revisione?
