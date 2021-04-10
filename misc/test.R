@@ -17,7 +17,6 @@ if (FALSE){
     lbav2::prj$new(id = prj_id, yt_id = prj_yt_id)$setup()
 }
 
-
 ## create_sandbox
 prj <- lbav2::prj$new(id = prj_id, yt_id = prj_yt_id)
 trn <- c(prj$users$translators(), prj$users$revisors2())

@@ -19,7 +19,7 @@ TRN_TO_REV_RATIO = 6
 # di 30 minuti e ingloba 6 translate di 5 minuti ciascuno
 
 tests:
-	$(EDITOR) misc/test.R
+	$(EDITOR) Makefile misc/test.R
 
 # ------------------------------------------------
 # Utilities database utenti
