@@ -3,13 +3,16 @@
 # Ambiente
 R_HOME  = "$(shell R RHOME)"
 RSCRIPT = "$(R_HOME)/bin/Rscript"
+R       = "${R_HOME}/bin/R --no-save --no-restore --quiet"
+
 BROWSER = firefox
 SUBEDITOR = aegisub-3.2
 EDITOR = emacs -nw
 RM = rm -rf
 
 # Default project infos
-PRJ     = gymix
+PRJ     = test
+# PRJ     = gymix
 YT_ID   = lw53nODhRXU
 #lunghezza chunks di sottotitoli per splitting in minuti
 CHUNKS_LEN_MINS = 5
@@ -77,8 +80,7 @@ edit-sandbox:
 
 sandbox:
 	${RSCRIPT} -e \
-	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); \
-	prj$$create_sandbox(sandbox_f = "/tmp/assign_sandbox", rev1_sandbox_f = "/tmp/assign_rev1_sandbox")'
+	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); prj$$create_sandbox(sandbox_f = "/tmp/assign_sandbox", rev1_sandbox_f = "/tmp/assign_rev1_sandbox")'
 
 # ----------------------------------------------------------------------
 # Assign
@@ -134,21 +136,15 @@ edit-mark:
 	/tmp/mark_rev1_completed \
 	/tmp/mark_rev2_completed 
 
-# edit-completed:
-# 	$(RM) /tmp/completed_files && $(EDITOR) /tmp/completed_files
-# 
-# mark-as-completed:
-# 	av_yt_mark_as_completed --prj $(PRJ) \
-# 	--completed_files /tmp/completed_files \
-# 	--trn_to_rev_ratio ${TRN_TO_REV_RATIO} \
-# 	2>&1 | less
-
-
 # per markare un file come tradotto o rev completata (in seguito a
 # una comunicazione in chat telegram da parte di traduttori o revisori)
 # evolve il vecchio mark as completed
 mark_progresses:
-	${RSCRIPT} -e "lbav::mark_progresses(prj = '$(PRJ)' , )" 2>&1 | less
+	${R} < \
+	'prj <- lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)"); prj$$mark_progresses(trn_completed_f = "/tmp/mark_trn_completed", rev1_started_f = "/tmp/mark_rev1_started", rev1_completed_f = "/tmp/mark_rev1_completed",rev2_completed_f = "/tmp/mark_rev2_completed")' 
+	# ${RSCRIPT} -e \
+
+
 
 # ------------
 # Misc & utils
@@ -158,7 +154,8 @@ monitoring:
 	'lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)")$$monitoring()'
 
 git-log-analysis:
-	${RSCRIPT} -e "lbav::git_log_analysis(prj = '$(PRJ)')"
+	${RSCRIPT} -e \
+	'lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)")$$git_log_analysis()'
 
 # mplayer the video with subs
 view-with-source-subs:
@@ -192,11 +189,12 @@ download-subs:
 # ------------
 
 final-srt:
-	${RSCRIPT} -e "lbav::make_final_srt(prj = '$(PRJ)')" 2>&1 | less
+	${RSCRIPT} -e \
+	'lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)")$$make_final_srt()'	2>&1 | less
 
 final-srt-stats:
-	${RSCRIPT} -e "srt <- lbav::read_srt(f = 'subs/$(PRJ)/$(PRJ)_final.srt'); stats <- lbav::srt_stats(srt, yt_id = '$(YT_ID)'); openxlsx::write.xlsx(stats, file = '/tmp/$(PRJ)_stats.xlsx', asTable = TRUE)" &&\
-	libreoffice /tmp/$(PRJ)_stats.xlsx &
+	${RSCRIPT} -e \
+	'lbav2::prj$$new(id = "$(PRJ)", yt_id = "$(YT_ID)")$$final_srt_stats()'
 
 view-with-final-subs:
 	mplayer --sub-file=subs/$(PRJ)/$(PRJ)_final.srt video/$(PRJ).mp4 

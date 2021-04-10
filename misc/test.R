@@ -74,7 +74,6 @@ write_lines(rev1_completed,  f = rev1_completed_f)
 prj$mark_progresses(rev1_completed_f = rev1_completed_f) 
 prj$monitoring()
 
-
 ## assign revision2
 prj <- lbav2::prj$new(id = prj_id, yt_id = prj_yt_id)
 write_lines("pmav83", f = revise2_f)
@@ -93,3 +92,9 @@ write_lines(rev2_completed,  f = rev2_completed_f)
 # undebug(prj$mark_progresses)
 prj$mark_progresses(rev2_completed_f = rev2_completed_f) 
 prj$monitoring()
+
+
+## ## git log analysis
+## prj$git_log_analysis()
+
+
