@@ -1,4 +1,4 @@
-.DEFAULT_GOAL = help
+.DEFAULT_GOAL = interactive
 
 # Ambiente
 R_HOME  = "$(shell R RHOME)"
@@ -13,7 +13,7 @@ RM = rm -rf
 # Default project infos
 PRJ     = test
 # PRJ     = gymix
-YT_ID   = lw53nODhRXU
+# YT_ID   = lw53nODhRXU
 #lunghezza chunks di sottotitoli per splitting in minuti
 CHUNKS_LEN_MINS = 5
 #quanti translate completi per creare una revisione?
@@ -21,8 +21,11 @@ TRN_TO_REV_RATIO = 6
 # es con il setup CHUNKS_LEN_MINS = 5 e TRN_TO_REV_RATIO = 6 una revisione è
 # di 30 minuti e ingloba 6 translate di 5 minuti ciascuno
 
-tests:
-	$(EDITOR) Makefile misc/test.R
+interactive:
+	$(EDITOR) misc/${PRJ}.R
+
+# tests:
+# 	$(EDITOR) Makefile misc/test.R
 
 # ------------------------------------------------
 # Utilities database utenti
