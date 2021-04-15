@@ -1,6 +1,3 @@
-## setup
-library(lbav2)
-prj_id    <- 'test'
-prj_yt_id <- 'Lox6tAor5Xo'
-prj <- lbav2::prj$new(id = prj_id, yt_id = prj_yt_id)
+devtools::load_all("~/src/rpkg/lbav2")
+prj <- lbav2::prj$new(id = 'test', yt_id = 'Lox6tAor5Xo')
 prj$menu()
