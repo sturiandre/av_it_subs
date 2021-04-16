@@ -22,10 +22,10 @@ TRN_TO_REV_RATIO = 6
 # di 30 minuti e ingloba 6 translate di 5 minuti ciascuno
 
 interactive:
-	$(EDITOR) misc/${PRJ}.R
+	$(EDITOR) projects/${PRJ}.R
 
 # tests:
-# 	$(EDITOR) Makefile misc/test.R
+# 	$(EDITOR) Makefile projects/test.R
 
 # ------------------------------------------------
 # Utilities database utenti
