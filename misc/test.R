@@ -3,4 +3,3 @@ prj <- lbav2::prj$new(id = 'test', yt_id = 'Lox6tAor5Xo')
 prj$menu()
 
 
-debug(prj$mark_progresses)
