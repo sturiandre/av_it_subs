@@ -37,7 +37,7 @@ occorre:
     successivo, alternativamente si può chiedere
 	
 	```
-	@lucailgarb #rev-sandbox
+	@lucailgarb #rev1-sandbox
 	```
 	per la predisposizione di un altro file di prova.
 
