@@ -75,13 +75,14 @@ traduttori. Per effettuare materialmente la revisione linguistica:
 	  testo tradotto
 	  ## Commento per i traduttori
 	  ## commento per i traduttori
+
   
 	  4
 	  ...
 	  ```
 	  
 	  Da notare che il commento va dopo *2 cancelletti*, come *ultima linea*
-	  e assicurandosi che dopo vi sia sempre una **linea vuota di
+	  e assicurandosi che dopo vi sia sempre **almeno una linea vuota di
 	  separazione**.
 	  
 	  Dopodichè comunica al traduttore (via Telegram) la necessità di
