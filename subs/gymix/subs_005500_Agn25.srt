@@ -7,42 +7,42 @@
 441
 00:55:18,800 --> 00:55:19,840
 ## hello
-
+ciao
 
 
 
 442
 00:55:27,440 --> 00:55:33,840
 ## oh
-
+oh
 
 
 
 443
 00:56:00,480 --> 00:56:01,840
 ## hey
-
+hey
 
 
 
 444
 00:56:36,080 --> 00:56:43,840
 ## um
-
+um
 
 
 
 445
 00:57:00,800 --> 00:57:11,840
 ## so
-
+dunque
 
 
 
 446
 00:57:50,400 --> 00:57:53,840
 ## john never down
-
+John mai stare sotto
 
 
 
@@ -50,7 +50,8 @@
 00:58:49,360 --> 00:58:52,240
 ## there was nothing wrong with killing 
 ## animals and eating meat was okay  
-
+Non c'era nulla di sbagliato nell'uccidere
+gli animali e mangiare la carne andava bene. 
 
 
 
@@ -58,15 +59,17 @@
 00:58:54,000 --> 00:58:58,080
 ## how come mcdonald's and burger king and 
 ## wendy's never show those images in their tv ads
-
+Come mai McDonald's e Burger King e 
+Wendy's non fanno mai vedere queste immagini nelle loro pubblicità in tv?
 
 
 
 449
 00:59:00,960 --> 00:59:05,760
-## are we showing you a happy singing 
+## But we're showing you a happy singing 
 ## smiling cartoon caricature instead
-
+Ma vi facciamo vedere una bella caricatura animata
+che cante e sorride piuttosto!
 
 
 
@@ -74,7 +77,8 @@
 00:59:08,880 --> 00:59:13,200
 ## people are up in arms right now about all the 
 ## beheadings taking place in the middle east
-
+Tutti sul piede di guerra adesso per le
+decapitazioni che stanno avvenendo in Medio Oriente.
 
 
 
@@ -82,14 +86,15 @@
 00:59:16,240 --> 00:59:22,160
 ## meanwhile 30 million innocent animals 
 ## every day in america are beheaded  
-
+Nel frattempo, 30 milioni di animali innocenti
+vengono decapitati ogni giorni in America.
 
 
 
 452
 00:59:23,760 --> 00:59:25,440
 ## and no one says a damn thing about it  
-
+E nessuno che dica nulla in merito!
 
 
 
@@ -97,14 +102,15 @@
 00:59:27,440 --> 00:59:33,840
 ## so i'm a little confused is beheading evil or 
 ## does it matter who's getting their heads cut off
-
+Quindi, sono un po' confuso: decapitare è una cattiveria
+o dipente da chi viene decapitato?
 
 
 
 454
 00:59:37,840 --> 00:59:40,480
 ## i will forever be embarrassed to be a human being  
-
+Mi vergognerò per sempre di essere un umano. 
 
 
 
@@ -112,7 +118,8 @@
 00:59:41,760 --> 00:59:48,480
 ## to stand upright like that's something 
 ## to be proud of you got to be kidding me  
-
+Di stare in posizione eretta, come se fosse 
+un orgoglio. É uno scherzo...
 
 
 
@@ -120,7 +127,8 @@
 00:59:51,200 --> 00:59:57,440
 ## a retired marine in north carolina once 
 ## heard me lecture at east carolina university  
-
+Un marine in pensione in North Carolina, una volta 
+mi sentì tenere una conferenza all'East Carolina University.
 
 
 
@@ -128,7 +136,8 @@
 00:59:58,320 --> 01:00:03,680
 ## and he said gary i believe everything 
 ## you said got no arguments for you at all  
-
+E mi disse: "Gary, io credo in tutto quello 
+che hai detto, senza discurete, assolutamente!"
 
 
 
