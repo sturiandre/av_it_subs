@@ -42,8 +42,7 @@ come un amante degli animali, questo potrebbe shoccarvi ma io
 ## for their plate but you cannot refer to me as  
 non amo gli animali, ho la massima empatia
 per loro, ma non potete riferirvi a me come
-## Qui gary dice "their plate" ma non riesco a inserirlo nel
-## contesto, ho preferito lasciare "per loro"
+
 
 
 611
@@ -75,9 +74,8 @@ channel". Mostrare le abitudini di accoppiamento
 ## blue-footed boobie does not make the world a nice 
 ## eclipse only veganism can do that which is why i  
 del babbuino dai piedi blu non rende il mondo un
-posto miglioreranno, solo il veganismo può farlo, ed è per questo
-## qui la traduzione automatica scrive "a nice eclipse"
-## ma secondo me gary nice "a nicer place")
+posto migliore, solo il veganismo può farlo, ed è per questo
+
 
 
 615
@@ -109,8 +107,8 @@ consumando alimenti che un tempo andavano in bagno,
 ## that once defecated and urinated you might want 
 ## to change your diet repeat its veggie starter kit  
 che un tempo defecavano o urinavano, probabilmente dovreste
-cambiare la vostra dieta e ripetere il suo [veggie starter kit]*
-## *qui non capisco cosa intenda Gary
+cambiare la vostra dieta e ripetere il vostro "tutorial" da umani
+
 
 
 619
@@ -142,7 +140,7 @@ che le persone indossino la pelliccia, ma le stesse persone
 ## don't find it morally reprehensible for people 
 ## to wear leather but besides size shape and color  
 non trovano moralmente riprovevole che le persone
-indossino la pelle; ma al dilà della taglia, forma e colore
+indossino la pelle; ma aldilà della taglia, forma e colore
 
 
 623
@@ -269,7 +267,7 @@ ha detto questo sullo specismo: "Fino a quando gli umani
 ## continue to be the ruthless destroyer of other 
 ## beings we will never know health or peace for  
 continueranno ad essere degli spietati sterminatori di altri
-esseri, non conosceremo mai la salute o la pace. Finchè
+esseri, non conosceremo mai la salute o la pace. Finché
 
 
 639
