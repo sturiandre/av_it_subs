@@ -74,14 +74,14 @@ Questo
 01:19:20,560 --> 01:19:21,840
 ## foreign
 
-*nessun audio da tradurre qui*
+
 
 
 601
 01:19:33,040 --> 01:19:39,520
 ## german philosopher arthur schopenhauer once said 
 ## that all truth passes through three stages first  
-Il filoso tedesco Arthur Schopenhauer, diceva 
+Il filosofo tedesco Arthur Schopenhauer, diceva 
 che ogni verità attraversa tre fasi: nella prima
 
 
