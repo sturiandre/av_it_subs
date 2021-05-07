@@ -227,7 +227,7 @@ violenza, a chi ti ha detto che gli animali dovrebbero
 01:27:18,960 --> 01:27:23,840
 ## be your food your clothing your entertainment and 
 ## your research specimens who lied to you who took 
-essere il tuo cibo, i tuoi vestiti il tuo intrattenimento e 
+essere il tuo cibo, i tuoi vestiti, il tuo intrattenimento e 
 cavie da laboratorio, a chi ti ha mentito, a chi ha preso 
 
 
