@@ -7,21 +7,21 @@
 1138
 02:25:36,720 --> 02:25:37,840
 ## uh
-
+uh
 
 
 
 1139
 02:25:41,760 --> 02:25:51,840
 ## um
-
+um
 
 
 
 1140
 02:25:54,640 --> 02:26:05,840
 ## so
-
+allora
 
 
 
@@ -29,28 +29,28 @@
 02:26:37,600 --> 02:26:47,840
 ## thank you
 
-
+grazie
 
 
 1142
 02:26:56,640 --> 02:27:01,840
 ## down
 
-
+giù
 
 
 1143
 02:27:03,840 --> 02:27:15,840
 ## so
 
-
+allora
 
 
 1144
 02:27:20,080 --> 02:27:29,840
 ## so
 
-
+allora
 
 
 1145
@@ -58,14 +58,16 @@
 ## now not that any law could ever alleviate 
 ## the suffering and slaughter that you folks  
 
-
+Ora, non che una legge possa alleviare 
+la sofferenza e il massacro che voi ragazzi
 
 
 1146
 02:27:51,120 --> 02:27:56,399
 ## just witnessed but i want to read an excerpt to 
 ## everyone right now from the animal welfare act  
-
+avete appena visto, ma voglio leggere a tutti 
+un estratto adesso, dalla legge per la protezione degli animali
 
 
 
@@ -73,8 +75,9 @@
 02:27:56,399 --> 02:28:05,200
 ## of 1966 this is a pathetic piece of legislation 
 ## if and i say if if you can even call this a law  
-
-
+ del 1966. Un esempio patetico di legislazione 
+ se - e dico se- sempre se si possa definire questa una legge.
+ 
 
 
 1148
@@ -82,7 +85,8 @@
 ## because the animal welfare act states verbatim 
 ## that the term animal excludes birds rats  
 
-
+Perché la legge per la protezione degli animali dice testualmente
+che il termine animale esclude: uccelli, ratti,
 
 
 1149
@@ -90,14 +94,16 @@
 ## mice horses and other farm animals such as but not 
 ## limited to livestock and poultry and anything used  
 
-
+topi, cavalli e altri animali da allevamento come, ma 
+non limitato a bestiame e pollame; e niente che sia usato 
 
 
 1150
 02:28:22,240 --> 02:28:30,800
 ## or intended to be used as food or clothing it also 
 ## states that the term exhibitor excludes retail pet  
-
+o che si intenda usare come cibo o vestiario. Dice anche 
+che il termine "espositore" esclude: negozi di vendita di animali,
 
 
 
@@ -105,7 +111,8 @@
 02:28:30,800 --> 02:28:38,720
 ## stores organizations sponsoring state and county 
 ## fairs livestock shows rodeos purebred dog and cat  
-
+organizzazioni che sponsorizzano fiere nazionali o di provincia,
+esibizioni di bestiame, rodei, esibizioni di cani e gatti di razza
 
 
 
@@ -113,6 +120,8 @@
 02:28:38,720 --> 02:28:45,040
 ## shows and any fair or exhibition intended 
 ## to advance agricultural arts and sciences  
+e qualsiasi fiera o esibizione concepite per 
+far progredire arti e scienze agrarie.
 
 
 
@@ -121,7 +130,8 @@
 02:28:45,840 --> 02:28:51,040
 ## that's some law they've laid out for the animals 
 ## but even if this animal welfare act decided to  
-
+Questa è una legge che hanno fatto per gli animali! 
+Ma anche se la legge per la protezione degli animali decidesse di 
 
 
 
@@ -129,7 +139,8 @@
 02:28:51,040 --> 02:28:55,439
 ## include all of the animals you just heard 
 ## it leaves out i want to be clear about this  
-
+includere tutti gli animali che avete appena sentito
+venir omessi, voglio esser chiara su questo, 
 
 
 
@@ -137,15 +148,16 @@
 02:28:56,000 --> 02:29:03,600
 ## there is no peaceful compassionate way to shoot an 
 ## animal between their eyes or slice their throats  
-
-
+non esiste un modo pacifico o compassionevole di sparare un
+animale in mezzo agli occhi o di tagliargli la gola. 
 
 
 1156
 02:29:03,600 --> 02:29:10,160
 ## it is the taking of an animal's life that is the 
 ## ultimate violation all of the mutilations that  
-
+É il prendere la vita di un animale, questa è  
+l'estrema violazione. Tutte le mutilazioni che 
 
 
 
@@ -153,7 +165,8 @@
 02:29:10,160 --> 02:29:15,680
 ## happen to these animals along the way which we're 
 ## going to discuss in a moment only serve to prove  
-
+subiscono questi animali strada facendo, ne parleremo
+fra un attimo, servono solo a provare 
 
 
 
@@ -161,7 +174,8 @@
 02:29:15,680 --> 02:29:21,439
 ## that animals have been reduced to objects they 
 ## are mere commodities that have to meet certain  
-
+che gli animali sono stati ridotti ad oggetti. Sono 
+meri prodotti che devono soddisfare determinate 
 
 
 
@@ -169,7 +183,8 @@
 02:29:21,439 --> 02:29:28,319
 ## specifications in order to maximize profits and 
 ## during this speech when we say the word farm we  
-
+specifiche per poter massimizzare i profitti. E
+durante questo discorso, quando diremo la parola "allevamento", 
 
 
 
@@ -177,7 +192,8 @@
 02:29:28,319 --> 02:29:34,960
 ## are not just speaking about factory farms we are 
 ## talking about all farms factory free range organic  
-
+non faremo riferimento agli allevamenti industriali, 
+parliamo di tutti gli allevamenti: all'aperto, organici
 
 
 
@@ -185,14 +201,16 @@
 02:29:34,960 --> 02:29:43,280
 ## and mom-and-pop farms because all farms that raise 
 ## animals for food kill animals for food so all we  
-
-
+e allevamenti a conduzione familiare, perche tutti gli allevamenti che crescono degli
+animali per farne cibo, li uccidono per farne cibo. Quindi, tutto
 
 
 1162
 02:29:43,280 --> 02:29:48,080
 ## ask from here on out is that you folks give us 
 ## an open mind and truly hear what we're about to  
+ciò che chiediamo da qui in poi, è di avere una
+mentalità aperta e di ascoltare davvero cosa vi stiamo per 
 
 
 
@@ -201,7 +219,8 @@
 02:29:48,080 --> 02:29:55,920
 ## tell you now each year in the us we kill about 10 
 ## billion land animals and 18 billion marine animals  
-
+dire. Ogni anno in America, uccidamo circa 10 
+miliardi di animali di terra e 18 miliardi di animali marini, 
 
 
 
@@ -209,7 +228,8 @@
 02:29:55,920 --> 02:30:03,439
 ## because people have acquired a taste for meat 
 ## and i stress acquired a taste for meat worldwide  
-
+perché la gente ha sviluppato un certo gusto per la carne.
+E sottolineo - sviluppato- un certo gusto per la carne. In tutto il mondo, 
 
 
 
