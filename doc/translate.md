@@ -295,15 +295,57 @@ Translate e non ascoltando il video.
 * iniziare ad **abbozzare** punteggiatura, traduzione, e ad evidenziare
   *dubbi*;
 
-* non esitare a **domandare/condividere eventuali dubbi** nella chat "AV:
-  Traduttori e Revisori".  Alcuni suggerimenti su come farlo sono forniti
+* non esitare a **domandare/condividere eventuali dubbi che possono
+  essere di utilità per altre/i** nella chat "AV: Traduttori e
+  Revisori".  Alcuni suggerimenti su come farlo sono forniti
   [qui](help.md);
+
+* se necessario, su cose specifiche/circoscritte al singolo pezzo (eg
+  non cose che possono essere utili anche ad altre/i, le quali sono
+  da condividere in chat) si può lasciare un commento al revisore come
+  segue:
+	  
+	  ```
+	  3
+	  00:00:33,000 --> 00:00:49,000
+	  ## Linea 1 in inglese
+	  ## Linea 2 in inglese
+	  Testo tradotto
+	  testo tradotto
+	  ## Commento per i revisori
+	  ## commento per i revisori
+
+  
+	  4
+	  ...
+	  ```
+	  
+	  Da notare che il commento va dopo *2 cancelletti*, come *ultima linea*
+	  e assicurandosi che dopo vi sia sempre **almeno una linea vuota di
+	  separazione**.
+
 
 * una volta che abbiamo una idea compiuta della traduzione da
   effettuare *nella sua interezza* e abbiamo risolto eventuali dubbi,
-  possiamo **procedere alla modifica** dei file.
+  possiamo **procedere alla modifica** dei file;
+  
+* se infine vi sono sub da creare ex novo (es audio completamente
+  mancato dal text to speech oppure scritte a video da tradurre)
+  aggiungere nel file `zz_UNSUBBED` (nella stessa cartella
+  degli altri file del progetto, in fondo) indicando momento di inizio
+  (anche i secondi), testo inglese, traduzione italiana, come segue:
 
+	  ```
+	  00:00:33
+	  ## Testo inglese
+	  Testo tradotto in italiano
 
+	  ...
+	  ```
+
+	Tenere una linea di separazione tra i sub mancanti e porre/mantenere
+	in ordine temporale.
+	
 ## Guidelines leggibilità per traduttori
 
 Il file ricevuto è prodotto da un computer/software, ed è ancora "grezzo";
