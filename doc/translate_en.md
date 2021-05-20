@@ -2,21 +2,20 @@
 
 This is a quick/courtesy english translation of the instructions available [here](translate.md)
 
-Resources | Link
--------- |: ----:
-Mandatory | [[Language Guidelines]](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
+Resources   | Link
+----------- |: ----:
+Mandatory   | [[Language Guidelines]](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
 Recommended | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
 ## Setup
 
 In order to contribute to the translation, after reading the
- [linguistic guidelines ]
- (https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
+ [linguistic guidelines](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
  you need to:
 
 1. create (for free) an account on
-   [GitHub] (https://www.github.com) ("Sign Up" and follow the procedure
+   [GitHub](https://www.github.com) ("Sign Up" and follow the procedure
    up to verify the email);
    
 2. tell me your GitHub username for authentication  [enable](../data/users.csv).
@@ -171,7 +170,7 @@ To work on translations:
    Then click on the name of the file that has been assigned to us
    (`subs_012000_lbraglia.srt` in the example);
 
-   ! [subs file_select] (../ img / subs_file_select.png)
+   ![subs file_select](../ img / subs_file_select.png)
 
 6. now **view the work to be done as a whole**, following [the instructions below](https://github.com/lbraglia/av_it_subs/blob/main/doc/translate.md#il-workflow-da-adottare);
 
