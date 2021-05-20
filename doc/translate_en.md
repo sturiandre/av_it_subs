@@ -168,7 +168,7 @@ To work on translations:
 
    ![subs file_select](../img/subs_file_select.png)
 
-6. now **view the work to be done as a whole**, following [the instructions below](https://github.com/lbraglia/av_it_subs/blob/main/doc/translate.md#il-workflow-da-adottare);
+6. now **view the work to be done as a whole**, following [the instructions below](https://github.com/lbraglia/av_it_subs/blob/main/doc/translate.md#the-workflow-to-adopt);
 
 7. **once the full translation is clear**, you can click on the pencil
    button to edit the file (the one to the right of the `Raw` and`
