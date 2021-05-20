@@ -4,8 +4,8 @@ This is a quick/courtesy english translation of the instructions available [here
 
 Resources | Link
 -------- |: ----:
-Mandatory | [[Language Guidelines]] (https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
-Recommended | [[Telegram Web]] (https://web.telegram.org), [[Telegram Desktop]] (https://desktop.telegram.org/)
+Mandatory | [[Language Guidelines]](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
+Recommended | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
 ## Setup
@@ -33,9 +33,9 @@ In order to contribute to the translation, after reading the
 
 3. to request the assignment of a chunk of subtitles, post:
    
-```
-@lucailgarb #translate
-```
+   ```
+   @lucailgarb #translate
+   ```
 
 
 ## The file we work on for the translation
@@ -92,7 +92,7 @@ To allow linguistical **revision** , the translators work on a
 *slightly different* file, which includes both the original and the
 translated version. An excerpt / example of the file you will get:
 
-``
+```
 3
 00: 00: 33,000 -> 00: 00: 49,000
 ## Newborn separation
@@ -105,7 +105,7 @@ translated version. An excerpt / example of the file you will get:
 
 
 
-``
+```
 
 What you will need to do is the following:
 * leave **all unchanged**;
@@ -113,7 +113,7 @@ What you will need to do is the following:
 * **leave at least one line of space** at the end.
 
 As follows:
-``
+```
 3
 00: 00: 33,000 -> 00: 00: 49,000
 ## Newborn separation
@@ -128,7 +128,7 @@ Questa è pratica standard
 
 
 
-``
+```
 
 
 ## The step-by-step process
@@ -137,9 +137,9 @@ To work on translations:
 
 0. in the Telegram group "AV: Traduzioni and Sub YouTube" post:
 
-	``
+	```
 	@lucailgarb #translate
-	``
+	```
 	To request the assignment of a file to be translated.
 	A message will be replied (as soon as possible) with the location of the
 	file, something like:
@@ -312,13 +312,13 @@ sure there is always **at least one blank line of after separation**.
   the other files of the project, at the bottom) indicating the start
   time, English text, Italian translation, as follows:
 
-	``
+	```
 	00:00:33
 	## English text
 	Text translated into Italian
 
 	...
-	``
+	```
 
 	Keep a dividing line between missing subs and place / keep
 	in chronological order.
@@ -338,9 +338,9 @@ Significance | Omit things like "um" "ah", omit repetitions "Thank you, thank yo
 Sounds / Music | Describe *relevant* sounds/music, eg "(Creaking door)" or "(Creepy music)"
 Inaudible | If you don't hear/understand and *it would seem relevant* put "[Inaudible]"
 Dialogues | When two people speak in the same sub, each should have one line per sentence, starting with a hyphen.  Do place on several lines; then, if too many, the sub will later be split in such a way that it remains legible. For example ...
-``
+```
 - Have you ever seen such images?
 - No honestly, never like that.
 - Ok, know that this is standard practice.
 - Ah.
-``
+```
