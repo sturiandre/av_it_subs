@@ -2,10 +2,9 @@
 
 This is a quick/courtesy english translation of the instructions available [here](translate.md)
 
-Resources   | Link
------------ |: ----:
-Mandatory   | [[Language Guidelines]](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
-Recommended | [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
+Resources:
+Mandatory: [[Language Guidelines]](https://drive.google.com/file/d/1GuYx3r637srhyxY2QYfKYO9Jbka-_gKd/view?usp=sharing)
+Recommended: [[Telegram Web]](https://web.telegram.org), [[Telegram Desktop]](https://desktop.telegram.org/)
 
 
 ## Setup
