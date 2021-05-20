@@ -22,11 +22,11 @@ you need to:
 1. create (for free) an account on [GitHub](https://www.github.com)
    ("Sign Up" and follow the procedure up to verify the email);
    
-2. tell me the GitHub username
+2. tell me the GitHub username for
    [authentication](../data/users.csv).
 
 	A test file name will be answered: review and submit
-	the revision, * as illustrated * in the procedure set out for
+	the revision, *as illustrated* in the procedure set out for
 	[translators](translate.md).
 
 	Once done, if you feel reasonably comfortable with it
@@ -76,7 +76,7 @@ translators. To materially carry out the linguistic revision:
 		...
 	```
 
-	Note that the comment goes after * 2 hashs *, as * last line *
+	Note that the comment goes after *2 hashs*, as *last line*
 	and making sure there is always **at least one blank line of after
 	separation**.
 
@@ -232,12 +232,12 @@ below](revise.md # editing-con-aegisub);
     file (as you prefer, Telegram or lbraglia@gmail.com) for
     archiving and production of the overall `srt`.
 
-15. * repeat * from 1.
+15. *repeat* from 1.
 
 
 ### Editing with Aegisub
 
-A minimal * workflow *:
+A minimal *workflow*:
 1. click on the first line (sub);
 2. press `r` to play the sub audio;
 3. check the translation and fix it if necessary by editing
@@ -252,7 +252,7 @@ referred to below.
 
    Avoid modifying:
    * formatting (eg do not add bolds etc, for compatibility);
-   * * timing * of subtitles.
+   * *timing* of subtitles.
 
    If necessary break lines insert / move `\ N` (obtainable
    also, in the edit box B, using `Shift + Enter`);
@@ -260,7 +260,7 @@ referred to below.
 4. if you have made any changes, save with `Ctrl + S`;
 5. move to the next subtitle by clicking the respective line col
    left mouse button;
-6. * repeat * from 2;
+6. *repeat* from 2;
 7. Once all the subtitles have been edited, you can check them
    overall by double clicking on the first sub and commanding
    `Ctrl + P` to play the video with revised subtitles.
