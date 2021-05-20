@@ -114,7 +114,7 @@ To be able to review the readability of sub it is necessary:
    subtitles we are working on: the link is on the [page
    main](../ README.md), for example (for hnva2) here:
 
-! [video-original-download](../img/video_original_download.png)
+	![video-original-download](../img/video_original_download.png)
 
 4. periodically (when available) in the Telegram group "AV:
    Translations and Sub YouTube "will be notified of the availability of files
@@ -161,11 +161,11 @@ To work on reviews:
 
 3. Then click on the `subs` folder
 
-   ! [subs dir](../img/subs_dir.png)
+   ![subs dir](../img/subs_dir.png)
 
 4. click on the video folder (`hnva2` in the example)
 
-	! [hnva2 dir](../img/hnva2_dir.png)
+	![hnva2 dir](../img/hnva2_dir.png)
 
 5. at this point it is better **to save this page in
    favorites** (for easy access to upcoming sessions)
@@ -175,11 +175,11 @@ To work on reviews:
    Then click on the name of the file that has been assigned to us
    (`revs_000000_002500_lbraglia.srt` in the example);
 
-   ! [subs file_select](../img/revs_file_select.png)
+   ![subs file_select](../img/revs_file_select.png)
 
 6. Click on `Raw` to get the file;
 
-   ! [subs file_select](../img/revs_raw.png)
+   ![subs file_select](../img/revs_raw.png)
 
 7. Now to download the file:
 
@@ -189,16 +189,16 @@ To work on reviews:
 Then **delete** any `.txt` extensions if proposed by your browser (while the" Save as "is irrelevant)
 
 
-   ! [subs file_select](../img/firefox_chrome_rightclick.png)
+   ![subs file_select](../img/firefox_chrome_rightclick.png)
 
 
-   ! [subs file_select](../img/firefox_chrome_filesave.png)
+   ![subs file_select](../img/firefox_chrome_filesave.png)
 
 
 8. At this point we should have both the video and the subs to edit
    in a suitable folder (or on the Desktop):
 
-   ! [hnva2_folder](../img/hnva2_folder.png)
+   ![hnva2_folder](../img/hnva2_folder.png)
 
 9. Double click on the `.srt` file to make Aegisub do it
     start editing.
@@ -208,19 +208,19 @@ character set "choose` UTF-8`.
 
 We arrive at a similar screen:
 
-   ! [double_click](../img/double_click_sub.png)
+   ![double_click](../img/double_click_sub.png)
 
 10. To upload the video click `Video -> Open video`, then
 select it:
 
-   ! [open_video](../img/open_video.png)
+   ![open_video](../img/open_video.png)
 
 11. once the file has been imported we are in a situation of
 generally, where maximizing the window at all is recommended
 screen, set A to 100% and you can edit the subtitles
 in box B
 
-   ! [post_import](../img/post_import.png)
+   ![post_import](../img/post_import.png)
 
 12. start checking / editing as recommended [more
 below](revise.md # editing-con-aegisub);
@@ -281,4 +281,4 @@ CPS | max 30 chars / sec (`C` in the figure below)
 A for number of lines, B for line length (maximum) and C the CPS for the sub
 considered (the second).
 
-! [stat_leggibilita_aegisub](../img/stat_leggibilita_aegisub.png)
+![stat_leggibilita_aegisub](../img/stat_leggibilita_aegisub.png)
