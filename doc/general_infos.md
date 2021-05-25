@@ -58,7 +58,10 @@ admitted to the telegram groups involving language localization.
 
 Once added to the groups all the partecipants have links to the
 relevant doc: courtesy/quick translations of the italian manuals are
-[here](https://github.com/lbraglia/av_it_subs/doc/translate_en.md),
+[here](https://github.com/lbraglia/av_it_subs/blob/main/doc/translate_en.md),
 for translators, and
-[here](https://github.com/lbraglia/av_it_subs/doc/revise_en.md) for
+[here](https://github.com/lbraglia/av_it_subs/blob/main/doc/revise_en.md) for
 revisors.
+
+
+
