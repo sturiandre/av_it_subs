@@ -21,9 +21,9 @@ We use Telegram for subs (translation/revision) allocation, progress
 monitoring and so on.
 
 ## Profiles and translator selection
-The team is currently composed of three type of figures:
+The team is currently composed by three type of figures:
 
-- 10+ translator: linguistic skills, intermediate computer skills (browser)
+- 10+ translator: linguistic skills, basic computer skills (browser)
 - three revisors: linguistic skills, intermediate computer skills (browser, editing srt with ad hoc software)
 - one repository admin: some programming skills
 
@@ -37,13 +37,13 @@ Hear ye, hear ye!!!
 
 Would you like to contribute to translations for AV materials?
 
-We are looking for translators for our team
+We are looking for translators for our team!
 
 No formal certificates in linguistic studies are needed (a quick translation test 
 will be asked), only just some computer skills (using a browser). 
 We'll use Telegram for communication
 
-If you're interested send your application following the instructions reported below
+If you're interested, send your application following the instructions reported below
 
 [Link to a google drive doc with which short video to translate and e-mail address for submission]
   
@@ -57,11 +57,11 @@ admitted to the telegram groups involving language localization.
 ## Attachments
 
 Once added to the groups all the partecipants have links to the
-relevant doc: courtesy/quick translations of the italian manuals are
-[here](https://github.com/lbraglia/av_it_subs/blob/main/doc/translate_en.md),
-for translators, and
-[here](https://github.com/lbraglia/av_it_subs/blob/main/doc/revise_en.md) for
-revisors.
+relevant doc: a translation of the italian manuals are
+[here](https://github.com/lbraglia/av_it_subs/blob/main/doc/translate_en.md)
+(for translators) and
+[here](https://github.com/lbraglia/av_it_subs/blob/main/doc/revise_en.md)
+(for revisors).
 
 
 

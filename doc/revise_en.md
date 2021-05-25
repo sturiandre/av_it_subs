@@ -181,17 +181,17 @@ Then **delete** any `.txt` extensions if proposed by your browser (while the" Sa
 
 	We arrive at a similar screen:
 
-   ![double_click](../img/double_click_sub.png)
+   ![doppio_click](../img/doppio_click_sub.png)
 
 10. To load the video click `Video -> Open video`, then select it:
 
-   ![open_video](../img/open_video.png)
+   ![apri_video](../img/apri_video.png)
 
 11. once the file has been imported you can tweek the visual setup
 	(maximizing the window, set A to 100%), then you can edit the
 	subtitles in box B
 
-   ![post_import](../img/post_import.png)
+   ![post_importazione](../img/post_importazione.png)
 
 12. start checking / editing as recommended [more below](revise.md#editing-with-aegisub);
 
