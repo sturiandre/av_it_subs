@@ -63,5 +63,21 @@ relevant doc: a translation of the italian manuals are
 [here](https://github.com/lbraglia/av_it_subs/blob/main/doc/revise_en.md)
 (for revisors).
 
+## Other strategies
 
+We start from the YT english speech-to-text generated subs; our
+translators read the subs, listen to the video and then translate from
+"machine english" to current italian. For long videos, a team is
+needed since it's quite an heavy workload.
 
+Otherwise YT sometime (not always) give the automatic
+translated/generated subs (eg currently are unfortunately not
+available for Gary's mix, because no subs are available at all as
+source probably).
+BTW, FYI, once uploaded the italian version, automatic generated subs
+in your language should be available for sure (`Settings -> Subtitles
+-> Automatic translation`): you may be interested in downloading (eg
+using [downsub](www.downsub.com) by giving the YT url of the video,
+and selecting say "Italian" from Auto-translate from) and editing them
+(say with Aegisub or another `srt` editor). This should hopefully
+speed up the process.
