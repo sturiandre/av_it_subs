@@ -61,7 +61,7 @@ bovini della crescita e tutte le modificazioni
 ## engineering that's been done to a cow's body 
 ## to make sure she produces huge amounts of milk  
 genetiche che son state fatte al corpo della mucca 
-per assicursarsi che produca enormi quantità di latte,
+per assicurarsi che produca enormi quantità di latte,
 
 
 
@@ -86,7 +86,7 @@ E sì, il latte è pastorizzato, ma esattamente quand'è
 ## did pasteurization become a removal process 
 ## last time i checked it was a sanitation process  
 che la pastorizzazione è diventato un processo di rimozione?
-L'ultima volta che ho controllato era un processo di igenizzazione,
+L'ultima volta che ho controllato era un processo di igienizzazione,
 
 
 1018
@@ -94,14 +94,14 @@ L'ultima volta che ho controllato era un processo di igenizzazione,
 ## meaning you're only sanitizing pus and if you 
 ## want to look this up online well you don't think  
 il che significa che stai solo igienizzando pus. E se 
-volete dare un'occhiata online, non pensiate mica che 
+volete dare un'occhiata online, non penserete mica che 
 
 
 1019
 02:11:06,320 --> 02:11:12,560
 ## the dairy industry would ever use the word pus 
 ## when they write about this problem in their own  
-l'industria del latte userebbe mai la parola pus 
+l'industria del latte possa mai usare la parola pus 
 quando scrive di questo problema nelle loro  
 
 
@@ -247,7 +247,7 @@ vi pare. Vi verrà ancora voglia di mangiarlo?
 ## and that's your own [ __ ] that's your waste now 
 ## you're talking about a hand that you don't even  
 E quella è la vostra [___], defezioni vostre. Ora
-mi dite di una mano che non conoscete nemmeno!
+mi dite di una mano che non conoscete nemmeno,
 
 1037
 02:12:55,840 --> 02:13:03,280
@@ -271,7 +271,7 @@ No, nessuno comprerebbe del vomito a meno che
 02:13:08,720 --> 02:13:15,680
 ## call it honey instead honey comes directly from 
 ## a bee's stomach it's regurgitated right through  
-non venga chiamato miele. Il miele, arriva direttamente dallo
+non venisse chiamato miele. Il miele, arriva direttamente dallo
 stomaco dell'ape. Viene rigurgitato direttamente dalla
 
 
