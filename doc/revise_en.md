@@ -90,7 +90,7 @@ To be able to review the readability of sub it is necessary:
    checked your clip.
    
 2. as a test, send me (Telegram or to lbraglia@gmail.com) a corrected version the file
-   [`subs/sandbox/template_revisori2.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/template_revisori2.srt)
+   [`subs/sandbox/template_rev2.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/template_rev2.srt)
    (as explained below) which is based on [this
    video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing)
    (to be downloaded);

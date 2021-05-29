@@ -110,7 +110,7 @@ Per poter revisionare la leggibilità di sub occorre:
 
 2. per abilitazione alle richieste di revisione, correggere e inviarmi
    (Telegram o a lbraglia@gmail.com) il file di prova
-   [`subs/sandbox/template_revisori2.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/template_revisori2.srt)
+   [`subs/sandbox/template_rev2.srt`](https://raw.githubusercontent.com/lbraglia/av_it_subs/main/subs/sandbox/template_rev2.srt)
    (come spiegato in seguito) che è basato sul [questo
    video](https://drive.google.com/file/d/1sCzIOzn6hRy0mvu3zgorERCDX_3IwRH0/view?usp=sharing)
    (da scaricare);
