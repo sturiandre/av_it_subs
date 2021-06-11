@@ -280,7 +280,6 @@ ci darete un'ora di apertura mentale a partire da adesso?
 1135
 02:23:38,319 --> 02:23:45,840
 ## uh
-
 uh
 
 
@@ -289,14 +288,13 @@ uh
 1136
 02:24:06,960 --> 02:24:13,840
 ## so
- allora
+allora
 
 
 
 1137
 02:24:33,120 --> 02:24:41,840
 ## um
-
 uhm 
 
 
