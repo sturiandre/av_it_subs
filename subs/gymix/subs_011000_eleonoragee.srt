@@ -211,7 +211,7 @@ negozio di animali; adottate il vostro prossimo cane o gatto
 01:12:29,600 --> 01:12:36,080
 ## city shelter financial assistance is available 
 ## please go to this website or call us today  
-dal canile della vostra città. É disponibile assistenza finanziaria.
+dal canile della vostra città. È disponibile assistenza finanziaria.
 Andate sul sito o chiamateci oggi! 
 
 
