@@ -6,7 +6,7 @@ Attualmente stiamo lavorando a...
 
 id   | Originale | Per traduzione | Per revisione 
 :---:|:---------:|:--------------:|:-------------:
-gymix| [[YT]]( https://youtu.be/3gLOVtbG6QI) [[Download]](https://drive.google.com/file/d/1yvIIdbMMIickTUKoKgK2hd8Csz-h5Mzo/view?usp=sharing)| [[Video]](https://youtu.be/lw53nODhRXU ) | [[Video]] 
+gymix| [[YT]]( https://youtu.be/3gLOVtbG6QI) [[Download]](https://drive.google.com/file/d/1yvIIdbMMIickTUKoKgK2hd8Csz-h5Mzo/view)| [[Video]](https://youtu.be/lw53nODhRXU ) | [[Video]] 
 
 <!-- arav| [[YT]]( https://youtu.be/vQe-AGDKyzU) [[Download]](https://drive.google.com/file/d/1NedY0rt7InWwdmg7p8F0K1ilRjTAHHUE/view?usp=sharing)| [[Video]](https://youtu.be/ZTlx0I4qDoo) | [Video]  -->
 
