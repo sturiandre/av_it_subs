@@ -165,7 +165,7 @@ Per lavorare alle traduzioni:
 
 1. da **computer**, effettuare il login su [GitHub](https://www.github.com);
 
-2. aprire [questa](https://github.com/lbraglia/av_it_subs) pagina, dove sono
+2. aprire [questa](https://github.com/av-italia/subs) pagina, dove sono
    conservate le traduzioni;
 
 3. cliccare quindi sulla cartella `subs`
@@ -187,7 +187,7 @@ Per lavorare alle traduzioni:
    ![subs file_select](../img/subs_file_select.png)
 
 6. ora **visionare il lavoro da fare nel suo complesso**, seguendo [le
-   istruzioni riportate qui sotto](https://github.com/lbraglia/av_it_subs/blob/main/doc/translate.md#il-workflow-da-adottare);
+   istruzioni riportate qui sotto](https://github.com/av-italia/subs/blob/main/doc/translate.md#il-workflow-da-adottare);
 
 7. **una volta chiara la traduzione da effettuare nel suo complesso**,
    puoi cliccare sul pulsante matita per procedere alla modifica del
