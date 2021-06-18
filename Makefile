@@ -12,7 +12,7 @@ RM = rm -rf
 
 # Default project infos
 # PRJ     = test
-PRJ     = gymix
+PRJ     = arav
 # YT_ID   = lw53nODhRXU
 #lunghezza chunks di sottotitoli per splitting in minuti
 CHUNKS_LEN_MINS = 5
